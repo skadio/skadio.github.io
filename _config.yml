@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Serdar Kadioglu"
+title                    : "Serdar Kadıoğlu"
 title_separator          : "-"
-name                     : &name "Serdar Kadioglu"
+name                     : &name "Serdar Kadıoğlu"
 description              : &description "Homepage"
 url                      : https://skadio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Serdar Kadioglu"
+  name             : "Serdar Kadıoğlu"
   avatar           : "skadio.jpg"
-  bio              : "serdark [at] cs.brown.edu <br> <br> Vice President, Fidelity Investments<br> Adjunct Professor, Brown University"
-  location         : "Boston"
-  employer         : Fidelity Investments
+  bio              : "serdark [at] cs.brown.edu <br> <br> Vice President, Fidelity<br> Adjunct Professor, Brown"
+  location         : "Boston, USA"
+  employer         : "Fidelity Investments"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   dblp             : "https://dblp.org/pid/35/5878.html"
   googlescholar    : "https://scholar.google.com/citations?user=tOgYtHkAAAAJ"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/serdark/"
+  linkedin         : "serdark/"
   orcid            : "https://orcid.org/0000-0002-4672-6830"
   pinterest        :
   soundcloud       :
