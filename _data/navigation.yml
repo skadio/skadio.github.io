@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Events"
+    url: /events/
+
+  - title: "Service" 
+    url: /service/
+    
+  - title: "Software" 
+    url: /software/
+   
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Resources"
+    url: /resources/  
+    
+  # - title: "Portfolio"
+  # url: /portfolio/
+        
+  # - title: "Blog Posts"
+  # url: /year-archive/
+    
+  # - title: "CV"
+  # url: /cv/
+    
+  # - title: "Guide"
+  # url: /markdown/
