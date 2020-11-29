@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /software/
+title: "Software"
 layout: archive
 author_profile: true
 ---

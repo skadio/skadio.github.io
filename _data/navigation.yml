@@ -3,18 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Events"
-    url: /events/
+  - title: "Talks"
+    url: /Talks/
 
   - title: "Service" 
     url: /service/
-    
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Software" 
     url: /software/
-   
-  - title: "Teaching"
-    url: /teaching/    
-    
+
   - title: "Resources"
     url: /resources/  
     

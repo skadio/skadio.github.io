@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   dblp             : "https://dblp.org/pid/35/5878.html"
   googlescholar    : "https://scholar.google.com/citations?user=tOgYtHkAAAAJ"
-  email            :
+  email            : serdark@cs.brown.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
