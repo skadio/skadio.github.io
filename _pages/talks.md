@@ -5,6 +5,12 @@ layout: archive
 author_profile: true
 ---
 
+
+
+### 2020 
+
+---
+
 * **[Dagstuhl’20]** [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20421), Dagstuhl Seminars, October 2020, Schloss Dagstuhl, Germany (cancelled due to COVID), `Invited Researcher`
 
   
@@ -15,7 +21,9 @@ author_profile: true
 
 * **[Istanbul Tech Week’20]** [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), November 2020, Online, (in Turkish), `Invited Panelist`
 
-  
+### 2019
+
+---
 
 * **[ICLP’19]** [Constraint Programming for Resource Management](https://www.cs.nmsu.edu/ALP/iclp2019/tutorials.html#cprm), [The 35th International Conference on Logic Programming, ICLP 2019](https://www.cs.nmsu.edu/ALP/iclp2019/index.html), September 2019, New Mexico, USA, `Invited Tutorial`
 
@@ -27,10 +35,15 @@ author_profile: true
 
 * **[ECMF’19]** [Bayesian Deep Learning Based Exploration-Exploitation for Personalized Recommendations](https://sites.google.com/view/ecmf4/program), [4th Eastern Conference on Mathematical Finance](https://sites.google.com/view/ecmf4/home), October 2019, Boston, USA, `Conference Talk`
 
-
+  
 
 * **[BenSum’19]** [Machine Learning & the Future of Customer Engagement](https://fidelitystockplansummit.com/), Fidelity Plan Sponsors Benefit Summit, May 2019, Scottsdale, USA, `Invited Speaker`
 
+
+
+### **2018**
+
+---
 
 * **[Dagstuhl’18]** [Planning and Operations Research](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18071), Dagstuhl Seminars, February 2018, Schloss Dagstuhl, Germany, `Invited Researcher`
 

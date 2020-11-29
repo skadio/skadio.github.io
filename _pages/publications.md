@@ -7,10 +7,7 @@ author_profile: true
 
 ---
 
-* <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a> 
-
-
-* [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en)
+<a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en)
 
 
 ## Machine Learning – Algorithm **Configuration** – Portfolios
@@ -50,8 +47,7 @@ author_profile: true
 * [Feature Selection for Speaker Traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen, `Interspeech 2012` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
 
 
-* [Algorithm Selection and Scheduling](http://www.springerlink.com/content/v8mg1p4375646226/), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software)\
-**<span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>**
+* [Algorithm Selection and Scheduling](http://www.springerlink.com/content/v8mg1p4375646226/), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) **<span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>**
 
 
 * [ISAC - Instance-Specific Algorithm Configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence, `ECAI 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
@@ -110,12 +106,10 @@ author_profile: true
 * [A Local Search Meta-Heuristic for Non-Specialists](http://www.computational-sustainability.org/crocs09/papers/kadioglu-crocs09.pdf), Serdar Kadioglu, Meinolf Sellmann, Constraint Reasoning and Optimization for Computational Sustainability, `CROCS 2009` [[bibtex]](https://scholar.googleusercontent.com/citations?view_op=export_citations&user=tOgYtHkAAAAJ&s=tOgYtHkAAAAJ:UeHWp8X0CEIC&citsig=AMstHGQAAAAAWAk8WmI6V5Rczo_KCQHRd3ICDHpfdscW&hl=en&cit_fmt=0)
 
 
-* [Dichotomic Search Protocols for Constrained Optimization](http://www.springerlink.com/content/f4745272hh656804/), Meinolf Sellmann, Serdar Kadioglu, Constraint Programming, `CP 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SellmannK08)\
-**<span style="color:green">Nominated for the Best Paper Award</span>.**
+* [Dichotomic Search Protocols for Constrained Optimization](http://www.springerlink.com/content/f4745272hh656804/), Meinolf Sellmann, Serdar Kadioglu, Constraint Programming, `CP 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SellmannK08) **<span style="color:green">Nominated for the Best Paper Award</span>.**
 
 ## Theses
-* [Efficient Search Procedures for Solving Combinatorial Problems](http://www.cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf), PhD thesis, Department of Computer Science, Brown University 2012\
-**<span style="color:green">Awarded the 2010 Ph.D. Scholarship by IBM</span>.**
+* [Efficient Search Procedures for Solving Combinatorial Problems](http://www.cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf), PhD thesis, Department of Computer Science, Brown University 2012 **<span style="color:green">Awarded the 2010 Ph.D. Scholarship by IBM</span>.**
 
 
 * [Grammar Constraints Combining Expressiveness with Efficiency](http://www.cs.brown.edu/research/pubs/theses/masters/2009/kadioglu.pdf), M.Sc. thesis, Department of Computer Science, Brown University 2009
