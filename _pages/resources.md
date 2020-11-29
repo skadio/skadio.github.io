@@ -48,17 +48,15 @@ Conferences by [location](http://gradutrip.com/) --thank to [Alex Beutel @ Googl
 
 ### LaTeX Turkish characters 
 
-| Character | LaTeX |
-| :-------: | :---: |
-| ı | {\i}  |
-| ö | \"{o} |
-| ü | \"{u} |
-| ç | \c{c} |
-| ğ | \u{g} |
-| ş | \c{s} |
-| İ | \.{I} |
-| Ö | \"{O} |
-| Ü | \"{U} |
-| Ç | \c{C} |
-| Ğ | \u{G} |
-| Ş | \c{S} |
+* ı \| {\i}  
+* ö \| \"{o} 
+* ü \| \"{u} 
+* ç \| \c{c} 
+* ğ \| \u{g} 
+* ş \| \c{s} 
+* İ \| \.{I} 
+* Ö \| \"{O} 
+* Ü \| \"{U} 
+* Ç \| \c{C} 
+* Ğ \| \u{G} 
+* Ş \| \c{S} 
