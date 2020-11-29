@@ -5,42 +5,64 @@ layout: archive
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">Google Scholar</a> or <u><a href="{{author.dblp}}">DBLP</a>.</u>
+#### Constraint Technology and Optimization
+
+Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/). 
+See also these great MOOCs:
+
+* [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
+
+* [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
+
+---
+
+#### Turkish Text Correction 
+
+[Great website](http://www.deasciifier.com/) that fixes issues with Turkish characters in a given text. 
+
+---
+
+#### Best Papers in Computer Science
 
 
+Collections of best papers and most cited papers in computer science can be found [here ](http://jeffhuang.com/best_paper_awards.html)and [here](https://aminer.org/bestpaper).
 
-## [Paper Title Number 3](https://skadio.github.io/publication/2015-10-01-paper-title-number-3)
+---
 
-Published in *Journal 1*, 2015
+#### Programming Interview Questions
+
+Excellent list of technical [programming interview questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/) with detailed explanations – thanks to [Arden @ Netflix](http://www.ardendertat.com/)! 
+
+------
+
+#### Publish Optimally
+
+Conferences by [location](http://gradutrip.com/) --thank to [Alex Beutel @ Google](http://alexbeutel.com/)!
+
+------
+
+#### Classical Antiquity Travel
+
+[Archaeological atlas](http://vici.org/) of classical antiquity.
+
+---
+
+#### LaTeX Turkish characters 
+
+| Character | LaTeX |
+| :-------: | :---: |
+|     ı     | {\i}  |
+|     ö     | \"{o} |
+|     ü     | \"{u} |
+|     ç     | \c{c} |
+|     ğ     | \u{g} |
+|     ş     | \c{s} |
+|     İ     | \.{I} |
+|     Ö     | \"{O} |
+|     Ü     | \"{U} |
+|     Ç     | \c{C} |
+|     Ğ     | \u{G} |
+|     Ş     | \c{S} |
 
 
-
-This paper is about the number 3. The number 4 is left for future work.
-
-
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." *Journal 1*. 1(3). http://academicpages.github.io/files/paper3.pdf
-
-## [Paper Title Number 2](https://skadio.github.io/publication/2010-10-01-paper-title-number-2)
-
-Published in *Journal 1*, 2010
-
-
-
-This paper is about the number 2. The number 3 is left for future work.
-
-
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." *Journal 1*. 1(2). http://academicpages.github.io/files/paper2.pdf
-
-## [Paper Title Number 1](https://skadio.github.io/publication/2009-10-01-paper-title-number-1)
-
-Published in *Journal 1*, 2009
-
-
-
-This paper is about the number 1. The number 2 is left for future work.
-
-
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." *Journal 1*. 1(1). http://academicpages.github.io/files/paper1.pdf
+  
