@@ -1,6 +1,6 @@
 ---
 permalink: /software/
-title: "<i class="fa fa-code" aria-hidden="true"></> <i class="fa fa-code-fork" aria-hidden="true"></i> <i class="fa fa-terminal" aria-hidden="true"></i> Software"
+title: "Software" # <i class="fa fa-code" aria-hidden="true"></> <i class="fa fa-code-fork" aria-hidden="true"></i> <i class="fa fa-terminal" aria-hidden="true"></i> 
 layout: archive
 author_profile: true
 ---

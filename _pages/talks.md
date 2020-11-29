@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "<i class="fa fa-calendar" aria-hidden="true"></i> Talks"
+title: "Talks" # "<i class="fa fa-calendar" aria-hidden="true"></i>
 layout: archive
 author_profile: true
 ---

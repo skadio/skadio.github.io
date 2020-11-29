@@ -1,7 +1,7 @@
 ---
 permalink: /service/
 layout: archive
-title: "<i class="fa fa-briefcase" aria-hidden="true"></i> <i class="fa fa-globe" aria-hidden="true"></i> Service"
+title: "Service" # <i class="fa fa-briefcase" aria-hidden="true"></i> <i class="fa fa-globe" aria-hidden="true"></i> 
 author_profile: true
 ---
 
