@@ -12,13 +12,15 @@ Hi! My name is Serdar; a computer scientist who currently serves as the Vice Pre
 
 My algorithmic research is at the intersection of Artificial Intelligence and Discrete Optimization, while my practical interests are in building robust, scalable, data-driven products that address business-critical problems. See [publications](https://skadio.github.io/publications/) and [software](https://skadio.github.io/software/).
 
-[Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf), and I frequently participate at the [programme committee](https://skadio.github.io/service/)of IJCAI, AAAI, ECAI among other research organizations.
+[Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf), and I frequently participate at the [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, and ECAI among other research organizations.
 
 ## Background
 
 ### @Fidelity
 
-Leading a team responsible of Personalization & Recommender Systems from ideation to productionization across Digital channels for customers over the web, mobile, and email as well as Distribution channels for associates over the regional centers and branches. More broadly, at an organizational level, I guide research publications for the AI Center of Excellence, lead open source projects for the firm (e.g., [MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Seq2Pat](https://github.com/fidelity/seq2pat)), organize company-wide Kaggle style machine learning competitions, help create an AI/ML focused college recruiting program and support students especially those from underrepresented groups through internships and co-ops.
+Leading a team responsible of Personalization & Recommender Systems from ideation to productionization across Digital channels for customers over the web, mobile, and email as well as Distribution channels for associates over the regional centers and branches. 
+
+More broadly, at an organizational level, I help guide the research agenda for Fidelity AI Center of Excellence, serve as a liaison between the engineering teams and business partners, lead the collaboration with external groups (Google, NVIDIA, Amazon, etc.) initiate open source projects for the firm ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), organize company-wide Kaggle style machine learning competitions, scale out the efforts on AI governance, interpretability, fairness, and bias mitigation at the enterprise level, help create college recruiting programs, coordinate hiring and mentor students, especially those from underrepresented groups, through internships and co-ops.
 
 ### @Oracle
 
