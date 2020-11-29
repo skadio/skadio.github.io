@@ -7,21 +7,21 @@ author_profile: true
 
 ## (Senior) Programme Committee
 
-- [[AAAI\] Association for the Advancement of Artificial Intelligence](https://www.aaai.org/), 2017, 2018, 2019, 2020, 2021
-- [[IJCAI\] International Joint Conference on Artificial Intelligence](http://ijcai.org/) 2011, 2013, 2015, 2016, 2019, 2020, 2021
-- [[ECAI\] European Conference on Artificial Intelligence](http://www.ecai2014.org/) 2014, 2016, 2020
-- [[ICAPS\] International Conference on Automated Planning and Scheduling](http://icaps18.icaps-conference.org/coplas/), 2018, 2020
-- [[CP\] International Conference on Principles and Practice of Constraint Programming](http://cp2013.a4cp.org/) 2012, 2013, 2014, 2015, 2017, 2018, 2020
-- [[CPAIOR\] International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming](http://4c.ucc.ie/cpaior2014//) 2013, 2014, 2017, 2018, 2019, 2020
+- [[AAAI] Association for the Advancement of Artificial Intelligence](https://www.aaai.org/), 2021, 2020, 2019, 2018, 2017
+- [[IJCAI] International Joint Conference on Artificial Intelligence](http://ijcai.org/) 2021, 2020, 2019, 2016, 2015, 2013, 2011
+- [[ECAI] European Conference on Artificial Intelligence](http://www.ecai2014.org/) 2020, 2016, 2014
+- [[ICAPS] International Conference on Automated Planning and Scheduling](http://icaps18.icaps-conference.org/coplas/) 2020, 2018
+- [[CP] International Conference on Principles and Practice of Constraint Programming](http://cp2013.a4cp.org/) 2020, 2018, 2017, 2015, 2014, 2013, 2012
+- [[CPAIOR] International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming](http://4c.ucc.ie/cpaior2014//) 2020, 2019, 2018,2017, 2014, 2013
 
 ## External Reviewer: 
 
-- Constraints'19, AAAI'08, JAIR'17, INFORMS'10'15, IJOR'14, AI Magazine'13, ECAI'13, CPAIOR'10, CP'08, 09 
+- Constraints'19, AAAI'08, JAIR'17, INFORMS'10'15, IJOR'14, AI Magazine'13, ECAI'13, CPAIOR'10, CP'08’09 
 
-## Community
+## Outreach
 
+- Sabanci University CS Committee External Partner, 2016 - present
 - Brown University Undergraduate Admission Interviews, 2013 - present
-- Sabanci University CS Committee External Partner, 2013 - present
 - Fidelity College Recruiting Programme, 2018 - present
 - Judge at the Brown [Data Science Hackathon, 2018](https://browndatathon.devpost.com/) 
 - Oracle College Recruiting Programme, 2011 - 2017

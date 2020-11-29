@@ -16,53 +16,50 @@ See also these great MOOCs:
 
 ---
 
-#### Turkish Text Correction 
+### Turkish Text Correction 
 
 [Great website](http://www.deasciifier.com/) that fixes issues with Turkish characters in a given text. 
 
 ---
 
-#### Best Papers in Computer Science
+### Best Papers in Computer Science
 
 
 Collections of best papers and most cited papers in computer science can be found [here ](http://jeffhuang.com/best_paper_awards.html)and [here](https://aminer.org/bestpaper).
 
 ---
 
-#### Programming Interview Questions
+### Programming Interview Questions
 
 Excellent list of technical [programming interview questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/) with detailed explanations – thanks to [Arden @ Netflix](http://www.ardendertat.com/)! 
 
 ------
 
-#### Publish Optimally
+### Publish Optimally
 
 Conferences by [location](http://gradutrip.com/) --thank to [Alex Beutel @ Google](http://alexbeutel.com/)!
 
 ------
 
-#### Classical Antiquity Travel
+### Classical Antiquity Travel
 
 [Archaeological atlas](http://vici.org/) of classical antiquity.
 
 ---
 
-#### LaTeX Turkish characters 
+### LaTeX Turkish characters 
 
 | Character | LaTeX |
 | :-------: | :---: |
-|     ı     | {\i}  |
-|     ö     | \"{o} |
-|     ü     | \"{u} |
-|     ç     | \c{c} |
-|     ğ     | \u{g} |
-|     ş     | \c{s} |
-|     İ     | \.{I} |
-|     Ö     | \"{O} |
-|     Ü     | \"{U} |
-|     Ç     | \c{C} |
-|     Ğ     | \u{G} |
-|     Ş     | \c{S} |
-
-
-  
+| ı | {\i}  |
+| ö | \"{o} |
+| ü | \"{u} |
+| ç | \c{c} |
+| ğ | \u{g} |
+| ş | \c{s} |
+| İ | \.{I} |
+| Ö | \"{O} |
+| Ü | \"{U} |
+| Ç | \c{C} |
+| Ğ | \u{G} |
+| Ş | \c{S} |

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Serdar; a computer scientist who currently serves as the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the [Department of Computer Science](http://cs.brown.edu/) at Brown University. Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) team at Oracle and worked at Adobe.
+Hi! My name is Serdar; a computer scientist who currently serves as the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the [Dept. of Computer Science](http://cs.brown.edu/) at Brown University. Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) team at Oracle and worked at Adobe.
 
 My algorithmic research is at the intersection of Artificial Intelligence and Discrete Optimization, while my practical interests are in building robust, scalable, data-driven products that address business-critical problems. See [publications](https://skadio.github.io/publications/) and [software](https://skadio.github.io/software/).
 
