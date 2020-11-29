@@ -5,13 +5,11 @@ title: "Resources"
 author_profile: true
 ---
 
+---
 ### Constraint Technology and Optimization
 
-Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/). 
-See also these great MOOCs:
-
+Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
 * [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
-
 * [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
 
 ---
@@ -26,7 +24,7 @@ See also these great MOOCs:
 
 
 
-|    İ  |  Ö   | Ü    |   Ç   |   Ğ   |  Ş   |
+|   İ  |  Ö   | Ü    |   Ç   |   Ğ   |  Ş   |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | \.{I} | \"{O} |  \"{U} | \c{C} | \u{G} |  \c{S}  |
 

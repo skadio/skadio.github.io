@@ -1,8 +1,9 @@
-- ---
-  permalink: /publications/
-  title: "Publications"
-  layout: archive
-  author_profile: true
+---
+permalink: /publications/
+title: "Publications"
+layout: archive
+author_profile: true
+---
 
 ---
 

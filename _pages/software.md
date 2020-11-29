@@ -5,12 +5,15 @@ layout: archive
 author_profile: true
 ---
 
+---
+
 ### [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://github.com/fidelity/mabwiser)
+
 Parallezable, contextual multi-armed bandits library with simulation capabilities. MABWiser is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
 
 
 
-**Reference:** [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://sites.google.com/site/serdrk/publications), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference Tools with Artificial Intelligence, ICTAI 2019 [[bibtex]](https://dblp.org/rec/bibtex/conf/ictai/StrongKK19)
+**Reference:** [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://sites.google.com/site/serdrk/publications), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/bibtex/conf/ictai/StrongKK19)
 
 ---
 
@@ -49,7 +52,7 @@ This is the solver that won 7 medals including 2 gold in the 2011 [International
 
 **References:** 
 
-* [Algorithm Selection and Scheduling](http://www.google.com/url?q=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fv8mg1p4375646226%2F&sa=D&sntz=1&usg=AFrqEzdylNDhS7WpXQ5dWV6OrkWui6JQ8g), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming CP 2011 [[bibtex]](https://dblp.org/rec/bibtex/conf/cp/KadiogluMSSS11)
+* [Algorithm Selection and Scheduling](http://www.google.com/url?q=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fv8mg1p4375646226%2F&sa=D&sntz=1&usg=AFrqEzdylNDhS7WpXQ5dWV6OrkWui6JQ8g), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](https://dblp.org/rec/bibtex/conf/cp/KadiogluMSSS11)
 * [Non-model-based Algorithm Portfolios for SAT ](http://link.springer.com/chapter/10.1007%2F978-3-642-21581-0_33), Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, International Conferences on Theory and Applications of Satisfiability Testing, `SAT 2011` [[bibtex]](https://dblp.org/rec/bibtex/conf/aaai/KadiogluMS12)
 
 ---

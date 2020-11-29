@@ -5,6 +5,8 @@ layout: archive
 author_profile: true
 ---
 
+---
+
 - [Foundations of Prescriptive Analytics](https://cs.brown.edu/courses/csci2951-o/), Instructor, Brown, 2017 - present\
 [Course Evaluations](https://sites.google.com/site/serdrk/Student_Evaluations.pdf?attredirects=0)
 - [Anchor Program for Teaching in Times of Distruption and Resilient Course Design, Brown 2020](https://www.brown.edu/sheridan/programs-services/institutes-retreats/anchor)
