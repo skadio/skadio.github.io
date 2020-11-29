@@ -45,7 +45,7 @@ Collections of best papers and most cited papers in computer science can be foun
 
 ### Programming Interview Questions
 
-Excellent list of technical [programming interview questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/) with detailed explanations – thanks to [Arden @ Netflix](http://www.ardendertat.com/)! 
+Excellent list of technical [programming interview questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/) with detailed explanations – thanks to [Arden Dertat @ Netflix](http://www.ardendertat.com/)! 
 
 ------
 
