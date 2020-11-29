@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 Hi! My name is Serdar; I am a computer scientist who currently serves as the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Professor in the [Department of Computer Science](http://cs.brown.edu/) at Brown University. Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) team at Oracle and worked at Adobe.
 
 My algorithmic research is at the intersection of Artificial Intelligence and Discrete Optimization, while my practical interests are in building robust, scalable, data-driven products that address business-critical problems. See [publications](https://skadio.github.io/publications/) and [software](https://skadio.github.io/software/).
 
-[Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., my [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf), and I frequently participate at the programme committee of IJCAI, AAAI, ECAI among other academic organizations. 
+[Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., my [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf), and I frequently participate at the programme committee of IJCAI, AAAI, ECAI among other academic organizations.
 
-## Bio
+## Background
 
 ### @Fidelity
 
@@ -32,11 +30,11 @@ I built a context-free grammar based test case generator for the [ActionScript](
 
 ### @Brown
 
-I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf)  explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. My research was awarded the [2011 IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), won several gold medals in the [International SAT Solver Competition](http://www.satcompetition.org/) and was partially funded by the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). During my studies, I was also a visiting researcher at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/). I was the founder of [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and the captain of ByteSoccer, the department’s soccer team with intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate admissions.  
+I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf)  explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. My research work was awarded the [2011 IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), partially funded by the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis), and won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). During my studies, I was also a visiting researcher at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/). I was the founder of [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and the captain of ByteSoccer, the department’s soccer team with intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate admissions.  
 
 ### @Sabanci
 
-I received my B.Sc. in CS from Sabanci and awarded the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). I was also an Erasmus exchange student at [Uppsala](https://www.it.uu.se/research/computing_science). I continue to serve the Sabanci community as an external committee member of the CS department. 
+I received my B.Sc. in CS from Sabanci and was awarded the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). I also studied as an Erasmus exchange student at [Uppsala](https://www.it.uu.se/research/computing_science). I continue to serve the Sabanci community as an external committee member for the CS department. 
 
 ### @Soccer
 
