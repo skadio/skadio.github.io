@@ -12,5 +12,5 @@ author_profile: true
 - [Anchor Program for Teaching in Times of Distruption and Resilient Course Design, Brown 2020](https://www.brown.edu/sheridan/programs-services/institutes-retreats/anchor)
 - [Coursera: Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), [Prof. Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/), Community TA, 2013, 2014
 - Interactive Computer Graphics, [Prof. John Hughes](http://cs.brown.edu/people/jhughes/), Brown, Head TA, 2010
-- Intro. to Combinatorial Optimization, Prof. Meinolf Sellmann, Brown, Head TA, 2008, 2009
+- Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Brown, Head TA, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning, Brown 2008](https://www.brown.edu/about/administration/sheridan-center/)

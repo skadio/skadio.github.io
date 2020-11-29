@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### <i class="fa fa-calendar" aria-hidden="true"></i>2020 
+### <i class="fa fa-calendar-minus-o" aria-hidden="true"></i> 2020 
 
 ---
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * **[TechWeek]** [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), November 2020, Online, (in Turkish), `Invited Panelist`
 
-### <i class="fa fa-calendar" aria-hidden="true"></i>2019
+### <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 2019
 
 ---
 
@@ -41,7 +41,7 @@ author_profile: true
 
 
 
-### **<i class="fa fa-calendar" aria-hidden="true"></i>2018**
+### **<i class="fa fa-calendar-o" aria-hidden="true"></i> 2018**
 
 ---
 
