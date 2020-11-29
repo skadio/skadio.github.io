@@ -1,6 +1,7 @@
 ---
 permalink: /service/
 layout: archive
+title: "Service"
 author_profile: true
 ---
 

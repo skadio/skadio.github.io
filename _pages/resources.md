@@ -1,6 +1,7 @@
 ---
 permalink: /resources/
 layout: archive
+title: "Resources"
 author_profile: true
 ---
 
@@ -12,6 +13,22 @@ See also these great MOOCs:
 * [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
 
 * [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
+
+---
+
+### LaTeX Turkish characters 
+
+
+|    ı  |  ö    | ü     |   ç   |   ğ    |  ş    |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|   {\i} | \"{o} |   \"{u}     | \c{c}     |  \u{g}     |  \c{s}  |
+
+
+
+
+|    İ  |  Ö   | Ü    |   Ç   |   Ğ   |  Ş   |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| \.{I} | \"{O} |  \"{U} | \c{C} | \u{G} |  \c{S}  |
 
 ---
 
@@ -36,7 +53,7 @@ Excellent list of technical [programming interview questions](http://www.ardende
 
 ### Publish Optimally
 
-Conferences by [location](http://gradutrip.com/) --thank to [Alex Beutel @ Google](http://alexbeutel.com/)!
+Conferences by [location](http://gradutrip.com/) --thanks to [Alex Beutel @ Google](http://alexbeutel.com/)!
 
 ------
 
@@ -44,19 +61,4 @@ Conferences by [location](http://gradutrip.com/) --thank to [Alex Beutel @ Googl
 
 [Archaeological atlas](http://vici.org/) of classical antiquity.
 
----
 
-### LaTeX Turkish characters 
-
-* ı \| {\i}  
-* ö \| \"{o} 
-* ü \| \"{u} 
-* ç \| \c{c} 
-* ğ \| \u{g} 
-* ş \| \c{s} 
-* İ \| \.{I} 
-* Ö \| \"{O} 
-* Ü \| \"{U} 
-* Ç \| \c{C} 
-* Ğ \| \u{G} 
-* Ş \| \c{S} 
