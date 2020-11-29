@@ -57,8 +57,8 @@ This is the solver that won 7 medals including 2 gold in the 2011 [International
 
 ---
 
-### [GGA: Gender-based Genetic Algorithm for Parameter Tuning ](https://sites.google.com/)
-A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms.It is the back-bone of many competition winning constraint solvers and algorithm portfolios.
+### [GGA: Gender-based Genetic Algorithm for Parameter Tuning ](https://github.com/OPTANO/optano.algorithm.tuner)
+A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms.It is the back-bone of many competition winning constraint solvers and algorithm portfolios. Implemented and maintained by [Optano GmbH](https://optano.com/).
 
 
 
