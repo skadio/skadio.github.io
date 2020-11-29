@@ -1,11 +1,10 @@
 ---
 permalink: /resources/
-title: "Resources"
 layout: archive
 author_profile: true
 ---
 
-#### Constraint Technology and Optimization
+### Constraint Technology and Optimization
 
 Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/). 
 See also these great MOOCs:
