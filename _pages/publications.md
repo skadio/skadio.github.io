@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "<i class="fa fa-file-o" aria-hidden="true"></i> <i class="fa fa-file-text-o" aria-hidden="true"></i> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-text" aria-hidden="true"></i> <i class="fa fa-file" aria-hidden="true"></i> <i class="fa fa-files-o" aria-hidden="true"></i> Publications"
 layout: archive
 author_profile: true
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 layout: archive
-title: "Resources"
+title: "<i class="fa fa-book" aria-hidden="true"></i> Resources"
 author_profile: true
 ---
 

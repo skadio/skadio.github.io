@@ -1,13 +1,13 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "<i class="fa fa-calendar" aria-hidden="true"></i> Talks"
 layout: archive
 author_profile: true
 ---
 
 
 
-### <i class="fa fa-calendar" aria-hidden="true"></i> 2020 
+### 2020 
 
 ---
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * **[TechWeek]** [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), November 2020, Online, (in Turkish), `Invited Panelist`
 
-### <i class="fa fa-calendar" aria-hidden="true"></i> 2019
+### 2019
 
 ---
 
@@ -41,7 +41,7 @@ author_profile: true
 
 
 
-### **<i class="fa fa-calendar" aria-hidden="true"></i> 2018**
+### **2018**
 
 ---
 

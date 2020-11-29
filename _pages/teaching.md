@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "<i class="fa fa-university" aria-hidden="true"></i> Teaching"
 layout: archive
 author_profile: true
 ---
