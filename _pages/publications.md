@@ -11,35 +11,35 @@ author_profile: true
 
 
 ## Machine Learning – Algorithm **Configuration** – Portfolios
-###### Representing the Unification of Text Featurization using a Context-Free Grammar,Doruk Kilitcioglu, Serdar Kadioglu, Accepted for publication at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) 
+Representing the Unification of Text Featurization using a Context-Free Grammar,Doruk Kilitcioglu, Serdar Kadioglu, Accepted for publication at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) 
 
-###### Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation in Uplift Modeling, Filip Michalsky, Serdar Kadioglu, Under review at [ACM FAccT 2021](https://facctconference.org/2021/)
+* Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation in Uplift Modeling, Filip Michalsky, Serdar Kadioglu, Under review at [ACM FAccT 2021](https://facctconference.org/2021/)
 
-###### Modeling  Uncertainty  to  Improve  Personalized Recommendations via Bayesian Deep Learning, Xin Wang, Serdar Kadioglu, Under review at [Springer Journal of Data Science, Special Issue on Next-Generation Recommender Systems, 2021](https://www.springer.com/journal/41060/updates)
+* Modeling  Uncertainty  to  Improve  Personalized Recommendations via Bayesian Deep Learning, Xin Wang, Serdar Kadioglu, Under review at [Springer Journal of Data Science, Special Issue on Next-Generation Recommender Systems, 2021](https://www.springer.com/journal/41060/updates)
 
-###### Parallelizable Contextual Multi-Armed Bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools, IJAIT 2021](https://www.worldscientific.com/worldscinet/ijait) 
+* Parallelizable Contextual Multi-Armed Bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools, IJAIT 2021](https://www.worldscientific.com/worldscinet/ijait) 
 
-###### [Bayesian Deep Learning based Exploration-Exploitation for Personalized Recommendations](https://sites.google.com/site/serdrk/publications), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
+* [Bayesian Deep Learning based Exploration-Exploitation for Personalized Recommendations](https://sites.google.com/site/serdrk/publications), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
 
-###### [How to Win Gold at a SAT Competition Without Writing a SAT Solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume, `CP 2019`
+* [How to Win Gold at a SAT Competition Without Writing a SAT Solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume, `CP 2019`
 
-###### [Constrained Logistic Regression to Avoid Undesirable Predictions](https://cp2019.a4cp.org/accepted_abstracts.html), David Bergman, Mohsen Emadikhiav and Serdar Kadioglu, `CP 2019`
+* [Constrained Logistic Regression to Avoid Undesirable Predictions](https://cp2019.a4cp.org/accepted_abstracts.html), David Bergman, Mohsen Emadikhiav and Serdar Kadioglu, `CP 2019`
 
-###### [MABWiser: Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex)[[code]](https://github.com/fmr-llc/mabwiser)
+* [MABWiser: Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex)[[code]](https://github.com/fmr-llc/mabwiser)
 
-###### [Learning a Reactive Restart Strategy to Improve Stochastic Search](https://sites.google.com/site/serdrk/publications), Serdar Kadioglu, Meinolf Sellmann, Markus Wager, Learning and Intelligent Optimization, `LION 2017` [[bibtex]](https://dblp.org/rec/conf/lion/KadiogluSW17.html?view=bibtex)
+* [Learning a Reactive Restart Strategy to Improve Stochastic Search](https://sites.google.com/site/serdrk/publications), Serdar Kadioglu, Meinolf Sellmann, Markus Wager, Learning and Intelligent Optimization, `LION 2017` [[bibtex]](https://dblp.org/rec/conf/lion/KadiogluSW17.html?view=bibtex)
 
-###### [Feature Selection Methods and their Combinations in High-Dimensional Classification of Speaker Likability, Intelligibility and Personality Traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), Jouni Pohjalainen, Okko Räsänen, Serdar Kadioglu, `Computer Speech & Language 2015` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/csl/PohjalainenRK15) [[code]](https://sites.google.com/site/serdrk/software)
+* [Feature Selection Methods and their Combinations in High-Dimensional Classification of Speaker Likability, Intelligibility and Personality Traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), Jouni Pohjalainen, Okko Räsänen, Serdar Kadioglu, `Computer Speech & Language 2015` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/csl/PohjalainenRK15) [[code]](https://sites.google.com/site/serdrk/software)
 
-###### [Transformation-based Feature Computation for Algorithm Portfolios](http://arxiv.org/abs/1401.2474), Barry Hurley, Serdar Kadioglu, Yuri Malitsky, Barry O'Sullivan, `CoRR 2014` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/0001KMO14)
+* [Transformation-based Feature Computation for Algorithm Portfolios](http://arxiv.org/abs/1401.2474), Barry Hurley, Serdar Kadioglu, Yuri Malitsky, Barry O'Sullivan, `CoRR 2014` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/0001KMO14)
 
-###### [DASH: Dynamic Approach for Switching Heuristics](http://arxiv.org/abs/1307.4689), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, `CoRR 2013` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/LibertoKLM13)
+* [DASH: Dynamic Approach for Switching Heuristics](http://arxiv.org/abs/1307.4689), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, `CoRR 2013` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/LibertoKLM13)
 
-###### [Feature Selection for Speaker Traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen, `Interspeech 2012` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
+* [Feature Selection for Speaker Traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen, `Interspeech 2012` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
 
-###### [Algorithm Selection and Scheduling](http://www.springerlink.com/content/v8mg1p4375646226/), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
+* [Algorithm Selection and Scheduling](http://www.springerlink.com/content/v8mg1p4375646226/), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
 
-###### [ISAC - Instance-Specific Algorithm Configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence, `ECAI 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
+* [ISAC - Instance-Specific Algorithm Configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence, `ECAI 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
 
 ## Inference – Symbolic Reasoning – Global Constraints – Modeling
