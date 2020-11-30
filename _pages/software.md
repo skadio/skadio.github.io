@@ -9,7 +9,7 @@ author_profile: true
 
 ### [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://github.com/fidelity/mabwiser)
 
-Parallezable, contextual multi-armed bandits library with simulation capabilities. MABWiser is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
+Parallelizable, contextual multi-armed bandits library with simulation capabilities. MABWiser is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
 
 
 
