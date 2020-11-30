@@ -20,9 +20,9 @@ In parallel with my industry role, I frequently participate in the [programme co
 
 Leading a team responsible for Personalization & Recommender Systems from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
 
-Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the engineering teams and business partners, organize company-wide Kaggle style machine learning competitions and scale out the efforts on AI governance, interpretability, fairness, and bias mitigation for the enterprise. 
+Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the engineering teams and business partners, organize company-wide Kaggle style machine learning competitions and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate the collaboration with strategic groups at Google, NVIDIA, Amazon, CMU etc., lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs, and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
+Externally, I coordinate the collaboration with strategic groups at Google, NVIDIA, Amazon, CMU etc., lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
 ### @Oracle
 
@@ -38,7 +38,7 @@ I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sel
 
 ### @Sabanci
 
-I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). As an Erasmus exchange student, I also studied at [Uppsala](https://www.it.uu.se/research/computing_science). I continue to serve the Sabanci community as an external committee member. 
+I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). As an Erasmus exchange student, I also studied in [Uppsala](https://www.it.uu.se/research/computing_science). I continue to serve the Sabanci community as an external committee member and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit organization to reduce inequality of opportunity in education. 
 
 ### @Soccer
 

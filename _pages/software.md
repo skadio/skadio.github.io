@@ -46,7 +46,7 @@ Dialectic search based local search approach for solving Set Covering Problems.
 ---
 
 ### [3S: Satisfiability Solver Selector](https://sites.google.com/site/yurimalitsky/downloads)
-**<span style="color:green">This solver won 2 gold and 7 medals in total</span>** in the 2011 [International SAT Solver Competition](http://www.satcompetition.org/).
+<span style="color:green">This solver won 2 gold and 7 medals in total</span> at the [International SAT Solver Competition in 2011](http://www.satcompetition.org/).
 
 
 
@@ -67,7 +67,7 @@ A state-of-the-art parameter tuning and algorithm configuration tool based on ge
 ---
 
 ### [FSiHD: Feature Selection ](https://sites.google.com/site/serdrk/goog_160393962)[in High-Dimensional Classification](http://users.spa.aalto.fi/jpohjala/featureselection/)
-Our competition entry, **<span style="color:green">3<sup>rd</sup> place</span>**, for feature selection methods in high-dimensional classification as part the [Interspeech 2012 Speaker Trait Challenge](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). 
+<span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf).
 
 
 
