@@ -101,14 +101,14 @@ author_profile: true
 
 ## Patents
 
+* Automated predictive product recommendations using reinforcement learning, Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FIID988507, 2020
+* Digital content classification and recommendation using reinforcement learning, Pramod R
+  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
+* Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019
 * [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=4&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu.INNM.&OS=IN/kadioglu&RS=IN/kadioglu), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
 * [Systems and methods for providing dynamic and real time simulations of matching resources to requests](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10146665.PN.&OS=PN/10146665&RS=PN/10146665), Serdar Kadioglu, US Patent 10146665, 2018
 * [Assigning applications to virtual machines using constraint programming](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538), Serdar Kadioglu, Michael Colena, Samir Sebbah, Mirza Mohsin Beg, US Patent 10007538, 2018
-* [System and method of assigning requests to resources using constraint programming](https://patentimages.storage.googleapis.com/b0/01/91/a8b561767bc476/US9588819.pdf), Serdar Kadioglu, Mike Colena, US Patent 9588819, 2017
-* Digital content classification and recommendation using reinforcement learning, Pramod R
-  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
-* Automated predictive product recommendations using reinforcement learning, Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FIID988507, 2020
-* Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019 
+* [System and method of assigning requests to resources using constraint programming](https://patentimages.storage.googleapis.com/b0/01/91/a8b561767bc476/US9588819.pdf), Serdar Kadioglu, Mike Colena, US Patent 9588819, 2017 
 
 ## Theses
 
