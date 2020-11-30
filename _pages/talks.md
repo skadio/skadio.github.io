@@ -22,7 +22,7 @@ author_profile: true
   
 
 * **[TechWeek]** `Invited Panelist`\
-   [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), In Turkish, Online, November 2020, Istanbul, USA
+   [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), in Turkish, Online, November 2020, Istanbul, Turkey
 
 ### 2019
 
@@ -39,7 +39,7 @@ author_profile: true
   
 
 * **[ECMF]** `Conference Talk`\
-  [Bayesian Deep Learning Based Exploration-Exploitation for Personalized Recommendations](https://sites.google.com/view/ecmf4/program), [4th Eastern Conference on Mathematical Finance (ECMF)](https://sites.google.com/view/ecmf4/home), October 2019, Boston, USA, 
+  [Bayesian Deep Learning Based Exploration-Exploitation for Personalized Recommendations](https://sites.google.com/view/ecmf4/program), [4th Eastern Conference on Mathematical Finance (ECMF)](https://sites.google.com/view/ecmf4/home), October 2019, Boston, USA
 
   
 

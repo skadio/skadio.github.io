@@ -23,11 +23,11 @@ author_profile: true
 - Sabanci University CS Committee External Partner, 2016 - present
 - Brown University Undergraduate Admission Interviews, 2013 - present
 - Fidelity College Recruiting Programme, 2018 - present
-- Mentor, [Crossing Paths](https://www.kesisenyollar.org/), 2017 - present
 - Oracle College Recruiting Programme, 2011 - 2017
-- Judge, Brown [Data Science Hackathon, 2018](https://browndatathon.devpost.com/) 
+- Jury, Brown [Data Science Hackathon, 2018](https://browndatathon.devpost.com/) 
+- Mentor, [Crossing Paths](https://www.kesisenyollar.org/), 2017 - present
 - Mentor, [Doctoral Programme, CP’16](http://cp2016.a4cp.org/dates/doctoral.html)
-- Local organization, [CP'07 - ICAPS’07](https://archive.a4cp.org/cp2007/Welcome.html)
+- Local organization, [CP - ICAPS’07](https://archive.a4cp.org/cp2007/Welcome.html)
 - Chapter on constraints in the [INFORMS Mathematics Glossary](https://glossary.informs.org/ver2/mpgwiki/index.php?title=Category:Constraint_Programming), supervised by [Prof. Christopher Beck](http://tidel.mie.utoronto.ca/beck.php)
 - Founder of the [Sports Czar@Brown](http://cs.brown.edu/grad/misc/jobs/jobs.html#sport), captain of ByteSoccer, Brown CS soccer team, 2008 - 2011
 - Coaching [Reading Youth Soccer](https://www.sportsmanager.us/readingyouthsoccer.htm), 2013 - 2015
