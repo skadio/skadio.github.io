@@ -19,7 +19,7 @@ author_profile: true
 
 * Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools, IJAIT 2021](https://www.worldscientific.com/worldscinet/ijait) 
 
-* [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://sites.google.com/site/serdrk/publications), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
+* [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://ieeexplore.ieee.org/document/8995445), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
 
 * [How to win gold at a SAT competition without writing a SAT solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume, `CP 2019`
 
@@ -27,7 +27,7 @@ author_profile: true
 
 * [MABWiser: contextual multi-armed bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex)[[code]](https://github.com/fmr-llc/mabwiser)
 
-* [Learning a reactive restart strategy to improve stochastic search](https://sites.google.com/site/serdrk/publications), Serdar Kadioglu, Meinolf Sellmann, Markus Wager, Learning and Intelligent Optimization, `LION 2017` [[bibtex]](https://dblp.org/rec/conf/lion/KadiogluSW17.html?view=bibtex)
+* [Learning a reactive restart strategy to improve stochastic search](https://link.springer.com/chapter/10.1007/978-3-319-69404-7_8), Serdar Kadioglu, Meinolf Sellmann, Markus Wager, Learning and Intelligent Optimization, `LION 2017` [[bibtex]](https://dblp.org/rec/conf/lion/KadiogluSW17.html?view=bibtex)
 
 * [Feature selection methods and their combinations in high-dimensional classification of speaker likability, intelligibility and personality traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), Jouni Pohjalainen, Okko Räsänen, Serdar Kadioglu, `Computer Speech & Language 2015` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/csl/PohjalainenRK15) [[code]](https://sites.google.com/site/serdrk/software)
 
