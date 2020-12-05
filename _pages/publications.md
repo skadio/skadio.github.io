@@ -101,7 +101,7 @@ author_profile: true
 
 ## Patents
 
-* Automated predictive product recommendations using reinforcement learning, Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FIID988507, 2020
+* Automated predictive product recommendations using reinforcement learning, Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID988507, 2020
 * Digital content classification and recommendation using reinforcement learning, Pramod R
   Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
 * Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019
