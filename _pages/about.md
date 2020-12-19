@@ -42,4 +42,4 @@ I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the g
 
 ### @Soccer
 
-I am an avid soccer fan outside of work, playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
+Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
