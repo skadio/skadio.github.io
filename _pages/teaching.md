@@ -39,6 +39,6 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Transformation-based Feature Computation for Algorithm Portfolios](http://arxiv.org/abs/1401.2474), `CoRR 2014` 
 * [Peter Backeman](https://scholar.google.se/citations?hl=sv&user=N6nl4_sAAAAJ&view_op=list_works&sortby=pubdate),
  MSc, Uppsala University, 2013 (PhD student @ Uppsala)
-  * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf), `CPAIOR 2010` 
+  * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf) 
 * [Siddhartha Jain](https://scholar.google.com/citations?user=mBJIa8cAAAAJ&hl=en), BSc, Brown University, 2010 (Applied Scientist @ Amazon AI)
   * [Upper Bounds on the Number of Solutions of Binary Integer Programs](http://www.springerlink.com/content/l23l736k681t8800/), `CPAIOR 2010` 
