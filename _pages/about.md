@@ -12,7 +12,7 @@ Hi! My name is Serdar, I am the Vice President of Artificial Intelligence at [Fi
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Discrete Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
-In parallel with my industry role, I frequently participate in the [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, and similar research organizations. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf). 
+In parallel with my industry role, I frequently participate in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, and similar research organizations. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf). 
 
 ## Background
 
