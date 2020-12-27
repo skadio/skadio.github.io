@@ -13,17 +13,25 @@ Parallelizable, contextual multi-armed bandits library with simulation capabilit
 
 
 
-**Reference:** [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://sites.google.com/site/serdrk/publications), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/bibtex/conf/ictai/StrongKK19)
+**Reference:** [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/bibtex/conf/ictai/StrongKK19)
 
 ---
 
 ### [TextWiser: Text Featurization Library](https://github.com/fidelity/textwiser)
 Text featurization NLP library that unifies several text embedding techniques. TextWiser is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
 
+
+
+**Reference:** [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/), Doruk Kilitcioglu, Serdar Kadioglu, `AAAI 2021`
+
 ---
 
 ### [Seq2Pat: Sequence-to-Pattern Mining Library](https://github.com/fidelity/seq2pat)
 Pattern mining library to find frequent pattern from large sequence databases. Seq2Pat is developed in collaboration between Carnegie Mellon University and the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
+
+
+
+**Reference:** [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/), Session on Machine Learning and Discrete Optimization, `INFORMS 2020`
 
 ---
 

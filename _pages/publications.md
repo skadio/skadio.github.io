@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Machine Learning – Algorithm **Configuration** – Portfolios
-* Representing the unification of text featurization using a context-free grammar, Doruk Kilitcioglu, Serdar Kadioglu, Accepted for publication at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) 
+* [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/)), Doruk Kilitcioglu, Serdar Kadioglu, `AAAI 2021`
 * Surrogate ground truth generation to enhance binary fairness evaluation in uplift modeling, Filip Michalsky, Serdar Kadioglu, Under review at [ACM FAccT 2021](https://facctconference.org/2021/)
 * Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) `IJAIT 2021`
 * Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning, Xin Wang, Serdar Kadioglu, [Springer Journal of Data Science, Special Issue on Next-Generation Recommender Systems, 2021](https://www.springer.com/journal/41060/updates), `JDSA 2021`
