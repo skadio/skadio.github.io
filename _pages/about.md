@@ -22,7 +22,8 @@ Leading a team responsible for Personalization & Recommender Systems from ideati
 
 Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the engineering teams and business partners, organize company-wide Kaggle style machine learning competitions and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate the collaboration with strategic groups at Google, NVIDIA, Amazon, CMU etc., lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
+Externally, I coordinate the collaboration with other groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
+lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
 ### @Oracle
 
