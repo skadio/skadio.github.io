@@ -7,6 +7,11 @@ author_profile: true
 
 ---
 
+### [Jurity: Fairness & Bias Mitigation](https://github.com/fidelity/jurity)
+
+Fairness evaluation and bias mitigation techniques. Jurity is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
+
+---
 ### [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://github.com/fidelity/mabwiser)
 
 Parallelizable, contextual multi-armed bandits library with simulation capabilities. MABWiser is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
