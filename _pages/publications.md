@@ -12,7 +12,6 @@ author_profile: true
 
 ## Machine Learning – Algorithm **Configuration** – Portfolios
 * [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/), Doruk Kilitcioglu, Serdar Kadioglu, `AAAI 2021`
-* Surrogate ground truth generation to enhance binary fairness evaluation in uplift modeling, Filip Michalsky, Serdar Kadioglu, Under review at [ACM FAccT 2021](https://facctconference.org/2021/)
 * Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) `IJAIT 2021`
 * Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning, Xin Wang, Serdar Kadioglu, [Springer Journal of Data Science Special Issue on Next-Generation Recommender Systems](https://www.springer.com/journal/41060/updates), `JDSA 2021`
 * [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://ieeexplore.ieee.org/document/8995445), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
@@ -28,7 +27,7 @@ author_profile: true
 * [ISAC: instance-specific algorithm configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence, `ECAI 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
 
-## Inference – Symbolic Reasoning – Global Constraints – Modeling
+## Inference – Symbolic Reasoning – Modeling Global Constraints
 * [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9), Serdar Kadioglu, European Journal on Computational Optimization, `EJOR 2019` [[bibtex]](https://dblp.org/rec/journals/ejco/Kadioglu19.html?view=bibtex)
 
 
@@ -87,13 +86,14 @@ author_profile: true
 
 ## Patents
 
-* Automated predictive product recommendations using reinforcement learning, Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID988507, 2020
-* Digital content classification and recommendation using reinforcement learning, Pramod R
+* Surrogate Ground Truth Generation in Artificial Intelligence Based Marketing Campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed 
+* Digital content classification and recommendation using reinforcement learning, Pramod R, 
   Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
 * Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019
-* [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=4&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu.INNM.&OS=IN/kadioglu&RS=IN/kadioglu), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
+* [Automated predictive product recommendations using reinforcement learning](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu), Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
+* [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=25&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
 * [Systems and methods for providing dynamic and real time simulations of matching resources to requests](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10146665.PN.&OS=PN/10146665&RS=PN/10146665), Serdar Kadioglu, US Patent 10146665, 2018
-* [Assigning applications to virtual machines using constraint programming](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538), Serdar Kadioglu, Michael Colena, Samir Sebbah, Mirza Mohsin Beg, US Patent 10007538, 2018
+* [Assigning applications to virtual machines using constraint programming](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538), Serdar Kadioglu, Michael Colena, Samir Sebbah, Mohsin Beg, US Patent 10007538, 2018
 * [System and method of assigning requests to resources using constraint programming](https://patentimages.storage.googleapis.com/b0/01/91/a8b561767bc476/US9588819.pdf), Serdar Kadioglu, Mike Colena, US Patent 9588819, 2017 
 
 ## Theses
@@ -102,5 +102,3 @@ author_profile: true
 
 
 * [Grammar constraints combining expressiveness with efficiency](http://www.cs.brown.edu/research/pubs/theses/masters/2009/kadioglu.pdf), M.Sc. thesis, Department of Computer Science, Brown University 2009
-
-    
