@@ -23,7 +23,7 @@ author_profile: true
 * [Transformation-based feature computation for algorithm portfolios](http://arxiv.org/abs/1401.2474), Barry Hurley, Serdar Kadioglu, Yuri Malitsky, Barry O'Sullivan, `CoRR 2014` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/0001KMO14)
 * [DASH: dynamic approach for switching heuristics](http://arxiv.org/abs/1307.4689), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, `CoRR 2013` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/LibertoKLM13)
 * [Feature selection for speaker traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen, `Interspeech 2012` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
-* [Algorithm selection and scheduling](http://www.springerlink.com/content/v8mg1p4375646226/), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
+* [Algorithm selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_35), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
 * [ISAC: instance-specific algorithm configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence, `ECAI 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
 
@@ -41,16 +41,16 @@ author_profile: true
 * [Optimizing the cloud service experience using constraint programming](http://link.springer.com/chapter/10.1007%2F978-3-319-23219-5_43), Serdar Kadioglu, Mike Colena, Steven Huberman, Claire Bagley, Constraint Programming, `CP 2015` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluCHB15)
 
 
-* [Grammar constraints](http://www.springerlink.com/content/f2611u26624x6l04/), Serdar Kadioglu, Meinolf Sellmann, `Constraints 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/constraints/KadiogluS10)
+* [Grammar constraints](https://link.springer.com/article/10.1007/s10601-009-9073-4), Serdar Kadioglu, Meinolf Sellmann, `Constraints 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/constraints/KadiogluS10)
 
 
-* [Upper bounds on the number of solutions of binary integer programs](http://www.springerlink.com/content/l23l736k681t8800/), Siddhartha Jain, Serdar Kadioglu, Meinolf Sellmann, Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems, `CPAIOR 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cpaior/JainKS10)
+* [Upper bounds on the number of solutions of binary integer programs](https://link.springer.com/chapter/10.1007/978-3-642-13520-0_24), Siddhartha Jain, Serdar Kadioglu, Meinolf Sellmann, Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems, `CPAIOR 2010` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cpaior/JainKS10)
 
 
-* [Same-relation constraints](http://www.springerlink.com/content/457363533277wj74/), Christopher Jefferson, Serdar Kadioglu, Karen E. Petrie, Meinolf Sellmann, Stanislav Zivny, Constraint Programming, `CP 2009` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/JeffersonKPSZ09)
+* [Same-relation constraints](https://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_38), Christopher Jefferson, Serdar Kadioglu, Karen E. Petrie, Meinolf Sellmann, Stanislav Zivny, Constraint Programming, `CP 2009` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/JeffersonKPSZ09)
 
 
-* [Efficient Context-Free Grammar Constraints](http://www.aaai.org/Papers/AAAI/2008/AAAI08-049.pdf), Serdar Kadioglu, Meinolf Sellmann, `AAAI 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluS08)
+* [Efficient context-free grammar constraints](http://www.aaai.org/Papers/AAAI/2008/AAAI08-049.pdf), Serdar Kadioglu, Meinolf Sellmann, `AAAI 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluS08)
 
 
 ## Search – Combinatorial Optimization – Meta-Heuristics
@@ -70,7 +70,7 @@ author_profile: true
 * [Non-model-based search guidance for set partitioning problems](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, `AAAI 2012` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluMS12)
 
 
-* [Incorporating variance in impact-based search](http://www.springerlink.com/content/h547560385268qp0/), Serdar Kadioglu, Eoin O'Mahony, Philippe Refalo, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluORS11)
+* [Incorporating variance in impact-based search](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_36), Serdar Kadioglu, Eoin O'Mahony, Philippe Refalo, Meinolf Sellmann, Constraint Programming, `CP 2011` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluORS11)
 
 
 * [Dialectic search](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39), Serdar Kadioglu, Meinolf Sellmann, Constraint Programming, `CP 2009` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluS09)
@@ -82,7 +82,7 @@ author_profile: true
 * [A local search meta-Heuristic for non-specialists](http://www.computational-sustainability.org/crocs09/papers/kadioglu-crocs09.pdf), Serdar Kadioglu, Meinolf Sellmann, Constraint Reasoning and Optimization for Computational Sustainability, `CROCS 2009` [[bibtex]](https://scholar.googleusercontent.com/citations?view_op=export_citations&user=tOgYtHkAAAAJ&s=tOgYtHkAAAAJ:UeHWp8X0CEIC&citsig=AMstHGQAAAAAWAk8WmI6V5Rczo_KCQHRd3ICDHpfdscW&hl=en&cit_fmt=0)
 
 
-* [Dichotomic search protocols for constrained optimization](http://www.springerlink.com/content/f4745272hh656804/), Meinolf Sellmann, Serdar Kadioglu, Constraint Programming, `CP 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SellmannK08) <span style="color:green">Nominated for the Best Paper Award</span>
+* [Dichotomic search protocols for constrained optimization](https://link.springer.com/chapter/10.1007%2F978-3-540-85958-1_17), Meinolf Sellmann, Serdar Kadioglu, Constraint Programming, `CP 2008` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SellmannK08) <span style="color:green">Nominated for the Best Paper Award</span>
 
 ## Patents
 
