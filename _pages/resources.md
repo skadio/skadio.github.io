@@ -8,13 +8,13 @@ author_profile: true
 ---
 ### Constraint Technology and Optimization
 
-Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
+A rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) compiled by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
 * [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
 * [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
 
 ---
 
-### LaTeX Turkish characters 
+### LaTeX Turkish Characters 
 
 
 |    ı  |  ö    | ü     |   ç   |   ğ    |  ş    |
@@ -39,7 +39,7 @@ Rich set of resources on [Constraint Technology](http://www.it.uu.se/research/gr
 ### Best Papers in Computer Science
 
 
-Collections of best papers and most cited papers in computer science can be found [here ](http://jeffhuang.com/best_paper_awards.html)and [here](https://aminer.org/bestpaper).
+Collections of best papers and most cited papers in computer science can be found [here](http://jeffhuang.com/best_paper_awards.html) and [here](https://aminer.org/bestpaper).
 
 ---
 

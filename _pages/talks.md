@@ -5,6 +5,16 @@ layout: archive
 author_profile: true
 ---
 
+### 2021
+
+---
+
+* **[All Things Open]** `Invited Talk`\
+  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), All Things Open RTP Meetup, June 2021, North Carolina, USA
+
+  
+* **[AAAI]** `Conference Talk`\
+  [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/): Virtual, February 2021, USA
 
 
 ### 2020 
@@ -17,12 +27,12 @@ author_profile: true
   
 
 * **[INFORMS]** `Conference Talk`\
-  [Seq2Pat](https://github.com/fidelity/seq2pat): Sequence-to-Pattern Generation In Large-Scale Sequence Databases, [INFORMS Session on Machine Learning and Discrete Optimization](http://meetings2.informs.org/wordpress/annual2020/), Online, November 2020, Marryland, USA
+  [Seq2Pat](https://github.com/fidelity/seq2pat): Sequence-to-Pattern Generation In Large-Scale Sequence Databases, [INFORMS Session on Machine Learning and Discrete Optimization](http://meetings2.informs.org/wordpress/annual2020/), Virtual, November 2020, Marryland, USA
 
   
 
 * **[TechWeek]** `Invited Panelist`\
-   [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), in Turkish, Online, November 2020, Istanbul, Turkey
+   [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), in Turkish, Virtual, November 2020, Istanbul, Turkey
 
 ### 2019
 

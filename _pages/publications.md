@@ -10,10 +10,10 @@ author_profile: true
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en)
 
 
-## Machine Learning – Algorithm **Configuration** – Portfolios
+## Machine Learning – Algorithm Configuration – Portfolios
 * [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/), Doruk Kilitcioglu, Serdar Kadioglu, `AAAI 2021`
 * Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) `IJAIT 2021`
-* Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning, Xin Wang, Serdar Kadioglu, [Springer Journal of Data Science Special Issue on Next-Generation Recommender Systems](https://www.springer.com/journal/41060/updates), `JDSA 2021`
+* [Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning](https://link.springer.com/article/10.1007/s41060-020-00241-1), Xin Wang, Serdar Kadioglu, Springer Journal of Data Science Special Issue on Next-Generation Recommender Systems, `JDSA 2021` [[bibtex]](https://link.springer.com/article/10.1007/s41060-020-00241-1#citeas)
 * [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://ieeexplore.ieee.org/document/8995445), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
 * [How to win gold at a SAT competition without writing a SAT solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume, `CP 2019`
 * [Constrained logistic regression to avoid undesirable predictions](https://cp2019.a4cp.org/accepted_abstracts.html), David Bergman, Mohsen Emadikhiav and Serdar Kadioglu, `CP 2019`
@@ -86,7 +86,7 @@ author_profile: true
 
 ## Patents
 
-* Surrogate Ground Truth Generation in Artificial Intelligence Based Marketing Campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed 
+* Surrogate Ground Truth Generation in Artificial Intelligence Based Marketing Campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed, 2020
 * Digital content classification and recommendation using reinforcement learning, Pramod R, 
   Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
 * Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019
