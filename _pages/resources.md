@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 ---
-### Constraint Technology and Optimization
-
-A rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) compiled by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
-* [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
-* [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
-
----
 
 ### LaTeX Turkish Characters 
 
@@ -33,6 +26,15 @@ A rich set of resources on [Constraint Technology](http://www.it.uu.se/research/
 ### Turkish Text Correction 
 
 [Great website](http://www.deasciifier.com/) that fixes issues with Turkish characters in a given text. 
+
+
+---
+### Constraint Technology and Optimization
+
+A rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) compiled by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
+* [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
+* [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
+
 
 ---
 

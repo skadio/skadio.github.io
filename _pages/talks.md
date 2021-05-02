@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 * **[All Things Open]** `Invited Talk`\
-  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), All Things Open RTP Meetup, June 2021, North Carolina, USA
+  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA
 
   
 * **[AAAI]** `Conference Talk`\
