@@ -12,7 +12,7 @@ author_profile: true
 
 ## Machine Learning – Algorithm Configuration – Portfolios
 * [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/), Doruk Kilitcioglu, Serdar Kadioglu, `AAAI 2021`
-* Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, Under review at [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) `IJAIT 2021`
+* Parallelizable contextual multi-armed bandits, Emily Strong, Bernard Kleynhans, Serdar Kadioglu, [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) `IJAIT 2021`
 * [Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning](https://link.springer.com/article/10.1007/s41060-020-00241-1), Xin Wang, Serdar Kadioglu, Springer Journal of Data Science Special Issue on Next-Generation Recommender Systems, `JDSA 2021` [[bibtex]](https://link.springer.com/article/10.1007/s41060-020-00241-1#citeas)
 * [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://ieeexplore.ieee.org/document/8995445), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, `ICTAI 2019` [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex)
 * [How to win gold at a SAT competition without writing a SAT solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume, `CP 2019`
@@ -86,15 +86,22 @@ author_profile: true
 
 ## Patents
 
-* Surrogate Ground Truth Generation in Artificial Intelligence Based Marketing Campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed, 2020
-* Digital content classification and recommendation using reinforcement learning, Pramod R, 
-  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2019
-* Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID376658, 2019
-* [Automated predictive product recommendations using reinforcement learning](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu), Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
-* [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=25&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
+* Surrogate Ground Truth Generation in Artificial Intelligence Based Marketing Campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed
+* Clickstream Activity Featurization with Time-Decayed Aggregate Embeddings, Emily Strong, Serdar Kadioglu, US Patent Filed
+* Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed
+* [Digital content classification and recommendation using reinforcement learning](https://patentimages.storage.googleapis.com/be/b5/40/0e6badc27969a6/US10936961.pdf), Pramod R, 
+  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2021
+* [Automated predictive product recommendations using reinforcement learning](https://patentimages.storage.googleapis.com/be/b5/40/0e6badc27969a6/US10936961.pdf), Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
+* [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://patentimages.storage.googleapis.com/fb/54/22/796b7130833b04/US10248550.pdf), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
 * [Systems and methods for providing dynamic and real time simulations of matching resources to requests](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10146665.PN.&OS=PN/10146665&RS=PN/10146665), Serdar Kadioglu, US Patent 10146665, 2018
-* [Assigning applications to virtual machines using constraint programming](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538), Serdar Kadioglu, Michael Colena, Samir Sebbah, Mohsin Beg, US Patent 10007538, 2018
+* [Assigning applications to virtual machines using constraint programming](https://patentimages.storage.googleapis.com/e0/38/74/836808e308893c/US10007538.pdf), Serdar Kadioglu, Michael Colena, Samir Sebbah, Mohsin Beg, US Patent 10007538, 2018
 * [System and method of assigning requests to resources using constraint programming](https://patentimages.storage.googleapis.com/b0/01/91/a8b561767bc476/US9588819.pdf), Serdar Kadioglu, Mike Colena, US Patent 9588819, 2017 
+
+[comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538)
+
+[comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=25&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu)
+
+[comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu)
 
 ## Theses
 
