@@ -22,7 +22,7 @@ I enjoy collaboration with students many of which lead to research publications:
 
 * Irmak Bukey, BSc, Pomona College, 2021 
   * Non-linear Contextual Multi-armed Bandits 
-* Shamay Samule, BSc, Brown University, 2021
+* Shamay Samuel, BSc, Brown University, 2021
   * Integrated Vehicle Routing and Monte-Carlo Scheduler for Home Service Assignment, [MOPTA Challenge](https://coral.ise.lehigh.edu/~mopta/)
 * [Mohsen Emadikhiav](https://business.fau.edu/faculty-research/new-faculty-fall-2020/mohsen-emadikhiav/index.php), PhD, University of Connecticut, USA 2020 (Asst. Prof @ Florida Atlantic University)
   * [Constrained Logistic Regression to Avoid Undesirable Predictions](https://cp2019.a4cp.org/accepted_abstracts.html), `CP 2019`
