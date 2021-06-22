@@ -25,6 +25,8 @@ Internally, I help guide the research agenda of the AI Center of Excellence, ser
 Externally, I coordinate the collaboration with other groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
 lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
+Here is a video presentation that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://www.youtube.com/watch?v=fK4g9yF31Pk)
+
 ### @Oracle
 
 I led the Advanced Constraint Technology R&D team to ship state-of-the-art optimization solutions for Oracle products facing industry-scale resource allocation problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). These contributions were recognized with an Oracle Entrepreneurship Award, received research funding for Oracle-CMU collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
