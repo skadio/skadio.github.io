@@ -30,7 +30,7 @@ author_profile: true
 
 
 ## Inference – Symbolic Reasoning – Modeling Global Constraints
-* `Euro. Journal on OR 2019` [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9), Serdar Kadioglu, European Journal on Computational Optimization [[bibtex]](https://dblp.org/rec/journals/ejco/Kadioglu19.html?view=bibtex)
+* `European Journal on Comb. Opt. 2019` [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9), Serdar Kadioglu, European Journal on Computational Optimization [[bibtex]](https://dblp.org/rec/journals/ejco/Kadioglu19.html?view=bibtex)
 * `CoRR 2017` [Column generation for interaction coverage in combinatorial software testing](https://arxiv.org/abs/1712.07081), Serdar Kadioglu [[bibtex]](https://dblp.org/rec/journals/corr/abs-1712-07081.html?view=bibtex)
 * [Heterogeneous resource allocation in cloud management](http://ieeexplore.ieee.org/document/7778589/), Serdar Kadioglu, Mike Colena, Samir Sebbah, IEEE Network Computing and Applications, `IEEE NCA 2016` [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/nca/KadiogluCS16)
 *  `CP 2016` [Availability optimization in cloud-based In-memory data grids](http://link.springer.com/chapter/10.1007%2F978-3-319-44953-1_42), Samir Sebbah, Claire Bagley, Mike Colena, Serdar Kadioglu, Constraint Programming [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SebbahBCK16)
@@ -44,7 +44,7 @@ author_profile: true
 ## Search – Combinatorial Optimization – Meta-Heuristics
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/), Session on Machine Learning and Discrete Optimization, 
 * `Dagsthul 2018` [Planning & operations research](https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf), [Dagstuhl Research Seminar Reports](https://www.dagstuhl.de/en/program/calendar/motivationstext/?semnr=18071) [[bibtex]](https://dblp.org/rec/journals/dagstuhl-reports/BeckMRH18.html?view=bibtex)
-* `EJOR 2016` [DASH: dynamic approach for switching heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, European Journal on Operations Research [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/eor/LibertoKLM16)
+* `Europen Journal on OR 2016` [DASH: dynamic approach for switching heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, European Journal on Operations Research [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/eor/LibertoKLM16)
 * `Constraints 2015` [Efficient search procedures for solving combinatorial problems](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), Serdar Kadioglu [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/constraints/Kadioglu15)
 * `AAAI 2014` [Parallel restarted search](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8597/8509), André A. Ciré, Serdar Kadioglu, Meinolf Sellmann [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/CireKS14)
 * `AAAI 2012` [Non-model-based search guidance for set partitioning problems](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann,  [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluMS12)
