@@ -60,7 +60,7 @@ author_profile: true
 * Clickstream Activity Featurization with Time-Decayed Aggregate Embeddings, Emily Strong, Serdar Kadioglu, US Patent Filed
 * Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed
 * [Digital content classification and recommendation using reinforcement learning](https://patentimages.storage.googleapis.com/be/b5/40/0e6badc27969a6/US10936961.pdf), Pramod R, 
-  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed FID677497, 2021
+  Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
 * [Automated predictive product recommendations using reinforcement learning](https://patentimages.storage.googleapis.com/be/b5/40/0e6badc27969a6/US10936961.pdf), Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
 * [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://patentimages.storage.googleapis.com/fb/54/22/796b7130833b04/US10248550.pdf), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
 * [Systems and methods for providing dynamic and real time simulations of matching resources to requests](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10146665.PN.&OS=PN/10146665&RS=PN/10146665), Serdar Kadioglu, US Patent 10146665, 2018
