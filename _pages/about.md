@@ -29,7 +29,9 @@ Here is a video presentation that covers some of our open-source work [Building 
 
 ### @Oracle
 
-I led the Advanced Constraint Technology R&D team to ship state-of-the-art optimization solutions for Oracle products facing industry-scale resource allocation problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). These contributions were recognized with an Oracle Entrepreneurship Award, received research funding for Oracle-CMU collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
+I led the Advanced Constraint Technology R&D team to ship state-of-the-art optimization solutions for Oracle products facing industry-scale resource allocation problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
+
+These contributions were recognized with an Oracle Entrepreneurship Award, received research funding for Oracle-CMU collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
 ### @Adobe
 
@@ -37,7 +39,11 @@ I built a context-free grammar-based test case generator for the [ActionScript](
 
 ### @Brown
 
-I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. My research work was awarded with the [IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), and I was a recipient of the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). Our group at Brown designed automated algorithm configurators that won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). During my studies, I also had the chance to work at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/). I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
+I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
+
+My research work was awarded with the [IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), and I was a recipient of the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). Our group at Brown designed automated algorithm configurators that won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). 
+
+I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
 ### @Sabanci
 
