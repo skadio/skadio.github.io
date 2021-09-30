@@ -9,7 +9,7 @@ author_profile: true
 
 ### [Jurity: Fairness & Bias Mitigation](https://github.com/fidelity/jurity)
 
-Fairness evaluation and bias mitigation techniques. Jurity is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
+Fairness and bias mitigation, and recommender system evaluation techniques. Jurity is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
 
 ---
 ### [MABWiser: Parallelizable Contextual Multi-Armed Bandits](https://github.com/fidelity/mabwiser)
@@ -39,6 +39,12 @@ Pattern mining library to find frequent pattern from large sequence databases. S
 **Reference:** [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/), Session on Machine Learning and Discrete Optimization, `INFORMS 2020`
 
 ---
+
+### [Selective: Feature Selection](https://github.com/fidelity/selective)
+
+A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. Selective is developed in the AI Center of Excellence at Fidelity Investments and is contributed to the open source.
+
+--- 
 
 ### [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads)
 Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. 
