@@ -32,8 +32,8 @@ author_profile: true
 ### Constraint Technology and Optimization
 
 A rich set of resources on [Constraint Technology](http://www.it.uu.se/research/group/astra/resources/constraint) compiled by the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra/) and great MOOCs:
-* [Discrete Optimization](https://www.coursera.org/course/optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
-* [Modeling Discrete Optimization](https://www.coursera.org/course/modelingoptimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
+* [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=Y2Cv_cdKo0A). 
+* [Modeling Discrete Optimization](https://www.coursera.org/learn/basic-modeling#syllabus) on Coursera. [YouTube trailer](https://www.youtube.com/watch?v=mN-XvxgeDhc).
 
 
 ---
