@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 * **[UPENN]** `Guest Lecture`\
-  [Optimization in Practice](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), [Dept. of Computer Science, Univ. of Pennsylvania](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), November 2021, Pennsylvania, USA 
+  [Optimization in Practice, Dept. of Computer Science, Univ. of Pennsylvania](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), November 2021, Pennsylvania, USA 
 
 * **[All Things Open]** `Invited Talk`\
   [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[Youtube Video]](https://www.youtube.com/watch?v=54d_YUalvOA)
