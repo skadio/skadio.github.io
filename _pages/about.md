@@ -18,14 +18,14 @@ In parallel with my industry role, I frequently participate in the (senior) [pro
 
 ### @Fidelity
 
-Leading a team responsible for Personalization & Recommender Systems from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
+Leading a team responsible for Personalization, Recommender Systems and Marketing Campaings from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
 
-Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the engineering teams and business partners, organize company-wide Kaggle style machine learning competitions and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
+Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the machine learning, engineering and business teams, organize company-wide Kaggle style machine learning competitions and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
 Externally, I coordinate the collaboration with other groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
 lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
-Here is a video presentation that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://www.youtube.com/watch?v=fK4g9yF31Pk)
+Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) and [video presentation](https://www.youtube.com/watch?v=54d_YUalvOA)
 
 ### @Oracle
 
