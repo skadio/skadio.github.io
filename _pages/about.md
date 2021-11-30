@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Serdar, I am the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the [Dept. of Computer Science](http://cs.brown.edu/) at Brown University. Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) team at Oracle and worked at Adobe.
+Hi! My name is Serdar. I am the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the [Dept. of Computer Science](http://cs.brown.edu/) at Brown University. Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) team at Oracle and worked at Adobe.
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Discrete Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
@@ -18,11 +18,11 @@ In parallel with my industry role, I frequently participate in the (senior) [pro
 
 ### @Fidelity
 
-Leading a team responsible for Personalization, Recommender Systems and Marketing Campaings from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
+Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
 
-Internally, I help guide the research agenda of the AI Center of Excellence, serve as a liaison between the machine learning, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
+Internally, I help guide the research agenda of the AI Center, serve as a liaison between the machine learning, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate the collaboration with other groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
+Externally, I coordinate the collaboration with relevant groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
 lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
 Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) ([YouTube video](https://www.youtube.com/watch?v=54d_YUalvOA))
@@ -41,7 +41,7 @@ I built a context-free grammar-based test case generator for the [ActionScript](
 
 I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
 
-My research work was awarded with the [IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), and I was a recipient of the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). Our group at Brown designed automated algorithm configurators that won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). 
+My research work was awarded the [IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), and I was a recipient of the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). 
 
 I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
