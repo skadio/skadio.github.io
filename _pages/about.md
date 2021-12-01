@@ -25,7 +25,7 @@ Internally, I help guide the research agenda of the AI Center, serve as a liaiso
 Externally, I coordinate the collaboration with relevant groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
 lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
-Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA))
+Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
 
 ### @Oracle
 
