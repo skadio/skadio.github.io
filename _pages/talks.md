@@ -13,13 +13,13 @@ author_profile: true
   [Optimization in Practice, Dept. of Computer Science, Univ. of Pennsylvania](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), November 2021, Pennsylvania, USA 
 
 * **[All Things Open]** `Invited Talk`\
-  [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[Youtube Video]](https://www.youtube.com/watch?v=54d_YUalvOA)
+  [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
   
  * **[IJCAI]** `Conference Talk`\
   [Active Learning meets Optimized Item Selection](https://sites.google.com/view/ijcai2021dso), [Data Sience Meets Optimization @ IJCAI](https://ijcai-21.org/), August 2021, Montreal, Canada  
  
 * **[Research Triangle Park]** `Meetup Talk`\
-  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[Youtube Video]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
+  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
 
 * **[AAAI]** `Conference Talk`\
   [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/): Virtual, February 2021, USA
