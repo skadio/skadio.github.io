@@ -18,7 +18,7 @@ In parallel with my industry role, I frequently participate in the (senior) [pro
 
 ### @Fidelity
 
-Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, and email, and ii) distribution channels for associates over the regional centers and branches. 
+Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
 Internally, I help guide the research agenda of the AI Center, serve as a liaison between the machine learning, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
