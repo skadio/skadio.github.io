@@ -12,7 +12,7 @@ Hi! My name is Serdar. I am the Vice President of Artificial Intelligence at [Fi
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Discrete Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
-In parallel with my industry role, I frequently participate in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, and similar research organizations. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf). 
+In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, and similar research organizations. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work, see, e.g., [course evaluations](https://github.com/skadio/skadio.github.io/blob/master/files/Student_Evaluations.pdf). 
 
 ## Background
 
@@ -20,22 +20,22 @@ In parallel with my industry role, I frequently participate in the (senior) [pro
 
 Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
-Internally, I help guide the research agenda of the AI Center, serve as a liaison between the machine learning, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
+Internally, I help guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate the collaboration with relevant groups at Google, NVIDIA, Amazon, CMU, Northeastern, etc., 
-lead open source projects for the company ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
+Externally, I coordinate strategic partnerships witin industry (Google, NVIDIA, Amazon, etc.) and universities (MIT, CMU, Northeastern, etc.),  
+lead Fidelity open source projects ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
 Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
 
 ### @Oracle
 
-I led the Advanced Constraint Technology R&D team to ship state-of-the-art optimization solutions for Oracle products facing industry-scale resource allocation problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
+I led the Advanced Constraint Technology R&D team to deploy state-of-the-art optimization solutions for Oracle products facing industry-scale problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
 
-These contributions were recognized with an Oracle Entrepreneurship Award, received research funding for Oracle-CMU collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
+Our contributions at Oracle were recognized with an Entrepreneurship Award, funding for Oracle-CMU research collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
 ### @Adobe
 
-I built a context-free grammar-based test case generator for the [ActionScript](https://en.wikipedia.org/wiki/ActionScript) virtual machine. This [automated fuzzer](https://en.wikipedia.org/wiki/Fuzzing) helped discover critical software vulnerabilities. 
+I built a context-free grammar-based evolutionary algorithm to generate automated test cases for the [ActionScript](https://en.wikipedia.org/wiki/ActionScript) virtual machine. This [automated fuzzer](https://en.wikipedia.org/wiki/Fuzzing) helped discover critical software vulnerabilities that were later on fixed before any global exploits.
 
 ### @Brown
 
