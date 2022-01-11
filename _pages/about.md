@@ -22,8 +22,7 @@ Leading a team responsible for Personalization, Recommender Systems, and Marketi
 
 Internally, I help guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate strategic partnerships witin industry (Google, NVIDIA, Amazon, etc.) and universities (MIT, CMU, Northeastern, etc.),  
-lead Fidelity open source projects ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
+Externally, I coordinate strategic partnerships witin industry (Google, NVIDIA, Amazon, etc.) and universities (MIT, CMU, Northeastern, etc.), lead Fidelity open source projects ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
 
 Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
 
