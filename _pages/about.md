@@ -20,6 +20,8 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
+Our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). 
+
 Internally, I help guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
 Externally, I coordinate strategic partnerships witin industry (Google, NVIDIA, Amazon, etc.) and universities (MIT, CMU, Northeastern, etc.), lead Fidelity open source projects ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
