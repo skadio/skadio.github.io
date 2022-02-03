@@ -18,6 +18,8 @@ author_profile: true
 ---
 
 ## Machine Learning
+* `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178), Xin Wang, Serdar Kadioglu, [Knowledge Discovery in Finance](https://aaai-kdf.github.io/kdf2022/)
+* `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://aaai.org/Conferences/AAAI-22/), Xin Wang, Amin Hosseininasab, Pablo Colunga, Serdar Kadioglu, Willem-Jan van Hoeve
 * `IJCAI 2021` Active Learning Meets Optimized Item Selection, Bernard Kleynhans, Xin Wang, Serdar Kadioglu, [International Joint Conference on Artificial Intelligence](https://ijcai-21.org/), [Data Science meets Optimization](https://sites.google.com/view/ijcai2021dso)
 * `ICMLA 2021` Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation, Filip Michalsky, Serdar Kadioglu, [IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla21/)
 * `CPAIOR 2021` [Optimized Item Selection to Boost Exploration for Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), Serdar Kadioglu, Bernard Kleynhans, Xin Wang, [International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://cpaior2021.dbai.tuwien.ac.at/) [[bibtex]](https://dblp.org/rec/conf/cpaior/KadiogluKW21.html?view=bibtex) [[video]](https://www.youtube.com/watch?v=akMsTAh9ed8&t=1s)
