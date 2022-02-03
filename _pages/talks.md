@@ -9,6 +9,13 @@ author_profile: true
 
 <a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
+### 2022
+
+---
+
+* **[NVIDIA GTC]** `Featured Talk`\
+  [Multi-Objective Optimization](https://www.nvidia.com/gtc/session-catalog/?search=serdar#/session/1641943080331001HaEb), [NVIDIA GTC](https://www.nvidia.com/gtc)March 2022, USA 
+  
 ### 2021
 
 ---
