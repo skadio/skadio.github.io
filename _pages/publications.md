@@ -37,7 +37,7 @@ author_profile: true
 * `AAAI 2008` [Efficient context-free grammar constraints](http://www.aaai.org/Papers/AAAI/2008/AAAI08-049.pdf), Serdar Kadioglu, Meinolf Sellmann [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluS08)
 
 
-## Search & Combinatorial Optimization
+## Search & Optimization
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/), Session on Machine Learning and Discrete Optimization
 * `Dagsthul 2018` [Planning & operations research](https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf), [Dagstuhl Research Seminar Reports](https://www.dagstuhl.de/en/program/calendar/motivationstext/?semnr=18071) [[bibtex]](https://dblp.org/rec/journals/dagstuhl-reports/BeckMRH18.html?view=bibtex)
 * `Europen Journal on OR 2016` [DASH: dynamic approach for switching heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, European Journal on Operations Research [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/eor/LibertoKLM16)
