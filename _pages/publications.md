@@ -10,7 +10,7 @@ author_profile: true
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en)
 
 
-## Machine Learning – Algorithm Configuration – Portfolios
+## Machine Learning
 * `IJCAI 2021` Active Learning Meets Optimized Item Selection, Bernard Kleynhans, Xin Wang, Serdar Kadioglu, [International Joint Conference on Artificial Intelligence](https://ijcai-21.org/), [Data Science meets Optimization](https://sites.google.com/view/ijcai2021dso)
 * `ICMLA 2021` Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation, Filip Michalsky, Serdar Kadioglu, [IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla21/)
 * `CPAIOR 2021` [Optimized Item Selection to Boost Exploration for Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), Serdar Kadioglu, Bernard Kleynhans, Xin Wang, [International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://cpaior2021.dbai.tuwien.ac.at/) [[bibtex]](https://dblp.org/rec/conf/cpaior/KadiogluKW21.html?view=bibtex) [[video]](https://www.youtube.com/watch?v=akMsTAh9ed8&t=1s)
@@ -30,8 +30,7 @@ author_profile: true
 * `CP 2011` [Algorithm selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_35), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
 * `ECAI 2010` [ISAC: instance-specific algorithm configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
-
-## Inference – Symbolic Reasoning – Modeling Global Constraints
+## Symbolic Reasoning
 * `MOPTA 2021` [Integrated Vehicle Routing and Monte Carlo Scheduling Approach for the Home Service Assignment, Routing, and Scheduling Problem](https://arxiv.org/abs/2106.16176) <span style="color:green">Finalist of the [2011 AIMMS-MOPTA Optimization Challenge](https://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/?fbclid=IwAR0XLQYZUDtsNmve2J1gvXJcr9pe_unIyFQMoE4rth4kXbIwKkTlnzYPZSI)</span>
 * `European Journal on Comb. Opt. 2019` [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9), Serdar Kadioglu, European Journal on Computational Optimization [[bibtex]](https://dblp.org/rec/journals/ejco/Kadioglu19.html?view=bibtex)
 * `CoRR 2017` [Column generation for interaction coverage in combinatorial software testing](https://arxiv.org/abs/1712.07081), Serdar Kadioglu [[bibtex]](https://dblp.org/rec/journals/corr/abs-1712-07081.html?view=bibtex)
@@ -44,7 +43,7 @@ author_profile: true
 * `AAAI 2008` [Efficient context-free grammar constraints](http://www.aaai.org/Papers/AAAI/2008/AAAI08-049.pdf), Serdar Kadioglu, Meinolf Sellmann [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KadiogluS08)
 
 
-## Search – Combinatorial Optimization – Meta-Heuristics
+## Search & Combinatorial Optimization
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/), Session on Machine Learning and Discrete Optimization, 
 * `Dagsthul 2018` [Planning & operations research](https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf), [Dagstuhl Research Seminar Reports](https://www.dagstuhl.de/en/program/calendar/motivationstext/?semnr=18071) [[bibtex]](https://dblp.org/rec/journals/dagstuhl-reports/BeckMRH18.html?view=bibtex)
 * `Europen Journal on OR 2016` [DASH: dynamic approach for switching heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky, European Journal on Operations Research [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/eor/LibertoKLM16)
@@ -56,6 +55,18 @@ author_profile: true
 * `Banff 2009` [Search in constraint programming](https://www.birs.ca/workshops/2009/09w5125/report09w5125.pdf), [Banff International Research Workshop](https://www.birs.ca/events/2009/5-day-workshops/09w5125), 
 * `CROCS 2009` [A local search meta-Heuristic for non-specialists](http://www.computational-sustainability.org/crocs09/papers/kadioglu-crocs09.pdf), Serdar Kadioglu, Meinolf Sellmann, Constraint Reasoning and Optimization for Computational Sustainability [[bibtex]](https://scholar.googleusercontent.com/citations?view_op=export_citations&user=tOgYtHkAAAAJ&s=tOgYtHkAAAAJ:UeHWp8X0CEIC&citsig=AMstHGQAAAAAWAk8WmI6V5Rczo_KCQHRd3ICDHpfdscW&hl=en&cit_fmt=0)
 * `CP 2008` [Dichotomic search protocols for constrained optimization](https://link.springer.com/chapter/10.1007%2F978-3-540-85958-1_17), Meinolf Sellmann, Serdar Kadioglu, Constraint Programming [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/SellmannK08) <span style="color:green">Nominated for the Best Paper Award</span>
+
+## Algorithm Configuration
+* `CP 2019` [How to win gold at a SAT competition without writing a SAT solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Constraint Programming Anniversary Volume
+* `CP 2019` [Constrained logistic regression to avoid undesirable predictions](https://cp2019.a4cp.org/accepted_abstracts.html), David Bergman, Mohsen Emadikhiav and Serdar Kadioglu
+* `ICTAI 2019` [MABWiser: contextual multi-armed bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex)[[code]](https://github.com/fmr-llc/mabwiser)
+* `LION 2017` [Learning a reactive restart strategy to improve stochastic search](https://link.springer.com/chapter/10.1007/978-3-319-69404-7_8), Serdar Kadioglu, Meinolf Sellmann, Markus Wager, Learning and Intelligent Optimization [[bibtex]](https://dblp.org/rec/conf/lion/KadiogluSW17.html?view=bibtex)
+* `Computer Speech & Language 2015` [Feature selection methods and their combinations in high-dimensional classification of speaker likability, intelligibility and personality traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), Jouni Pohjalainen, Okko Räsänen, Serdar Kadioglu [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/csl/PohjalainenRK15) [[code]](https://sites.google.com/site/serdrk/software)
+* `CoRR 2014` [Transformation-based feature computation for algorithm portfolios](http://arxiv.org/abs/1401.2474), Barry Hurley, Serdar Kadioglu, Yuri Malitsky, Barry O'Sullivan [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/0001KMO14)
+* `CoRR 2013` [DASH: dynamic approach for switching heuristics](http://arxiv.org/abs/1307.4689), Giovanni Di Liberto, Serdar Kadioglu, Kevin Leo, Yuri Malitsky [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/LibertoKLM13)
+* `Interspeech 2012` [Feature selection for speaker traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
+* `CP 2011` [Algorithm selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_35), Serdar Kadioglu, Yuri Malitsky, Ashish Sabharwal, Horst Samulowitz, Meinolf Sellmann, Constraint Programming [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/cp/KadiogluMSSS11) [[code]](https://sites.google.com/site/serdrk/software) <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
+* `ECAI 2010` [ISAC: instance-specific algorithm configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
 ## Patents
 
@@ -78,6 +89,5 @@ author_profile: true
 ## Theses
 
 * [Efficient search procedures for solving combinatorial problems](http://www.cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf), PhD thesis, Department of Computer Science, Brown University 2012 <span style="color:green">Awarded the 2010 Ph.D. Scholarship by IBM</span>
-
 
 * [Grammar constraints combining expressiveness with efficiency](http://www.cs.brown.edu/research/pubs/theses/masters/2009/kadioglu.pdf), M.Sc. thesis, Department of Computer Science, Brown University 2009
