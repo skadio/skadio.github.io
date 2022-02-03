@@ -9,6 +9,15 @@ author_profile: true
 
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en)
 
+---
+
+Research Areas: 
+[Machine Learning](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#machine-learning) 
+[Symbolic Reasoning](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#symbolic-reasoning)
+[Search & Optimization](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#search--optimization)
+[Algorithm Configuration](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#algorithm-configuration)
+[Patents](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#patents)
+[Theses](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#theses)
 
 ## Machine Learning
 * `IJCAI 2021` Active Learning Meets Optimized Item Selection, Bernard Kleynhans, Xin Wang, Serdar Kadioglu, [International Joint Conference on Artificial Intelligence](https://ijcai-21.org/), [Data Science meets Optimization](https://sites.google.com/view/ijcai2021dso)
