@@ -9,7 +9,7 @@ author_profile: true
 
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) <br>
 [Machine Learning](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#machine-learning) \|
-[Symbolic Reasoning](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#symbolic-reasoning) <br>
+[Symbolic Reasoning](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#symbolic-reasoning) \|
 [Search & Optimization](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#search--optimization) \|
 [Algorithm Configuration](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#algorithm-configuration) <br>
 [Patents](https://github.com/skadio/skadio.github.io/edit/master/_pages/publications.md#patents) \|
