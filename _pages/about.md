@@ -20,7 +20,7 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
-Our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). 
+Our applied research is featured at [NVIDIA GTC](https://www.nvidia.com/gtc/) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). 
 
 Internally, I help guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
