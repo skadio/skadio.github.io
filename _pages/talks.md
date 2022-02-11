@@ -27,13 +27,13 @@ author_profile: true
   [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
   
  * **[IJCAI]** `Conference Talk`\
-  [Active Learning meets Optimized Item Selection](https://sites.google.com/view/ijcai2021dso), [Data Sience Meets Optimization @ IJCAI](https://ijcai-21.org/), August 2021, Montreal, Canada  
+  [Active Learning meets Optimized Item Selection](https://arxiv.org/abs/2112.03105), [Data Sience Meets Optimization @ IJCAI](https://sites.google.com/view/ijcai2021dso), August 2021, Montreal, Canada  
  
 * **[Research Triangle Park]** `Meetup Talk`\
   [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
 
 * **[AAAI]** `Conference Talk`\
-  [Representing the unification of text featurization using a context-free grammar](https://aaai.org/Conferences/AAAI-21/): Virtual, February 2021, USA
+  [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814), Virtual, February 2021, USA
 
 
 ### 2020 
@@ -43,11 +43,9 @@ author_profile: true
 * **[Dagstuhl]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20421), Dagstuhl Research Seminars (cancelled due to COVID), October 2020, Schloss Dagstuhl, Germany 
 
-  
 
 * **[INFORMS]** `Conference Talk`\
   [Seq2Pat](https://github.com/fidelity/seq2pat): Sequence-to-Pattern Generation In Large-Scale Sequence Databases, [INFORMS Session on Machine Learning and Discrete Optimization](http://meetings2.informs.org/wordpress/annual2020/), Virtual, November 2020, Marryland, USA
-
   
 
 * **[TechWeek]** `Invited Panelist`\
@@ -85,11 +83,8 @@ author_profile: true
   [Planning and Operations Research](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18071), Dagstuhl Seminars, February 2018, Schloss Dagstuhl, Germany, 
 
   
-
 * **[ACP Summer School]** `Lecturer`\
   [Constraint-based Solutions for Resource Allocation Problems](https://school.a4cp.org/summer2018/#speakers), The 14th Summer School of the Association for Constraint Programming (ACP), June 2018, Wyoming, USA
-
-  
 
 * **[INFORMS]** `Conference Talk`\
   [Instance-Specific Algorithm Configuration](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=db1ebdc0-61af-404b-a46e-8b92214fbb9e&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&ReturnUrl=%2Funiversityofminnesota%2Fourdiscussiongroup), INFORMS Boston Chapter, April 2018, Boston, USA
