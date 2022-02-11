@@ -90,5 +90,5 @@ author_profile: true
   [Instance-Specific Algorithm Configuration](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=db1ebdc0-61af-404b-a46e-8b92214fbb9e&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&ReturnUrl=%2Funiversityofminnesota%2Fourdiscussiongroup), INFORMS Boston Chapter, April 2018, Boston, USA
 
 
-* **[GMA]** `Invited Talk`\
-  A Day in the Life of a Data Scientist, Fidelity General Management Apprenticeship (GMA) Program, September 2018, North Carolina, USA
+* **[Fidelity]** `Invited Talk`\
+  A Day in the Life of a Data Scientist, Fidelity General Management Apprenticeship Program, September 2018, North Carolina, USA
