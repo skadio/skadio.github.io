@@ -20,19 +20,19 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
-Our applied research is featured at [NVIDIA GTC](https://www.nvidia.com/gtc/) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). 
+Our applied research is featured at [NVIDIA GTC](https://www.nvidia.com/gtc/) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
 
-Internally, I help guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate strategic partnerships witin industry (Google, NVIDIA, Amazon, etc.) and universities (MIT, CMU, Northeastern, etc.), lead Fidelity open source projects ([MABWiser](https://github.com/fidelity/mabwiser), [TextWiser](https://github.com/fidelity/textwiser), [Jurity](https://github.com/fidelity/jurity), [Seq2Pat](https://github.com/fidelity/seq2pat), etc.), help create college recruiting programs and mentor students, especially those from underrepresented groups, through internships and co-op opportunities.
+Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
+Externally, I coordinate strategic partnerships with the high-tech industry, including Amazon, Google, and NVIDIA, and research institutions, including CMU, Harvard, MIT. I lead  Fidelity's efforts for open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
+
 
 ### @Oracle
 
 I led the Advanced Constraint Technology R&D team to deploy state-of-the-art optimization solutions for Oracle products facing industry-scale problems in [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
 
-Our contributions at Oracle were recognized with an Entrepreneurship Award, funding for Oracle-CMU research collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
+Our contributions at Oracle were recognized with an Entrepreneurship Award, received funding for CMU-Oracle joint research collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
 ### @Adobe
 
