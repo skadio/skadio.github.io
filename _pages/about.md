@@ -25,7 +25,7 @@ Our applied research is featured at [NVIDIA GTC](https://www.nvidia.com/gtc/) an
 
 Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
-Externally, I coordinate strategic partnerships with the high-tech industry, including Amazon, Google, and NVIDIA, and research institutions, including CMU, Harvard, MIT. I lead  Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
+Externally, I coordinate strategic partnerships with the high-tech industry, including Amazon, Google, and NVIDIA, and research institutions, including CMU, Harvard, and MIT. I lead  Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
 
 
 ### @Oracle
