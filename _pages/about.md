@@ -20,7 +20,7 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
-Our applied research is featured at [NVIDIA GTC](https://www.nvidia.com/gtc/) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
+Our applied research is featured at [NVIDIA GTC](https://www.youtube.com/watch?v=_v-B2nRy79w) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
 
 
 Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
