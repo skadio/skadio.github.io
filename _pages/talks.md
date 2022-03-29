@@ -14,7 +14,7 @@ author_profile: true
 ---
 
 * **[NVIDIA GTC]** `Featured Talk`\
-  [Multi-Objective Optimization](https://www.youtube.com/watch?v=_v-B2nRy79w) ([slides](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/S42373.pdf)), [NVIDIA GTC](https://www.nvidia.com/gtc), March 2022, USA 
+  [Multi-Objective Optimization](https://www.youtube.com/watch?v=_v-B2nRy79w) [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/S42373.pdf), [NVIDIA GTC](https://www.nvidia.com/gtc), March 2022, USA 
   
 ### 2021
 
