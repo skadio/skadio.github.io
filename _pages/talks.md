@@ -14,7 +14,7 @@ author_profile: true
 ---
 
 * **[NVIDIA GTC]** `Featured Talk`\
-  [Multi-Objective Optimization](https://www.nvidia.com/gtc/session-catalog/?search=serdar#/session/1641943080331001HaEb), [NVIDIA GTC](https://www.nvidia.com/gtc), March 2022, USA 
+  [Multi-Objective Optimization](https://www.youtube.com/watch?v=_v-B2nRy79w), [NVIDIA GTC](https://www.nvidia.com/gtc), March 2022, USA 
   
 ### 2021
 
