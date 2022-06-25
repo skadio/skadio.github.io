@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Serdar. I am the Vice President of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the Dept. of Computer Science at [Brown University](http://cs.brown.edu/people/faculty/skadiogl). Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) group at Oracle and worked at Adobe.
+Hi! My name is Serdar. I am the Group VP of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Assistant Professor in the Dept. of Computer Science at [Brown University](http://cs.brown.edu/people/faculty/skadiogl). Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) group at Oracle and worked at Adobe.
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Discrete Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
@@ -18,10 +18,9 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 ### @Fidelity
 
-Leading a team responsible for Personalization, Recommender Systems, and Marketing Campaigns from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
+Our teams focus on Personalization, Recommender System, and Marketing Campaign Optimization from ideation to productionization across i) digital channels for customers over the web, mobile, email, and virtual agents, and ii) distribution channels for associates over the regional centers and branches. 
 
 Our applied research is featured at [NVIDIA GTC](https://www.youtube.com/watch?v=_v-B2nRy79w) and a summary of our recent research contributions can be found in [Year in Review](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a recent talk that covers some of our open-source work [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
-
 
 Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
 
