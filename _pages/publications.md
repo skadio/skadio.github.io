@@ -18,6 +18,7 @@ author_profile: true
 ---
 
 ## Machine Learning
+* `Frontiers 2022` [Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis](https://www.frontiersin.org/articles/10.3389/frai.2022.868085/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=868085), Sohom Ghosh, Shefali Yadav, Xin Wang, Bibhash Serdar Kadioglu, [Knowledge Discovery from Unstructured Data in Finance](https://www.frontiersin.org/research-topics/21489/knowledge-discovery-from-unstructured-data-in-finance#articles)
 * `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178), Xin Wang, Serdar Kadioglu, [Knowledge Discovery in Finance](https://aaai-kdf.github.io/kdf2022/)
 * `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://aaai.org/Conferences/AAAI-22/), Xin Wang, Amin Hosseininasab, Pablo Colunga, Serdar Kadioglu, Willem-Jan van Hoeve
 * `IJCAI 2021` [Active Learning Meets Optimized Item Selection](https://arxiv.org/abs/2112.03105), Bernard Kleynhans, Xin Wang, Serdar Kadioglu, [International Joint Conference on Artificial Intelligence](https://ijcai-21.org/), [Data Science meets Optimization](https://sites.google.com/view/ijcai2021dso)
