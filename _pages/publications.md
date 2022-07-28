@@ -68,10 +68,9 @@ author_profile: true
 * `ECAI 2010` [ISAC: instance-specific algorithm configuration](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17848), Serdar Kadioglu, Yuri Malitsky, Meinolf Sellmann, Kevin Tierney, European Conference on Artificial Intelligence [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/ecai/KadiogluMST10) [[code]](https://sites.google.com/site/serdrk/software)
 
 ## Patents
-
-* Surrogate ground truth generation in artificial intelligence based marketing campaigns, Filip Michalsky, Serdar Kadioglu, US Patent Filed
 * Clickstream activity featurization with time-decayed aggregate embeddings, Emily Strong, Serdar Kadioglu, US Patent Filed
 * Self-learning financial content recommendations to solve the cold start problem, Anshuman Pradhan, Pramod R, Shishir Shekar, Serdar Kadioglu, Alex Arias-Vargas, US Patent Filed
+* [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20220188843.PGNR), Filip Michalsky, Serdar Kadioglu, US Patent 20220188843, 2022
 * [Digital content classification and recommendation using reinforcement learning](https://patentimages.storage.googleapis.com/b9/73/ac/42c55bb5d0338e/US20210142196A1.pdf), Pramod R, Anshuman Pradhan, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 0142196, 2021
 * [Automated predictive product recommendations using reinforcement learning](https://patentimages.storage.googleapis.com/be/b5/40/0e6badc27969a6/US10936961.pdf), Akshay Jain, Bernard Kleynhans, Debalina Gupta, Shishir Shekhar, Serdar Kadioglu, Alex Arias-Vargas, US Patent 10936961, 2021
 * [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://patentimages.storage.googleapis.com/fb/54/22/796b7130833b04/US10248550.pdf), Serdar Kadioglu, Samir Sebbah, US Patent 10248550, 2019
