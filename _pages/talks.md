@@ -12,8 +12,18 @@ author_profile: true
 ### 2022
 
 ---
+
+* **[Comet ML]** `Invited Panelist`\
+   [The Era of Hyper-Personalization]([https://www.istanbultechweek.com/konusmacilar](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Jacopo&utm_medium=partner&utm_campaign=Webinar_RecSys_2022)), November 2022, USA
+   
+* **[Bucknell University]** `Invited Talk`\
+   [Multi-Objective Optimization in Recommender Systems]([https://www.istanbultechweek.com/konusmacilar](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Jacopo&utm_medium=partner&utm_campaign=Webinar_RecSys_2022)), November 2022, USA
+   
+* **[Dagsthul CS Seminars]** `Invited Researcher`\
+  [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul]([https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning](https://www.dagstuhl.de/)), October 2022, Germany 
+
 * **[Imperial College]** `Research Seminar`\
-  [Declarative Approaches to Optimization]()[Data Learning](https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning), May 2022, UK 
+  [Declarative Approaches in Optimization](), [Data Learning](https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning), May 2022, UK 
 
 * **[NVIDIA GTC]** `Featured Talk`\
   [Multi-Objective Optimization](https://www.youtube.com/watch?v=_v-B2nRy79w) [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/S42373.pdf), [NVIDIA GTC](https://www.nvidia.com/gtc), March 2022, USA 
