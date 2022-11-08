@@ -17,7 +17,7 @@ author_profile: true
    [The Era of Hyper-Personalization]([https://www.istanbultechweek.com/konusmacilar](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Jacopo&utm_medium=partner&utm_campaign=Webinar_RecSys_2022)), November 2022, USA
    
 * **[Bucknell University]** `Invited Talk`\
-   [Multi-Objective Optimization in Recommender Systems]([https://www.istanbultechweek.com/konusmacilar](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Jacopo&utm_medium=partner&utm_campaign=Webinar_RecSys_2022)), November 2022, USA
+   [Multi-Objective Optimization in Recommender Systems](), November 2022, USA
    
 * **[Dagsthul CS Seminars]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul]([https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning](https://www.dagstuhl.de/)), October 2022, Germany 
