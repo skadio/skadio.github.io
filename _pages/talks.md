@@ -14,12 +14,12 @@ author_profile: true
 ---
 
 * **[Comet ML]** `Invited Panelist`\
-   [The Era of Hyper-Personalization](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=website&utm_medium=referral&utm_campaign=Webinar_RecSys_2022&utm_content=image-text)), November 2022, USA
+   [The Era of Hyper-Personalization](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Serdar&utm_medium=partner&utm_campaign=Webinar_RecSys_2022), November 2022, USA
    
 * **[Bucknell University]** `Invited Talk`\
-   [Multi-Objective Optimization in Recommender Systems](), November 2022, USA
+   [Multi-Objective Optimization in Recommender Systems](https://management.blogs.bucknell.edu/2022/11/08/serdar-kadioglu-to-speak-friday-november-11th/), [Presentation Slides](https://www.linkedin.com/feed/update/urn:li:activity:6995495405413138432/), November 2022, USA
    
-* **[Dagsthul CS Seminars]** `Invited Researcher`\
+* **[Dagstuhl CS Seminars]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul]([https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning](https://www.dagstuhl.de/)), October 2022, Germany 
 
 * **[Imperial College]** `Research Seminar`\
@@ -52,7 +52,7 @@ author_profile: true
 
 ---
 
-* **[Dagstuhl]** `Invited Researcher`\
+* **[Dagstuhl CS Seminars]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20421), Dagstuhl Research Seminars (cancelled due to COVID), October 2020, Schloss Dagstuhl, Germany 
 
 
