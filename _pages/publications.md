@@ -18,9 +18,9 @@ author_profile: true
 ---
 
 ## Machine Learning
-* `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://sites.google.com/view/cpaior2023)
-* `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/)
-* `NeurIPS 2022` [Natural Language for Optimization](https://nl4opt.github.io/)
+* `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://sites.google.com/view/cpaior2023), Parag Dakle, Serdar Kadioglu, Karthik Uppuluri, Regina Politi, Preethi Raghavan, SaiKrishna Rallabandi, Ravisutha Srinivasamurthy, [International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://sites.google.com/view/cpaior2023)
+* `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/), Melinda Thielbar, Serdar Kadioglu, Chenhui Zhang, Rick Pack, Lukas Dannull, [Learning and Intelligent Optimization](https://lion17.org/)
+* `NeurIPS 2022` [Natural Language for Optimization](https://nl4opt.github.io/), Parag Dakle, Serdar Kadioglu, Karthik Uppuluri, Regina Politi, Preethi Raghavan, SaiKrishna Rallabandi, Ravisutha Srinivasamurthy, [Conference on Neural Information Processing Systems](https://nips.cc/Conferences/2022)
 * `Frontiers 2022` [Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis](https://www.frontiersin.org/articles/10.3389/frai.2022.868085/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=868085), Sohom Ghosh, Shefali Yadav, Xin Wang, Bibhash Serdar Kadioglu, [Knowledge Discovery from Unstructured Data in Finance](https://www.frontiersin.org/research-topics/21489/knowledge-discovery-from-unstructured-data-in-finance#articles)
 * `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178), Xin Wang, Serdar Kadioglu, [Knowledge Discovery in Finance](https://aaai-kdf.github.io/kdf2022/)
 * `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://aaai.org/Conferences/AAAI-22/), Xin Wang, Amin Hosseininasab, Pablo Colunga, Serdar Kadioglu, Willem-Jan van Hoeve
