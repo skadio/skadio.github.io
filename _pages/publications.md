@@ -18,7 +18,7 @@ author_profile: true
 ---
 
 ## Machine Learning
-* `AI Magazine` [Seq2Pat: Sequence-to-pattern generation to bridge patternmining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081), Serdar Kadioglu, Xin Wang, Amin Hosseininasab, Willem-Jan van Hoeve, [AI Magazine](https://onlinelibrary.wiley.com/toc/23719621/2023/44/1)
+* `AI Magazine 2023` [Seq2Pat: Sequence-to-pattern generation to bridge patternmining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081), Serdar Kadioglu, Xin Wang, Amin Hosseininasab, Willem-Jan van Hoeve, [AI Magazine](https://onlinelibrary.wiley.com/toc/23719621/2023/44/1)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://sites.google.com/view/cpaior2023), Parag Dakle, Serdar Kadioglu, Karthik Uppuluri, Regina Politi, Preethi Raghavan, SaiKrishna Rallabandi, Ravisutha Srinivasamurthy, [International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://sites.google.com/view/cpaior2023)
 * `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/), Melinda Thielbar, Serdar Kadioglu, Chenhui Zhang, Rick Pack, Lukas Dannull, [Learning and Intelligent Optimization](https://lion17.org/)
 * `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining
