@@ -9,7 +9,7 @@ author_profile: true
 
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) <br>
 [Machine Learning](https://skadio.github.io/publications/#machine-learning) \|
-[Symbolic Reasoning](https://skadio.github.io/publications/#symbolic-reasoning) \|
+[Algorithmic Reasoning](https://skadio.github.io/publications/#algorithmic-reasoning) \|
 [Search & Optimization](https://skadio.github.io/publications/#search--optimization) \|
 [Algorithm Configuration](https://skadio.github.io/publications/#algorithm-configuration) <br>
 [Patents](https://skadio.github.io/publications/#patents) \|
@@ -18,6 +18,9 @@ author_profile: true
 ---
 
 ## Machine Learning
+* `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://sites.google.com/view/cpaior2023)
+* `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/)
+* `NeurIPS 2022` [Natural Language for Optimization](https://nl4opt.github.io/)
 * `Frontiers 2022` [Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis](https://www.frontiersin.org/articles/10.3389/frai.2022.868085/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=868085), Sohom Ghosh, Shefali Yadav, Xin Wang, Bibhash Serdar Kadioglu, [Knowledge Discovery from Unstructured Data in Finance](https://www.frontiersin.org/research-topics/21489/knowledge-discovery-from-unstructured-data-in-finance#articles)
 * `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178), Xin Wang, Serdar Kadioglu, [Knowledge Discovery in Finance](https://aaai-kdf.github.io/kdf2022/)
 * `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://aaai.org/Conferences/AAAI-22/), Xin Wang, Amin Hosseininasab, Pablo Colunga, Serdar Kadioglu, Willem-Jan van Hoeve
@@ -34,7 +37,7 @@ author_profile: true
 * `Computer Speech & Language 2015` [Feature selection methods and their combinations in high-dimensional classification of speaker likability, intelligibility and personality traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), Jouni Pohjalainen, Okko Räsänen, Serdar Kadioglu [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/csl/PohjalainenRK15) [[code]](https://sites.google.com/site/serdrk/software)
 * `Interspeech 2012` [Feature selection for speaker traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf), Jouni Pohjalainen, Serdar Kadioglu, Okko Räsänen [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/PohjalainenKR12) [[code]](https://sites.google.com/site/serdrk/software)
 
-## Symbolic Reasoning
+## Algorithmic Reasoning
 * `MOPTA 2021` [Integrated Vehicle Routing and Monte Carlo Scheduling Approach for the Home Service Assignment, Routing, and Scheduling Problem](https://arxiv.org/abs/2106.16176) <span style="color:green">Finalist at the AIMMS-MOPTA Optimization Modeling Competition</span> [Brown News](http://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
 * `European Journal on Comb. Opt. 2019` [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9), Serdar Kadioglu, European Journal on Computational Optimization [[bibtex]](https://dblp.org/rec/journals/ejco/Kadioglu19.html?view=bibtex)
 * `CoRR 2017` [Column generation for interaction coverage in combinatorial software testing](https://arxiv.org/abs/1712.07081), Serdar Kadioglu [[bibtex]](https://dblp.org/rec/journals/corr/abs-1712-07081.html?view=bibtex)
