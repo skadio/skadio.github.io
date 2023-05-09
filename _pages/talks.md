@@ -12,9 +12,11 @@ author_profile: true
 
 ---
 
-* **[Strategic Industry Partnerships]** `Invited Talk`\
-   [Fidelity Global AI Forum](), April 2023, USA
+* **[Fidelity Global AI Forum]** `Invited Talk`\
+   [How to succeed in strategic industry partnerships?](), April 2023, USA
   
+* **[Bridge Program @ AAAI]** `Tutorial`\
+   [Bridging Constraints and Machine Learning](http://osullivan.ucc.ie/CPML2023/), Februrary 2023, USA [[paper]](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)
   
 ### 2022
 
@@ -27,7 +29,7 @@ author_profile: true
    [Multi-Objective Optimization in Recommender Systems](https://management.blogs.bucknell.edu/2022/11/08/serdar-kadioglu-to-speak-friday-november-11th/), [[Presentation Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_Bucknell_2022.pdf), November 2022, USA [[video]](https://mediaspace.bucknell.edu/media/Optimized+Item+Selection+to+Boost+Exploration+for+Recommender+Systems+-+Serdar+Kadioglu%2C+Fidelity%2C+11+11+2022/1_3iou676g/185503823)
    
 * **[Dagstuhl CS Seminars]** `Invited Researcher`\
-  [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul]([https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning](https://www.dagstuhl.de/)), October 2022, Germany 
+  [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul](https://www.dagstuhl.de/), October 2022, Germany [[final report]](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
 
 * **[Imperial College]** `Research Seminar`\
   [Declarative Approaches in Optimization](), [Data Learning](https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning), May 2022, UK 
