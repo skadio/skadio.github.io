@@ -8,7 +8,14 @@ author_profile: true
 ---
 
 <a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+### 2023
 
+---
+
+* **[Strategic Industry Partnerships]** `Invited Talk`\
+   [Fidelity Global AI Forum](), April 2023, USA
+  
+  
 ### 2022
 
 ---
