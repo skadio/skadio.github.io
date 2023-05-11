@@ -22,6 +22,7 @@ author_profile: true
 
 ### Natural Language Processing
 
+- [Ner4Opt](https://github.com/skadio/ner4opt) Given an optimization problem in natural language, extract optimization related entities from free-form text. Related work: ([CPAIOR'23](https://github.com/skadio/ner4opt/blob/main/docs/%5BCPAIOR%202023%5D%20Ner4Opt%20Paper.pdf), [NeurIPS'22](https://github.com/skadio/ner4opt/blob/main/docs/%5BNeurIPS%202022%5D%20Ner4Opt%20Poster.pdf))
 - [TextWiser](https://github.com/fidelity/textwiser) Text featurization NLP library that unifies several text embedding techniques. Related work: [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17814)
 
 ---
