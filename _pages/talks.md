@@ -12,6 +12,9 @@ author_profile: true
 
 ---
 
+* **[Ner4Opt @ CPAIOR]** `Conference Talk`\
+   [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf), May 2023, France
+
 * **[Fidelity Global AI Forum]** `Invited Talk`\
    [How to succeed in strategic industry partnerships?](), April 2023, USA
   
