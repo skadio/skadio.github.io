@@ -15,7 +15,7 @@ author_profile: true
 
 ### Personalization & Contextual Bandits
 
-- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender)) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [ODSC 2023](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/)
+- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [ODSC 2023](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/)
 - [MABWiser](https://github.com/fidelity/mabwiser) Parallelizable, contextual multi-armed bandits library with simulation capabilities. [IJAIT 2021](https://www.worldscientific.com/doi/10.1142/S0218213021500214), [ICTAI 2019](https://ieeexplore.ieee.org/document/8995418)
 
 ---
