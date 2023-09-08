@@ -30,6 +30,7 @@ author_profile: true
 * `AAAI 2021` [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814), Doruk Kilitcioglu, Serdar Kadioglu [[bibtex]](https://dblp.org/rec/conf/aaai/KilitciogluK21.html?view=bibtex) [[video]](https://slideslive.com/38951112/representing-the-unification-of-text-featurization-using-a-contextfree-grammar?ref=account-folder-75501-folders)
   
 ## Responsible AI 
+* `arXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976), Gili Rosenberg, J. Kyle Brubaker, Martin J. A. Schuetz, Grant Salton, Zhihuai Zhu, Elton Yechao Zhu, Serdar Kadıoğlu, Sima E. Borujeni, Helmut G. Katzgraber [[blog post]](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas)
 * `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/), Melinda Thielbar, Serdar Kadioglu, Chenhui Zhang, Rick Pack, Lukas Dannull, [Learning and Intelligent Optimization](https://lion17.org/) [[library]](https://github.com/fidelity/jurity)
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169), Filip Michalsky, Serdar Kadioglu, [IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla21/)
 
@@ -40,7 +41,7 @@ author_profile: true
 * `IJAIT 2021` [Parallelizable contextual multi-armed bandits](https://www.worldscientific.com/doi/10.1142/S0218213021500214), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait) 
 * `JDSA 2021` [Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning](https://link.springer.com/article/10.1007/s41060-020-00241-1), Xin Wang, Serdar Kadioglu, [Springer Journal of Data Science Special Issue on Next-Generation Recommender Systems](https://www.springer.com/journal/41060) [[bibtex]](https://link.springer.com/article/10.1007/s41060-020-00241-1#citeas)
 * `ICTAI 2019` [Bayesian deep learning based exploration-exploitation for personalized recommendations](https://ieeexplore.ieee.org/document/8995445), Xin Wang, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence [[bibtex]](https://dblp.org/rec/conf/ictai/WangK19.html?view=bibtex) [[Re:Work Boston]](https://www.re-work.co/events/deep-learning-summit-boston-2019/speakers/xin-wang)
-* `ICTAI 2019` [MABWiser: contextual multi-armed bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex) [[code]](https://github.com/fmr-llc/mabwiser)
+* `ICTAI 2019` [MABWiser: contextual multi-armed bandits](https://ieeexplore.ieee.org/document/8995418), Emily Strong, Bernard Kleynhans, Serdar Kadioglu, IEEE International Conference on Tools with Artificial Intelligence, [[bibtex]](https://dblp.org/rec/conf/ictai/StrongKK19.html?view=bibtex) [[code]](https://github.com/fidelity/mabwiser)
 
 
 ## Machine Learning 
