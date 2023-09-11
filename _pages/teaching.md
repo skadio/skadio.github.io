@@ -21,9 +21,9 @@ author_profile: true
 I enjoy collaboration with students many of which lead to research publications:
 
 * Paul Biberstein, BSc., Brown University, 2023
-  * Capstone project on bandit-based local search, added to [ALNS]([url](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms))
+  * Capstone project on bandit-based local search, added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
 * Irmak Bukey, BSc, Pomona College, 2021 
-  * [Non-linear Contextual Multi-armed Bandits (Elmachtoub et. al.)](https://arxiv.org/abs/1706.04687) added to [MABWiser]([url](https://github.com/fidelity/mabwiser))
+  * [Non-linear Contextual Multi-armed Bandits (Elmachtoub et. al.)](https://arxiv.org/abs/1706.04687) added to [MABWiser](https://github.com/fidelity/mabwiser)
 * Shamay Samuel, BSc, Brown University, 2021
   * [Integrated Vehicle Routing and Monte-Carlo Scheduler for Home Service Assignment](https://arxiv.org/abs/2106.16176), [MOPTA Challenge](https://coral.ise.lehigh.edu/~mopta/)
   * [Finalist at the AIMMS-MOPTA Optimization Modeling Competition](http://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
