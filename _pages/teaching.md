@@ -21,7 +21,7 @@ author_profile: true
 I enjoy collaboration with students many of which lead to research publications:
 
 * Paul Biberstein, BSc., Brown University, 2023
-  * Capstone project on bandit-based local search, added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
+  * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
 * Enrique Areyan Viqueira, Ph.D., Brown University, 2021
   * Doctoral thesis committee on [Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 * Irmak Bukey, BSc, Pomona College, 2021 
