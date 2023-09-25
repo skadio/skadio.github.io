@@ -39,7 +39,7 @@ I enjoy collaboration with students many of which lead to research publications:
 * Emily Strong, MSc, Northeastern University, USA, 2018 (Data Scientist @ Fidelity)
   * [MABWiser: Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), `ICTAI 2019` [[code]](https://github.com/fmr-llc/mabwiser)
 * Ansel Vahle, Valentin Perez, Sean Segal, BSc, Brown University 2018 
-  * [Capstone Graduation Project on Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
+  * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
 * [Kevin Leo](https://scholar.google.com/citations?user=LA15o4gAAAAJ&hl=en), MSc, NICTA, Australia & [Giovanni Di Liberto](https://diliberg.net/), MSc, University of Padua, Italy (Post-doc @ École Normale Supérieure)
   * [DASH: Dynamic Approach for Switching Heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), `EJOR 2016` 
 * [André A. Ciré](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Cire.aspx), PhD, CMU, USA, 2014 (Asst. Prof @ University of Toronto)
