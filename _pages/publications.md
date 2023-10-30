@@ -31,7 +31,7 @@ author_profile: true
   
 ## Responsible AI 
 * `arXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976), Gili Rosenberg, J. Kyle Brubaker, Martin J. A. Schuetz, Grant Salton, Zhihuai Zhu, Elton Yechao Zhu, Serdar Kadıoğlu, Sima E. Borujeni, Helmut G. Katzgraber [[blog post]](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas)
-* `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://lion17.org/), Melinda Thielbar, Serdar Kadioglu, Chenhui Zhang, Rick Pack, Lukas Dannull, [Learning and Intelligent Optimization](https://lion17.org/) [[library]](https://github.com/fidelity/jurity)
+* `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29), Melinda Thielbar, Serdar Kadioglu, Chenhui Zhang, Rick Pack, Lukas Dannull, [Learning and Intelligent Optimization](https://lion17.org/) [[library]](https://github.com/fidelity/jurity)
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169), Filip Michalsky, Serdar Kadioglu, [IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla21/)
 
 ## Recommender Systems
