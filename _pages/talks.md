@@ -12,11 +12,14 @@ author_profile: true
 
 ---
 
+* **[GenAI @ UCONN]** `Invited Talk + Panelist`\
+   [From Classical AI to Modern and Generative AI: Challenges and Opportunities for the Enterprise](https://cacc.engr.uconn.edu/ai-workshop-home/ai-workshop-2023-savethedate/), November 2023, USA
+
 * **[Ner4Opt @ CPAIOR]** `Conference Talk`\
    [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf), May 2023, France
 
 * **[Fidelity Global AI Forum]** `Invited Talk`\
-   [How to succeed in strategic industry partnerships?](), April 2023, USA
+   [How to Succeed in Strategic Industry Partnerships?](), April 2023, USA
   
 * **[Bridge Program @ AAAI]** `Tutorial`\
    [Bridging Constraints and Machine Learning](http://osullivan.ucc.ie/CPML2023/), Februrary 2023, USA [[paper]](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)
