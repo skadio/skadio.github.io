@@ -95,7 +95,7 @@ and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf), Xin 
 ## Patents
 * Self-learning financial content recommendations to solve the cold start problem, US Patent Filed
 * [Determining future user actions using time-based featurization of clickstream data](https://www.freepatentsonline.com/11799734.html), US Patent 11799734, 2023
-* [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC), US Patent 20220188843, 2022
+* [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC), US Patent 0188843, 2022
 * [Digital content classification and recommendation using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:ODE9OILHJdcC), US Patent 0142196, 2022
 * [Automated predictive product recommendations using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:yFnVuubrUp4C), US Patent 10936961, 2021
 * [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:ZzlSgRqYykMC), US Patent 10248550, 2019
