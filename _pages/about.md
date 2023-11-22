@@ -22,7 +22,7 @@ Our teams focus on Generative AI for Content, Recommender Systems for Personaliz
 
 A review of our applied research contributions can be found in [Year in Review 2022](https://www.linkedin.com/pulse/year-review-2022-serdar-kadioglu/) and [Year in Review 2021](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a talk that covers some of our work for the open-source community [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA).
 
-Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale out the efforts on model governance, interpretability, fairness, and bias mitigation for the enterprise. 
+Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale efforts on model governance, interpretability, fairness, and bias mitigation across the enterprise. 
 
 Externally, I coordinate strategic partnerships with the high-tech industry, including [Amazon](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas), Google, and [NVIDIA](https://www.youtube.com/watch?v=_v-B2nRy79w), and research institutions including [CMU](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html), Harvard, and MIT. I lead Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
 
