@@ -11,6 +11,16 @@ author_profile: true
 ### 2023
 
 ---
+https://www.laas.fr/public/fr/multi-level-optimization-boost-experimentation-digital-channels
+
+* **[Recommender Systems @ CNRS]** `Research Seminar`\
+   [Recommendations in Digital Channels](https://www.lix.polytechnique.fr/news/430/view), November 2023, Toulouse, France
+
+* **[Optimization @ École Polytechnique]** `Research Seminar`\
+   [Multi-level Optimization to Boost Experimentation in Digital Channels](https://www.lix.polytechnique.fr/news/430/view), November 2023, Paris, France
+
+* **[Multi-Armed Bandits @ Universite École Polytechnique]** `Research Seminar`\
+   [Mab2Rec: Multi-Armed Bandit based Recommender Systems](https://www.i3s.unice.fr/en/scientific-diffusion/seminars/2023/mdsc), November 2023, Nice, France
 
 * **[GenAI @ UCONN]** `Invited Talk + Panelist`\
    [From Classical AI to Modern and Generative AI: Challenges and Opportunities for the Enterprise](https://cacc.engr.uconn.edu/ai-workshop-home/ai-workshop-2023-savethedate/), November 2023, USA
