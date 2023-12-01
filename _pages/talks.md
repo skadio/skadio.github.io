@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 * **[Recommender Systems @ CNRS]** `Research Seminar`\
-   [Recommendations in Digital Channels](https://www.laas.fr/public/en/multi-level-optimization-boost-experimentation-digital-channels-0), November 2023, Toulouse, France
+   [Recommendations in Digital Channels](https://www.laas.fr/public/fr/multi-level-optimization-boost-experimentation-digital-channels), November 2023, Toulouse, France
 
 * **[Optimization @ École Polytechnique]** `Research Seminar`\
    [Multi-level Optimization to Boost Experimentation in Digital Channels](https://www.lix.polytechnique.fr/news/430/view), November 2023, Paris, France
