@@ -18,7 +18,7 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 ### @Fidelity
 
-Our teams focus on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation from ideation to productionization across i) digital channels for customers over the web, mobile, email, and conversational agents, and ii) distribution channels for associates over the regional centers and branches. 
+Our teams focus on Generative AI for Content, Recommender Systems for Personalization, and Marketing Campaign Optimization for Lead Generation from ideation to productionization across i) digital channels for customers over the web, mobile, email, and conversational agents, and ii) live channels for associates over the regional centers and branches. 
 
 A review of our applied research contributions can be found in [Year in Review 2022](https://www.linkedin.com/pulse/year-review-2022-serdar-kadioglu/) and [Year in Review 2021](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a talk that covers some of our work for the open-source community [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA).
 
@@ -35,7 +35,7 @@ Our contributions at Oracle were recognized with an Entrepreneurship Award, rece
 
 ### @Adobe
 
-I built a context-free grammar-based evolutionary algorithm to generate automated test cases for the [ActionScript](https://en.wikipedia.org/wiki/ActionScript) virtual machine. This [automated fuzzer](https://en.wikipedia.org/wiki/Fuzzing) helped discover critical software vulnerabilities that were fixed later on before any global exploits.
+I built a context-free grammar-based evolutionary algorithm to generate automated test cases for the [ActionScript](https://en.wikipedia.org/wiki/ActionScript) virtual machine. This [automated fuzzer](https://en.wikipedia.org/wiki/Fuzzing) helped discover critical software vulnerabilities that were fixed before any global exploit.
 
 ### @Brown
 
