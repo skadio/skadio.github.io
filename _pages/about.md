@@ -18,13 +18,13 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 ### @Fidelity
 
-Our teams focus on Generative AI for Content, Recommender Systems for Personalization, and Marketing Campaign Optimization for Lead Generation from ideation to productionization across i) digital channels for customers over the web, mobile, email, and conversational agents, and ii) live channels for associates over the regional centers and branches. 
+Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI from ideation to productionization across i) digital channels for customers over the web, mobile, email, and conversational agents, and ii) live channels for associates over the regional centers and branches. 
 
-A review of our applied research contributions can be found in [Year in Review 2022](https://www.linkedin.com/pulse/year-review-2022-serdar-kadioglu/) and [Year in Review 2021](https://www.linkedin.com/pulse/year-review-2021-serdar-kadioglu/). Here is a talk that covers some of our work for the open-source community [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/) [[video]](https://www.youtube.com/watch?v=54d_YUalvOA).
+Overview of our applied research can be found in [year in review articles](https://www.linkedin.com/in/serdark/recent-activity/articles/). 
 
-Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale efforts on model governance, interpretability, fairness, and bias mitigation across the enterprise. 
+Internally, I guide the research agenda of the AI Center, serve as a liaison between data science, engineering and business teams and scale efforts on model governance, interpretability, fairness, and bias mitigation across the enterprise.
 
-Externally, I coordinate strategic partnerships with the high-tech industry, including [Amazon](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas), Google, and [NVIDIA](https://www.youtube.com/watch?v=_v-B2nRy79w), and research institutions including [CMU](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html), Harvard, and MIT. I lead Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
+Externally, I coordinate strategic partnerships with the high-tech industry, including [Amazon](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas), Google, Weights & Biases, and [NVIDIA](https://www.youtube.com/watch?v=_v-B2nRy79w), and research institutions including [CMU](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html), Harvard, and MIT. I lead Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
 
 
 ### @Oracle
