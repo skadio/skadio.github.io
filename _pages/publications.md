@@ -92,7 +92,7 @@ author_profile: true
 * `Europen Journal on OR 2016` [DASH: dynamic approach for switching heuristics](https://www.sciencedirect.com/science/article/abs/pii/S0377221715007559)
 * `Constraints 2015` [Efficient search procedures for solving combinatorial problems](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0)
 * `AAAI 2014` [Parallel restarted search](https://ojs.aaai.org/index.php/AAAI/article/view/8848)
-* `AAAI 2012` [Non-model-based search guidance for set partitioning problems](https://ojs.aaai.org/index.php/AAAI/article/view/8141
+* `AAAI 2012` [Non-model-based search guidance for set partitioning problems](https://ojs.aaai.org/index.php/AAAI/article/view/8141)
 * `CP 2011` [Incorporating variance in impact-based search](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_36)
 * `CP 2009` [Dialectic search](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
 * `Banff 2009` [Search in constraint programming](https://www.birs.ca/events/2009/5-day-workshops/09w5125), 
