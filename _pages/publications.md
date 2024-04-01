@@ -45,7 +45,8 @@ author_profile: true
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169)
 
 ## Recommender Systems
-* `TMLR 2022` [Non-Deterministic Behavior of Thompson Sampling with Linear Payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE) <span style="color:green"> Received TMLR's first reproducibility certificate</span>
+* `TMLR 2022` [Non-Deterministic Behavior of Thompson Sampling with Linear Payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE)<br>
+<span style="color:green"> Received TMLR's first reproducibility certificate</span>
 * `IJCAI 2021` [Active Learning Meets Optimized Item Selection](https://arxiv.org/abs/2112.03105)<br>
 [GitHub](https://github.com/fidelity/selective?tab=readme-ov-file#text-based-selection)
 * `CPAIOR 2021` [Optimized Item Selection to Boost Exploration for Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27)<br>
