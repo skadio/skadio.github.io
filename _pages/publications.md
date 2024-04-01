@@ -36,9 +36,10 @@ author_profile: true
 
 
 ## Responsible AI 
-* `MAKE 2023` [Explainable AI using expressive Boolean formulas](https://www.mdpi.com/2504-4990/5/4/86)
+* `MAKE 2023` [Explainable AI using expressive Boolean formulas](https://www.mdpi.com/2504-4990/5/4/86)<br>
+[Amazon Blog Post](https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/)
 * `ArXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976)<br>
-[Fidelity blog post](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas)
+[Fidelity Blog Post](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas)
 * `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29)<br>
 [GitHub](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation)
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169)
@@ -59,16 +60,13 @@ author_profile: true
 
 ## Machine Learning 
 * `AI Magazine 2023` [Seq2Pat: Sequence-to-pattern generation to bridge pattern mining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081)<br>
-[GitHub](https://github.com/fidelity/seq2pat)
-* `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining
-and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
+[CMU Blog Post](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html) | [GitHub](https://github.com/fidelity/seq2pat)
+* `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
 [GitHub](https://github.com/fidelity/seq2pat)
 * `Frontiers 2022` [Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis](https://www.frontiersin.org/articles/10.3389/frai.2022.868085/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=868085)<br>
-[GitHub](https://github.com/fidelity/seq2pat)
-* `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178)<br>
-[GitHub](https://github.com/fidelity/seq2pat)
-* `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://ojs.aaai.org/index.php/AAAI/article/view/21542)<br>
-[GitHub](https://github.com/fidelity/seq2pat)
+[GitHub](https://github.com/fidelity/seq2pat?tab=readme-ov-file#dichotomic-pattern-mining)
+* `AAAI 2022` [Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](https://arxiv.org/abs/2201.09178)
+* `AAAI 2022` [Seq2Pat: Sequence-to-Pattern Generation for Constraint-based Sequential Pattern Mining](https://ojs.aaai.org/index.php/AAAI/article/view/21542)
 * `CP 2019` [Constrained logistic regression to avoid undesirable predictions](https://cp2019.a4cp.org/accepted_abstracts.html)
 * `LION 2017` [Learning a reactive restart strategy to improve stochastic search](https://link.springer.com/chapter/10.1007/978-3-319-69404-7_8)
 * `Computer Speech & Language 2015` [Feature selection methods and their combinations in high-dimensional classification of speaker likability, intelligibility and personality traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113)<br>
@@ -86,7 +84,6 @@ and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
 * `CP 2015` [Optimizing the cloud service experience using constraint programming](http://link.springer.com/chapter/10.1007%2F978-3-319-23219-5_43)
 * `CPAIOR 2010` [Upper bounds on the number of solutions of binary integer programs](https://link.springer.com/chapter/10.1007/978-3-642-13520-0_24)
 * `CP 2009` [Same-relation constraints](https://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_38)
-
 
 ## Search & Optimization
 * `Dagsthul 2022` [Data-driven combinatorial optimization]([https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22431)), [Seminar Report](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
@@ -114,14 +111,14 @@ and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
 
 ## Patents
 * Self-learning financial content recommendations to solve the cold start problem
-* `2023-11799734`, [Determining future user actions using time-based featurization of clickstream data](https://www.freepatentsonline.com/11799734.html)
-* `2022-0188843`, [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC)
-* `2022-0142196`, [Digital content classification and recommendation using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:ODE9OILHJdcC)
-* `2021-10936961`, [Automated predictive product recommendations using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:yFnVuubrUp4C)
-* `2019-10248550`, [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:ZzlSgRqYykMC)
-* `2018-10146665`, [Systems and methods for providing dynamic and real time simulations of matching resources to requests](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:Aul-kAQHnToC)
-* `2018-10007538`, [Assigning applications to virtual machines using constraint programming](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&citation_for_view=tOgYtHkAAAAJ:cWzG1nlazyYC)
-* `2017-9588819`, [System and method of assigning requests to resources using constraint programming](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&citation_for_view=tOgYtHkAAAAJ:WJVC3Jt7v1AC)
+* `2023-11799734` [Determining future user actions using time-based featurization of clickstream data](https://www.freepatentsonline.com/11799734.html)
+* `2022-0188843` [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC)
+* `2022-0142196` [Digital content classification and recommendation using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:ODE9OILHJdcC)
+* `2021-10936961` [Automated predictive product recommendations using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:yFnVuubrUp4C)
+* `2019-10248550` [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:ZzlSgRqYykMC)
+* `2018-10146665` [Systems and methods for providing dynamic and real time simulations of matching resources to requests](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:Aul-kAQHnToC)
+* `2018-10007538` [Assigning applications to virtual machines using constraint programming](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&citation_for_view=tOgYtHkAAAAJ:cWzG1nlazyYC)
+* `2017-9588819` [System and method of assigning requests to resources using constraint programming](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&citation_for_view=tOgYtHkAAAAJ:WJVC3Jt7v1AC)
 
 [comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538)
 
