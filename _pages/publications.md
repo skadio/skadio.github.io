@@ -36,6 +36,7 @@ author_profile: true
 
 
 ## Responsible AI 
+* `ArXiv 2024` [Fairness Evaluation for Uplift Modeling in the Absence of Ground Truth](https://arxiv.org/abs/2403.12069)
 * `MAKE 2023` [Explainable AI using expressive Boolean formulas](https://www.mdpi.com/2504-4990/5/4/86)<br>
 [Amazon Blog Post](https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/)
 * `ArXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976)<br>
@@ -45,11 +46,15 @@ author_profile: true
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169)
 
 ## Recommender Systems
-* `TMLR 2022` [Non-Deterministic Behavior of Thompson Sampling with Linear Payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE)<br>
+* `AAAI 2024` [Building higher-order abstractions from components of recommender systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341)<br>
+ [GitHub](https://github.com/fidelity/mab2rec) | [Video](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems)
+* `AMAI 2024` [Integrating optimized item selection with active learning for continuous exploration in recommender systems](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU=)
+* `Bridge@AAAI'24` [Mab2Rec: contextual multi-armed bandits for recommender systems](http://osullivan.ucc.ie/CPML2024/papers/06.pdf)
+* `TMLR 2022` [Non-deterministic behavior of Thompson sampling with linear payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE)<br>
 <span style="color:green"> Received TMLR's first reproducibility certificate</span>
-* `IJCAI 2021` [Active Learning Meets Optimized Item Selection](https://arxiv.org/abs/2112.03105)<br>
+* `IJCAI 2021` [Active learning meets optimized item selection](https://arxiv.org/abs/2112.03105)<br>
 [GitHub](https://github.com/fidelity/selective?tab=readme-ov-file#text-based-selection)
-* `CPAIOR 2021` [Optimized Item Selection to Boost Exploration for Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27)<br>
+* `CPAIOR 2021` [Optimized item selection to boost exploration for recommender systems](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27)<br>
 [YouTube](https://www.youtube.com/watch?v=akMsTAh9ed8&t=1s) | [GitHub](https://github.com/fidelity/selective)
 * `IJAIT 2021` [Parallelizable contextual multi-armed bandits](https://www.worldscientific.com/doi/10.1142/S0218213021500214)
 * `JDSA 2021` [Modeling  uncertainty  to improve personalized recommendations via Bayesian deep learning](https://link.springer.com/article/10.1007/s41060-020-00241-1)
@@ -60,6 +65,7 @@ author_profile: true
 
 
 ## Machine Learning 
+* `ArXiv 2024` [The design and organization of educational competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 * `AI Magazine 2023` [Seq2Pat: Sequence-to-pattern generation to bridge pattern mining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081)<br>
 [CMU Blog Post](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html) | [GitHub](https://github.com/fidelity/seq2pat)
 * `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
