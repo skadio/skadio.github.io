@@ -8,6 +8,17 @@ author_profile: true
 ---
 
 <a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+
+### 2024 
+* **[Career Fair: Academia vs. Industry]** `Invited Panelist`\
+   [Boomerang Faculty: Returning to Academia from Industry](https://www.linkedin.com/feed/update/urn:li:activity:7178004141556805632/), April 2024, Providence, USA
+
+* **[AI4OR @ AAAI'24]** `Keynote Speaker`\
+   [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada
+
+* **[Innovative AI Applications @ AAAI'24]** `Conference Talk`\
+   [Mab2Rec: Building Higher Order Abstractions from the Components of Recommender Systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341), February 2024, Vancouver, Canada
+
 ### 2023
 
 ---
