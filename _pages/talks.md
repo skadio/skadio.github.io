@@ -13,6 +13,10 @@ author_profile: true
 * **[Career Fair: Academia vs. Industry]** `Invited Panelist`\
    [Boomerang Faculty: Returning to Academia from Industry](https://www.linkedin.com/feed/update/urn:li:activity:7178004141556805632/), April 2024, Providence, USA
 
+* **[Evolution of AI Paradigms]** `AAAI Education Videos`\
+   [From Classical AI to Modern and Generative AI: The Evolution of AI Paradigms](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=2), March 2024<br>
+   <span style="color:green"> Winner of the 2024 AAAI Education AI Videos</span>
+   
 * **[AI4OR @ AAAI'24]** `Keynote Speaker`\
    [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada
 
