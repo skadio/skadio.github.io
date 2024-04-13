@@ -9,14 +9,14 @@ author_profile: true
 
 ### AI Fairness & Bias Mitigation
 
-- [Jurity](https://github.com/fidelity/jurity): Fairness and bias mitigation, and recommender system evaluation techniques. [ICMLA 2021](https://ieeexplore.ieee.org/document/9680169)
+- [Jurity](https://github.com/fidelity/jurity): Fairness and bias mitigation, and recommender system evaluation techniques. [LION'23](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29), [CIKM'22](https://ceur-ws.org/Vol-3318/short6.pdf), [ICMLA'21](https://ieeexplore.ieee.org/abstract/document/9680169)
 
 ---
 
 ### Personalization & Contextual Bandits
 
-- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [ODSC 2023](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/)
-- [MABWiser](https://github.com/fidelity/mabwiser) Parallelizable, contextual multi-armed bandits library with simulation capabilities. [IJAIT 2021](https://www.worldscientific.com/doi/10.1142/S0218213021500214), [ICTAI 2019](https://ieeexplore.ieee.org/document/8995418)
+- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/30341), [ODSC 2023](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/), [Presentation@AAAI'24](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems), [Presentation@ATO'21](https://www.youtube.com/watch?v=54d_YUalvOA), [ATO Blogpost](https://2022.allthingsopen.org/introducing-mab2rec-a-multi-armed-bandit-recommender-library/)
+- [MABWiser](https://github.com/fidelity/mabwiser) Parallelizable, contextual multi-armed bandits library with simulation capabilities. [Bridge@AAAI'24](http://osullivan.ucc.ie/CPML2024/papers/06.pdf), [TMLR'22](https://openreview.net/pdf?id=sX9d3gfwtE), [IJAIT'21](https://www.worldscientific.com/doi/abs/10.1142/S0218213021500214), [ICTAI'19](https://ieeexplore.ieee.org/document/8995418)
 
 ---
 
@@ -29,13 +29,13 @@ author_profile: true
 
 ### Pattern Mining 
 
-- [Seq2Pat](https://github.com/fidelity/seq2pat) Sequence-to-Pattern generation library to find frequent pattern from large sequence databases. Joint work with CMU. [AI Magazine 2023](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [KDF@AAAI 2022](https://arxiv.org/abs/2201.09178), [ML+Opt@INFORMS 2020](http://meetings2.informs.org/wordpress/annual2020/), 
+- [Seq2Pat](https://github.com/fidelity/seq2pat) Sequence-to-Pattern generation library to find frequent patterns from large sequence databases. Joint work with CMU. [AI Magazine'23](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081), [AAAI'22](https://ojs.aaai.org/index.php/AAAI/article/view/21542), [Bridge@AAAI'23](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf), [Frontiers'22](https://www.frontiersin.org/articles/10.3389/frai.2022.868085/full), [KDF@AAAI'22](https://arxiv.org/abs/2201.09178), [CMU Blog Post](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html)
 
 ---
 
 ### Feature Selection 
 
-- [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks.
+- [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), [DSO@IJCAI'21](https://arxiv.org/abs/2112.03105)
 
 - [FSiHD](http://users.spa.aalto.fi/jpohjala/featureselection/) Feature Selection in High-Dimensional Classification. <span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). [Computer Speech & Language 2015](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113) and [Interspeech 2012](https://users.aalto.fi/~jpohjala/publications/is12stc.pdf)
 
@@ -59,8 +59,8 @@ author_profile: true
 
 - [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI 20210](https://ebooks.iospress.nl/publication/5873)
 
-- [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms.It is the back-bone of many competition winning constraint solvers and algorithm portfolios. Implemented and maintained by [Optano GmbH](https://optano.com/). [CP 2009](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
+- [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms. It is the backbone of many competition-winning constraint solvers and algorithm portfolios. Re-implemented and now maintained by [Optano GmbH](https://optano.com/). [CP 2009](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
 
 - [DASH: Dynamic Adaptive Search Heuristics & Non-Model Based Search Guidance](https://github.com/skadio/set-partitioning-instance-generator) Set Partitioning Problem (SPP) Benchmark Instance Generator. [EJOR 2016](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0) and [AAAI 2012](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082)
 
-- [ASLib: Algorithm Selection Library](https://github.com/coseal/aslib_data). This library consists of scenarios and instances for benchmarking from a many different domains, such as SAT, CSP, and ASP. 
+- [ASLib: Algorithm Selection Library](https://github.com/coseal/aslib_data). This library consists of scenarios and instances for benchmarking from many different domains, such as SAT, CSP, and ASP. 
