@@ -55,7 +55,7 @@ author_profile: true
 
 --- 
 
-### Algorithm Configuration & Hyper-parameter Tuning
+### Algorithm Configuration & Hyperparameter Tuning
 
 - [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI'10](https://ebooks.iospress.nl/publication/5873)
 
