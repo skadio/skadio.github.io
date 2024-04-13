@@ -43,7 +43,7 @@ author_profile: true
 
 ### Combinatorial Optimization
 
-- [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS 2018](https://arxiv.org/pdf/2106.16176.pdf)
+- [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS 2018](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
  
 - [Hegel: Dialectic Search Solver for Set Cover Problem](https://github.com/skadio/hegel) Dialectic search based local search approach for solving Set Covering Problems. [CP 2009](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
 
