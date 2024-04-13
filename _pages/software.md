@@ -57,7 +57,7 @@ author_profile: true
 
 ### Algorithm Configuration & Hyper-parameter Tuning
 
-- [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI 20210](https://ebooks.iospress.nl/publication/5873)
+- [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI'10](https://ebooks.iospress.nl/publication/5873)
 
 - [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms. It is the backbone of many competition-winning constraint solvers and algorithm portfolios. Re-implemented and now maintained by [Optano GmbH](https://optano.com/). [CP'09](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
 
