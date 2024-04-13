@@ -15,7 +15,7 @@ author_profile: true
 
 ### Personalization & Contextual Bandits
 
-- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/30341), [ODSC 2023](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/), [Presentation@AAAI'24](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems), [Presentation@ATO'21](https://www.youtube.com/watch?v=54d_YUalvOA), [ATO Blogpost](https://2022.allthingsopen.org/introducing-mab2rec-a-multi-armed-bandit-recommender-library/)
+- [Mab2Rec](https://github.com/fidelity/mab2rec#mab2rec-multi-armed-bandits-recommender) End-to-end framework for building bandits-based recommenders from raw interaction data to feature generation, model evaluation and deployment. [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/30341), [ODSC'23](https://odsc.com/speakers/mab2rec-a-modular-approach-to-building-bandit-based-recommenders/), [Presentation@AAAI'24](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems), [Presentation@ATO'21](https://www.youtube.com/watch?v=54d_YUalvOA), [ATO Blogpost](https://2022.allthingsopen.org/introducing-mab2rec-a-multi-armed-bandit-recommender-library/)
 - [MABWiser](https://github.com/fidelity/mabwiser) Parallelizable, contextual multi-armed bandits library with simulation capabilities. [Bridge@AAAI'24](http://osullivan.ucc.ie/CPML2024/papers/06.pdf), [TMLR'22](https://openreview.net/pdf?id=sX9d3gfwtE), [IJAIT'21](https://www.worldscientific.com/doi/abs/10.1142/S0218213021500214), [ICTAI'19](https://ieeexplore.ieee.org/document/8995418)
 
 ---
@@ -23,7 +23,7 @@ author_profile: true
 ### Natural Language Processing
 
 - [Ner4Opt](https://github.com/skadio/ner4opt) Given an optimization problem in natural language, extract optimization related entities from free-form text. ([CPAIOR'23](https://github.com/skadio/ner4opt/blob/main/docs/%5BCPAIOR%202023%5D%20Ner4Opt%20Paper.pdf), [NeurIPS'22](https://github.com/skadio/ner4opt/blob/main/docs/%5BNeurIPS%202022%5D%20Ner4Opt%20Poster.pdf))
-- [TextWiser](https://github.com/fidelity/textwiser) Text featurization NLP library that unifies several text embedding techniques. [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17814)
+- [TextWiser](https://github.com/fidelity/textwiser) Text featurization NLP library that unifies several text embedding techniques. [AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17814)
 
 ---
 
@@ -37,21 +37,21 @@ author_profile: true
 
 - [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), [DSO@IJCAI'21](https://arxiv.org/abs/2112.03105)
 
-- [FSiHD](http://users.spa.aalto.fi/jpohjala/featureselection/) Feature Selection in High-Dimensional Classification. <span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). [Computer Speech & Language 2015](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113) and [Interspeech 2012](https://users.aalto.fi/~jpohjala/publications/is12stc.pdf)
+- [FSiHD](http://users.spa.aalto.fi/jpohjala/featureselection/) Feature Selection in High-Dimensional Classification. <span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). [Computer Speech & Language'15](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113) and [Interspeech'12](https://users.aalto.fi/~jpohjala/publications/is12stc.pdf)
 
 ---
 
 ### Combinatorial Optimization
 
-- [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS 2018](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
+- [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS'18](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
  
-- [Hegel: Dialectic Search Solver for Set Cover Problem](https://github.com/skadio/hegel) Dialectic search based local search approach for solving Set Covering Problems. [CP 2009](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
+- [Hegel: Dialectic Search Solver for Set Cover Problem](https://github.com/skadio/hegel) Dialectic search based local search approach for solving Set Covering Problems. [CP'09](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
 
 ---
 
 ### Constraint Satisfaction 
 
-- [3S: Satisfiability Solver Selector](https://sites.google.com/site/yurimalitsky/downloads). <span style="color:green">This solver won 2 gold and 7 medals in total</span> at the [International SAT Solver Competition in 2011](http://www.satcompetition.org/). [CP 2011](https://link.springer.com/chapter/10.1007%2F978-3-642-23786-7_35) and [SAT 2011](http://link.springer.com/chapter/10.1007%2F978-3-642-21581-0_33)
+- [3S: Satisfiability Solver Selector](https://sites.google.com/site/yurimalitsky/downloads). <span style="color:green">This solver won 2 gold and 7 medals in total</span> at the [International SAT Solver Competition in 2011](http://www.satcompetition.org/). [CP 2011](https://link.springer.com/chapter/10.1007%2F978-3-642-23786-7_35) and [SAT'11](http://link.springer.com/chapter/10.1007%2F978-3-642-21581-0_33)
 
 --- 
 
@@ -59,8 +59,8 @@ author_profile: true
 
 - [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI 20210](https://ebooks.iospress.nl/publication/5873)
 
-- [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms. It is the backbone of many competition-winning constraint solvers and algorithm portfolios. Re-implemented and now maintained by [Optano GmbH](https://optano.com/). [CP 2009](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
+- [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms. It is the backbone of many competition-winning constraint solvers and algorithm portfolios. Re-implemented and now maintained by [Optano GmbH](https://optano.com/). [CP'09](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
 
-- [DASH: Dynamic Adaptive Search Heuristics & Non-Model Based Search Guidance](https://github.com/skadio/set-partitioning-instance-generator) Set Partitioning Problem (SPP) Benchmark Instance Generator. [EJOR 2016](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0) and [AAAI 2012](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082)
+- [DASH: Dynamic Adaptive Search Heuristics & Non-Model Based Search Guidance](https://github.com/skadio/set-partitioning-instance-generator) Set Partitioning Problem (SPP) Benchmark Instance Generator. [EJOR 2016](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0) and [AAAI'12](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082)
 
-- [ASLib: Algorithm Selection Library](https://github.com/coseal/aslib_data). This library consists of scenarios and instances for benchmarking from many different domains, such as SAT, CSP, and ASP. 
+- [ASLib: Algorithm Selection Library](https://github.com/coseal/aslib_data). This library consists of scenarios and instances for benchmarking from different domains, such as SAT, CSP, and ASP. 
