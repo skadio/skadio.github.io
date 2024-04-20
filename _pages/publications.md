@@ -26,7 +26,7 @@ author_profile: true
 ## Natural Language Processing 
 * `CP 2023` [Holy Grail 2.0: From Natural Language to Constraint Models](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_20)<br>
-[Slides]("https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf) | [GitHub](https://github.com/skadio/ner4opt) | [HuggingFace](https://huggingface.co/spaces/skadio/Ner4Opt)
+[Slides](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf) | [GitHub](https://github.com/skadio/ner4opt) | [HuggingFace](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `NeurIPS 2022` [Natural Language for Optimization](https://nbviewer.org/github/skadio/ner4opt/blob/main/docs/%5BNeurIPS+2022%5D+Ner4Opt+Poster.pdf)<br>
 [GitHub](https://github.com/skadio/ner4opt) | [HuggingFace](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `AAAI 2021` [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814)<br>
