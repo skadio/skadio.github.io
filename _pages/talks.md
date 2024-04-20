@@ -18,7 +18,7 @@ author_profile: true
    <span style="color:green"> Winner of the 2024 AAAI Educational AI Videos</span>
    
 * **[AI4OR @ AAAI]** `Keynote Speaker`\
-   [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada
+   [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), [February 2024, Vancouver, Canada
 
 * **[Innovative Applications @ AAAI]** `Conference Talk`\
    [Mab2Rec: Building Higher Order Abstractions from the Components of Recommender Systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341), February 2024, Vancouver, Canada
