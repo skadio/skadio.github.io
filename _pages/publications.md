@@ -77,7 +77,7 @@ author_profile: true
 * `CP 2019` [Constrained logistic regression to avoid undesirable predictions](https://cp2019.a4cp.org/accepted_abstracts.html)
 * `LION 2017` [Learning a reactive restart strategy to improve stochastic search](https://link.springer.com/chapter/10.1007/978-3-319-69404-7_8)
 * `Computer Speech & Language 2015` [Feature selection methods and their combinations in high-dimensional classification of speaker likability, intelligibility and personality traits](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113)<br>
-  [Code]](http://research.spa.aalto.fi/robustness/featureselection/)
+  [[Code]](http://research.spa.aalto.fi/robustness/featureselection/)
 * `Interspeech 2012` [Feature selection for speaker traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf)<br>
 [[GitHub]](https://github.com/skadio/featureSelection)
 
