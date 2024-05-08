@@ -35,7 +35,7 @@ author_profile: true
 
 ### Feature Selection 
 
-- [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), [DSO@IJCAI'21](https://arxiv.org/abs/2112.03105), [Dataset](https://huggingface.co/datasets/skadio/optimized_item_selection)
+- [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), [DSO@IJCAI'21](https://arxiv.org/abs/2112.03105), [Data](https://huggingface.co/datasets/skadio/optimized_item_selection)
 
 - [FSiHD](http://users.spa.aalto.fi/jpohjala/featureselection/) Feature Selection in High-Dimensional Classification. <span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). [Computer Speech & Language'15](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), [Interspeech'12](https://users.aalto.fi/~jpohjala/publications/is12stc.pdf)
 
