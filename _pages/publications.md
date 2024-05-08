@@ -49,6 +49,7 @@ author_profile: true
 * `AAAI 2024` [Building higher-order abstractions from components of recommender systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341)<br>
  [[GitHub]](https://github.com/fidelity/mab2rec) | [[Video]](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems)
 * `AMAI 2024` [Integrating optimized item selection with active learning for continuous exploration in recommender systems](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU=)
+[[Data]](https://huggingface.co/datasets/skadio/optimized_item_selection)
 * `Bridge@AAAI'24` [Mab2Rec: contextual multi-armed bandits for recommender systems](http://osullivan.ucc.ie/CPML2024/papers/06.pdf)
 * `TMLR 2022` [Non-deterministic behavior of Thompson sampling with linear payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE)<br>
 <span style="color:green"> Received TMLR's first reproducibility certificate</span>
