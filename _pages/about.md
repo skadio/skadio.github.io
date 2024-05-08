@@ -18,7 +18,7 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 
 ### @Fidelity
 
-Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI from ideation to productionization across i) digital channels for customers over the web, mobile, email, and conversational agents, and ii) live channels for associates over the regional centers and branches. 
+Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI. We are involved from ideation to productionization across i) digital channels for external users over the web, mobile, email, and conversational agents, and ii) live channels for internal associates over the regional centers and branches. 
 
 Overview of our applied research can be found in [year in review articles](https://www.linkedin.com/in/serdark/recent-activity/articles/). 
 
