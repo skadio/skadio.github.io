@@ -31,7 +31,7 @@ author_profile: true
    [Recommendations in Digital Channels](https://www.laas.fr/public/fr/multi-level-optimization-boost-experimentation-digital-channels), November 2023, Toulouse, France
 
 * **[Optimization @ École Polytechnique]** `Research Seminar`\
-   [Multi-level Optimization to Boost Experimentation in Digital Channels](https://www.lix.polytechnique.fr/news/430/view), November 2023, Paris, France
+   [Multi-level Optimization to Boost Experimentation in Digital Channels](https://www.lix.polytechnique.fr/optimix/seminars/2023-11-27-serdar-kadioglu/), November 2023, Paris, France
 
 * **[Multi-Armed Bandits @ Universite École Polytechnique]** `Research Seminar`\
    [Mab2Rec: Multi-Armed Bandit based Recommender Systems](https://www.i3s.unice.fr/en/scientific-diffusion/seminars/2023/mdsc), November 2023, Nice, France
