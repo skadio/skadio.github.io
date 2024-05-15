@@ -15,7 +15,7 @@ author_profile: true
 
 * **[Evolution of AI Paradigms]** `AAAI Educational Videos`\
    [From Classical AI to Modern and Generative AI: The Evolution of AI Paradigms](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=2), March 2024<br>
-   <span style="color:green"> Winner of the 2024 AAAI Educational AI Videos</span>
+   <span style="color:green"> Winner of the 2024 AAAI Educational AI Videos</span> [[Brown CS News]](https://awards.cs.brown.edu/2024/05/07/serdar-kadioglu-wins-2024-aaai-educational-ai-video-competition/)
    
 * **[AI4OR @ AAAI]** `Keynote Speaker`\
    [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2024_Kadioglu_AI4OR_AAAI.pdf)
