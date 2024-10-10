@@ -7,9 +7,10 @@ author_profile: true
 
 ---
 
-### AI Fairness & Bias Mitigation
+### Responsible AI
 
-- [Jurity](https://github.com/fidelity/jurity): Fairness and bias mitigation, and recommender system evaluation techniques. [LION'23](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29), [CIKM'22](https://ceur-ws.org/Vol-3318/short6.pdf), [ICMLA'21](https://ieeexplore.ieee.org/abstract/document/9680169)
+- [BoolXAI](https://github.com/fidelity/boolxai): Explainable AI using expressive Boolean formulas. [MAKE'23](https://www.mdpi.com/2504-4990/5/4/86), [ArXiv'23]([https://ceur-ws.org/Vol-3318/short6.pdf](https://arxiv.org/pdf/2306.03976))
+- [Jurity](https://github.com/fidelity/jurity): Fairness and bias mitigation, and recommender system evaluation techniques. [ArXiv'23](https://arxiv.org/pdf/2403.12069), [LION'23](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29), [CIKM'22](https://ceur-ws.org/Vol-3318/short6.pdf), [ICMLA'21](https://ieeexplore.ieee.org/abstract/document/9680169)
 
 ---
 
