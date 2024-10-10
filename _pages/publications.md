@@ -37,10 +37,12 @@ author_profile: true
 
 ## Responsible AI 
 * `ArXiv 2024` [Fairness Evaluation for Uplift Modeling in the Absence of Ground Truth](https://arxiv.org/abs/2403.12069)
+* `ArXiv 2024` [ Design and Organization of Educational Competitions with Anonymous and
+Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pdf/2402.07936)
 * `MAKE 2023` [Explainable AI using expressive Boolean formulas](https://www.mdpi.com/2504-4990/5/4/86)<br>
-[[Amazon Blog Post]](https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/)
+[[Amazon Blog Post]](https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/) | [[GitHub]](https://github.com/fidelity/boolxai)
 * `ArXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976)<br>
-[[Fidelity Blog Post]](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas)
+[[Fidelity Blog Post]](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas) | [[GitHub]](https://github.com/fidelity/boolxai)
 * `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29)<br>
 [[GitHub]](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation) | [[Intel Podcast]](https://www.intel.com/content/www/us/en/developer/articles/community/a-new-approach-for-evaluating-ai-model-fairness.html)
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169)
