@@ -19,7 +19,12 @@ author_profile: true
 ## Student Research
 
 I enjoy collaboration with students many of which lead to research publications:
-
+* Zohreh Raziei, Ph.D., Northeastern University, 2024
+  * Doctoral thesis committee on [AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
+* Weijia Jing and Aishwarya Kumar, Northeastern University, 2024
+* Akshay Reddy Nagireddy, Ratan Sai Kokku, and Zohreh Raziei, Northeastern University, 2023
+  * Akshay built an automated [CD/CI pipeline using GitHub actions](https://github.com/skadio/atlas_docker), which builds a docker image hosted on GitHub Docker Registry that can run all Fidelity open-source software.
+  * Zohreh incorporated [text-based feature selection](https://github.com/fidelity/selective?tab=readme-ov-file#text-based-selection) into Selective library. The method is outlined in detail in our [AMAI'24](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU%3D) and [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27) papers. 
 * Paul Biberstein, BSc., Brown University, 2023
   * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
 * Enrique Areyan Viqueira, Ph.D., Brown University, 2021
@@ -29,20 +34,20 @@ I enjoy collaboration with students many of which lead to research publications:
 * Shamay Samuel, BSc, Brown University, 2021
   * [Integrated Vehicle Routing and Monte-Carlo Scheduler for Home Service Assignment](https://arxiv.org/abs/2106.16176), [MOPTA Challenge](https://coral.ise.lehigh.edu/~mopta/)
   * [Finalist at the AIMMS-MOPTA Optimization Modeling Competition](http://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
-* [Mohsen Emadikhiav](https://business.fau.edu/faculty-research/new-faculty-fall-2020/mohsen-emadikhiav/index.php), PhD, University of Connecticut, USA 2020 (Asst. Prof @ Florida Atlantic University)
+* [Mohsen Emadikhiav](https://business.fau.edu/faculty-research/new-faculty-fall-2020/mohsen-emadikhiav/index.php), PhD, University of Connecticut, 2020 (Asst. Prof @ Florida Atlantic University)
   * [Constrained Logistic Regression to Avoid Undesirable Predictions](https://cp2019.a4cp.org/accepted_abstracts.html), `CP 2019`
 * Rigel Galgana, Shamay Samuel, BSc, Brown University, 2019
   * Independent research on Neural Constraint Solving
-* Priya Singh, MSc., Northeastern University, USA, 2019 (Data Scientist @ Bottomline Techologies)
-* Pablo Colunga, MSc., Northeastern University, USA, 2019 (Data Scientist @ Raytehon)
+* Priya Singh, MSc., Northeastern University, 2019 (Data Scientist @ Bottomline Techologies)
+* Pablo Colunga, MSc., Northeastern University, 2019 (Data Scientist @ Raytehon)
   * [Seq2Pat: Sequence-to-Pattern Generation](https://github.com/fidelity/seq2pat), `INFORMS 2020`
-* Emily Strong, MSc, Northeastern University, USA, 2018 (Data Scientist @ Fidelity)
+* Emily Strong, MSc, Northeastern University, 2018 (Data Scientist @ Fidelity)
   * [MABWiser: Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), `ICTAI 2019` [[code]](https://github.com/fmr-llc/mabwiser)
 * Ansel Vahle, Valentin Perez, Sean Segal, BSc, Brown University 2018 
   * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
 * [Kevin Leo](https://scholar.google.com/citations?user=LA15o4gAAAAJ&hl=en), MSc, NICTA, Australia & [Giovanni Di Liberto](https://diliberg.net/), MSc, University of Padua, Italy (Post-doc @ École Normale Supérieure)
   * [DASH: Dynamic Approach for Switching Heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), `EJOR 2016` 
-* [André A. Ciré](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Cire.aspx), PhD, CMU, USA, 2014 (Asst. Prof @ University of Toronto)
+* [André A. Ciré](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Cire.aspx), PhD, CMU, 2014 (Asst. Prof @ University of Toronto)
   * [Parallel Restarted Search](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8597/8509), `AAAI 2014`
 * [Barry Hurley](https://scholar.google.com/citations?user=pb2aWU4AAAAJ&hl=en), BSc, University College Cork, Ireland
   * [Transformation-based Feature Computation for Algorithm Portfolios](http://arxiv.org/abs/1401.2474), `CoRR 2014` 
