@@ -36,6 +36,7 @@ author_profile: true
 
 
 ## Responsible AI 
+* `ACM 2024` [Surrogate Modeling to Address the Absence of Protected Membership Attributes in Fairness Evaluation](https://dl.acm.org/doi/pdf/10.1145/3700145)
 * `ArXiv 2024` [Fairness Evaluation for Uplift Modeling in the Absence of Ground Truth](https://arxiv.org/abs/2403.12069)
 * `ArXiv 2024` [ Design and Organization of Educational Competitions with Anonymous and
 Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pdf/2402.07936)
