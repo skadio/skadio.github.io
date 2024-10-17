@@ -10,7 +10,11 @@ author_profile: true
 <a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
 ### 2024 
-* **[Career Fair: Academia vs. Industry]** `Invited Panelist`\
+
+* **[AI Accelerator Institute]** `Invited Panelist`\
+   [Building in Highly Regulated Environments](https://world.aiacceleratorinstitute.com/location/boston/speaker/serdarkadolu), October 2024, Boston, USA
+
+* **[Academia vs. Industry]** `Invited Panelist`\
    [Boomerang Faculty: Returning to Academia from Industry](https://www.linkedin.com/feed/update/urn:li:activity:7178004141556805632/), April 2024, Providence, USA
 
 * **[Evolution of AI Paradigms]** `AAAI Educational Videos`\
