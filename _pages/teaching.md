@@ -16,7 +16,7 @@ author_profile: true
 - CS 149: Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Head TA, Brown, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
-## Thesis Committee
+## Thesis/Graduation Committee
 * Florian Regin, Ph.D., Université Cote d'Azur, 2024
   * Doctoral thesis committee on [Generative Constraint Programming]()
 * Zohreh Raziei, Ph.D., Northeastern University, 2024
@@ -26,7 +26,7 @@ author_profile: true
  * Vignesh Pandiarajan, Cristina Hu, BSc., Brown University, 2024
    * [Capstone project on Explorateur: State-Space Search](https://cs.brown.edu/media/filer_public/81/fe/81fec96a-c739-461c-ac99-b1e447271d11/hucristina_pandiarajanvignesh_capstone_abstract.pdf)
  * Paul Biberstein, BSc., Brown University, 2023
-  * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
+   * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
 * Ansel Vahle, Valentin Perez, Sean Segal, BSc., Brown University 2018 
   * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
     
