@@ -16,19 +16,27 @@ author_profile: true
 - CS 149: Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Head TA, Brown, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
+## Thesis Committee
+* Florian Regin, Ph.D., Université Cote d'Azur, 2024
+  * Doctoral thesis committee on [Generative Constraint Programming]()
+* Zohreh Raziei, Ph.D., Northeastern University, 2024
+  * Doctoral thesis committee on [AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
+* Enrique Areyan Viqueira, Ph.D., Brown University, 2021
+  * Doctoral thesis committee on [Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
+ * Vignesh Pandiarajan, Cristina Hu, BSc., Brown University, 2024
+   * [Capstone project on Explorateur: State-Space Search](https://cs.brown.edu/media/filer_public/81/fe/81fec96a-c739-461c-ac99-b1e447271d11/hucristina_pandiarajanvignesh_capstone_abstract.pdf)
+ * Paul Biberstein, BSc., Brown University, 2023
+  * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
+* Ansel Vahle, Valentin Perez, Sean Segal, BSc., Brown University 2018 
+  * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
+    
 ## Student Research
 
 I enjoy collaboration with students many of which lead to research publications:
-* Zohreh Raziei, Ph.D., Northeastern University, 2024
-  * Doctoral thesis committee on [AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
 * Weijia Jing and Aishwarya Kumar, Northeastern University, 2024
 * Akshay Reddy Nagireddy, Ratan Sai Kokku, and Zohreh Raziei, Northeastern University, 2023
   * Akshay built an automated [CD/CI pipeline using GitHub actions](https://github.com/skadio/atlas_docker), which builds a docker image hosted on GitHub Docker Registry that can run all Fidelity open-source software.
   * Zohreh incorporated [text-based feature selection](https://github.com/fidelity/selective?tab=readme-ov-file#text-based-selection) into Selective library. The method is outlined in detail in our [AMAI'24](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU%3D) and [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27) papers. 
-* Paul Biberstein, BSc., Brown University, 2023
-  * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
-* Enrique Areyan Viqueira, Ph.D., Brown University, 2021
-  * Doctoral thesis committee on [Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 * Irmak Bukey, BSc, Pomona College, 2021 
   * [Non-linear Contextual Multi-armed Bandits (Elmachtoub et. al.)](https://arxiv.org/abs/1706.04687) added to [MABWiser](https://github.com/fidelity/mabwiser)
 * Shamay Samuel, BSc, Brown University, 2021
@@ -43,8 +51,6 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Seq2Pat: Sequence-to-Pattern Generation](https://github.com/fidelity/seq2pat), `INFORMS 2020`
 * Emily Strong, MSc, Northeastern University, 2018 (Data Scientist @ Fidelity)
   * [MABWiser: Contextual Multi-Armed Bandits](https://ieeexplore.ieee.org/document/8995418), `ICTAI 2019` [[code]](https://github.com/fmr-llc/mabwiser)
-* Ansel Vahle, Valentin Perez, Sean Segal, BSc, Brown University 2018 
-  * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
 * [Kevin Leo](https://scholar.google.com/citations?user=LA15o4gAAAAJ&hl=en), MSc, NICTA, Australia & [Giovanni Di Liberto](https://diliberg.net/), MSc, University of Padua, Italy (Post-doc @ École Normale Supérieure)
   * [DASH: Dynamic Approach for Switching Heuristics](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), `EJOR 2016` 
 * [André A. Ciré](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Cire.aspx), PhD, CMU, 2014 (Asst. Prof @ University of Toronto)
