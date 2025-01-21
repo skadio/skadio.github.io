@@ -121,6 +121,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `ECAI 2010` [ISAC: instance-specific algorithm configuration](https://dl.acm.org/doi/10.5555/1860967.1861114)
 
 ## Patents
+* `2024-18108715` [Automatic data-driven optimization of a target outcome using machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:PVgj2kMGcgYC)
 * `2024-18093591` [Digital content classification and recommendation using constraint-based predictive machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:NyGDZy8z5eUC)
 * `2023-11799734` [Determining future user actions using time-based featurization of clickstream data](https://www.freepatentsonline.com/11799734.html)
 * `2022-0188843` [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC)
