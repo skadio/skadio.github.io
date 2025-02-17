@@ -9,6 +9,13 @@ author_profile: true
 
 <a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
+### 2025 
+
+* **[Koc University]** `Invited Talk`\
+   [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
+
+
+
 ### 2024 
 
 * **[AI Accelerator Institute]** `Invited Panelist`\
