@@ -11,10 +11,17 @@ author_profile: true
 
 ### 2025 
 
-* **[Koc University]** `Invited Talk`\
+* **[Generative AI @ INFORMS]** `Invited Talk`\
+   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/ICS_2025_Ner2Zinc.pdf), March, Toronto, Canada
+
+* **[Decision Science @ AAAI]** `Invited Talk`\
+   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/AAAI_2025_Decision_Science.pdf), February, Philadelphia
+   
+* **[Text2Zinc @ AAAI]** `Invited Talk`\
+   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/AAAI_2025_Text2Zinc.pdf), February, Philadelphia
+   
+* **[Ner4Opt @ Koc University]** `Invited Talk`\
    [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
-
-
 
 ### 2024 
 
@@ -58,7 +65,7 @@ author_profile: true
   
 * **[Bridge Program @ AAAI]** `Tutorial`\
    [Bridging Constraints and Machine Learning](http://osullivan.ucc.ie/CPML2023/), Februrary 2023, USA [[paper]](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)
-  
+
 ### 2022
 
 ---
@@ -89,8 +96,8 @@ author_profile: true
   [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
   
  * **[IJCAI]** `Conference Talk`\
-  [Active Learning meets Optimized Item Selection](https://arxiv.org/abs/2112.03105), [Data Sience Meets Optimization @ IJCAI](https://sites.google.com/view/ijcai2021dso), August 2021, Montreal, Canada  
- 
+    [Active Learning meets Optimized Item Selection](https://arxiv.org/abs/2112.03105), [Data Sience Meets Optimization @ IJCAI](https://sites.google.com/view/ijcai2021dso), August 2021, Montreal, Canada  
+
 * **[Research Triangle Park]** `Meetup Talk`\
   [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
 
@@ -109,7 +116,6 @@ author_profile: true
 * **[INFORMS]** `Conference Talk`\
   [Seq2Pat](https://github.com/fidelity/seq2pat): Sequence-to-Pattern Generation In Large-Scale Sequence Databases, [INFORMS Session on Machine Learning and Discrete Optimization](http://meetings2.informs.org/wordpress/annual2020/), Virtual, November 2020, Marryland, USA
   
-
 * **[TechWeek]** `Invited Panelist`\
    [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), in Turkish, Virtual, November 2020, Istanbul, Turkey
 
@@ -144,7 +150,6 @@ author_profile: true
 * **[Dagstuhl CS Seminars]** `Invited Researcher`\
   [Planning and Operations Research](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18071), Dagstuhl Seminars, February 2018, Schloss Dagstuhl, Germany, 
 
-  
 * **[ACP Summer School]** `Lecturer`\
   [Constraint-based Solutions for Resource Allocation Problems](https://school.a4cp.org/summer2018/#speakers), The 14th Summer School of the Association for Constraint Programming (ACP), June 2018, Wyoming, USA
 
