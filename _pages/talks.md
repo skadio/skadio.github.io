@@ -12,13 +12,16 @@ author_profile: true
 ### 2025 
 
 * **[Generative AI @ INFORMS]** `Invited Talk`\
-   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/ICS_2025_Ner2Zinc.pdf), March, Toronto, Canada
+   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf), March, Toronto, Canada
+
+* **[Explainable AI @ AAAI]** `Innovative Applications`\
+   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf), March, Toronto, Canada
 
 * **[Decision Science @ AAAI]** `Invited Talk`\
-   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/AAAI_2025_Decision_Science.pdf), February, Philadelphia
+   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Decision_Science.pdf), February, Philadelphia
    
 * **[Text2Zinc @ AAAI]** `Invited Talk`\
-   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/AAAI_2025_Text2Zinc.pdf), February, Philadelphia
+   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf), February, Philadelphia
    
 * **[Ner4Opt @ Koc University]** `Invited Talk`\
    [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
@@ -58,7 +61,7 @@ author_profile: true
    [From Classical AI to Modern and Generative AI: Challenges and Opportunities for the Enterprise](https://cacc.engr.uconn.edu/ai-workshop-home/ai-workshop-2023-savethedate/), November 2023, USA
 
 * **[Named Entity Recognition @ CPAIOR]** `Conference Talk`\
-   [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf), May 2023, France
+   [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2023_CPAIOR_Kadioglu.pdf), May 2023, France
 
 * **[Fidelity Global AI Forum]** `Invited Talk`\
    [How to Succeed in Strategic Industry Partnerships?](), April 2023, USA
@@ -74,7 +77,7 @@ author_profile: true
    [The Era of Hyper-Personalization](https://go.comet.ml/webinar-recommender-systems-for-business-impact.html?utm_source=Serdar&utm_medium=partner&utm_campaign=Webinar_RecSys_2022), November 2022, USA
    
 * **[Bucknell University]** `Invited Talk`\
-   [Multi-Objective Optimization in Recommender Systems](https://management.blogs.bucknell.edu/2022/11/08/serdar-kadioglu-to-speak-friday-november-11th/), [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_Bucknell_2022.pdf), November 2022, USA [[video]](https://mediaspace.bucknell.edu/media/Optimized+Item+Selection+to+Boost+Exploration+for+Recommender+Systems+-+Serdar+Kadioglu%2C+Fidelity%2C+11+11+2022/1_3iou676g/185503823)
+   [Multi-Objective Optimization in Recommender Systems](https://management.blogs.bucknell.edu/2022/11/08/serdar-kadioglu-to-speak-friday-november-11th/), [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2022_Bucknell_Kadioglu.pdf), November 2022, USA [[video]](https://mediaspace.bucknell.edu/media/Optimized+Item+Selection+to+Boost+Exploration+for+Recommender+Systems+-+Serdar+Kadioglu%2C+Fidelity%2C+11+11+2022/1_3iou676g/185503823)
    
 * **[Dagstuhl CS Seminars]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22431), [Dagsthul](https://www.dagstuhl.de/), October 2022, Germany [[report]](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
