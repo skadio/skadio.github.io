@@ -24,9 +24,13 @@ author_profile: true
 * `ACM DocEng 2023` [Read-Write-Learn: Self-Learning for Handwriting Recognition](https://dl.acm.org/doi/abs/10.1145/3573128.3609343)
 
 ## Natural Language Processing 
+* `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
+* `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `CP 2023` [Holy Grail 2.0: From Natural Language to Constraint Models](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_20)<br>
-[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf)
 * `NeurIPS 2022` [Natural Language for Optimization](https://nbviewer.org/github/skadio/ner4opt/blob/main/docs/%5BNeurIPS+2022%5D+Ner4Opt+Poster.pdf)<br>
 [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `AAAI 2021` [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814)<br>
@@ -36,7 +40,9 @@ author_profile: true
 
 
 ## Responsible AI 
-* `ACM 2024` [Surrogate Modeling to Address the Absence of Protected Membership Attributes in Fairness Evaluation](https://dl.acm.org/doi/pdf/10.1145/3700145)
+* `AAAI 2025` [BoolXAI: Explainable AI Using Expressive Boolean Formulas](https://ojs.aaai.org/index.php/AAAI/article/view/35157)<br>
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf) | [[GitHub]](https://github.com/fidelity/boolxai)
+* `ACM 2024` [Surrogate Modeling to Address the Absence of Protected Membership Attributes in Fairness Evaluation](https://dl.acm.org/doi/pdf/10.1145/3700145)<br> [[GitHub]](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation)
 * `ArXiv 2024` [Fairness Evaluation for Uplift Modeling in the Absence of Ground Truth](https://arxiv.org/abs/2403.12069)
 * `ArXiv 2024` [ Design and Organization of Educational Competitions with Anonymous and
 Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pdf/2402.07936)
@@ -52,7 +58,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `AAAI 2024` [Building higher-order abstractions from components of recommender systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341)<br>
  [[GitHub]](https://github.com/fidelity/mab2rec) | [[Video]](https://underline.io/lecture/91479-building-higher-order-abstractions-from-the-components-of-recommender-systems)
 * `AMAI 2024` [Integrating optimized item selection with active learning for continuous exploration in recommender systems](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU=)<br>
-[[Data]](https://huggingface.co/datasets/skadio/optimized_item_selection)
+[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/optimized_item_selection)
 * `Bridge@AAAI'24` [Mab2Rec: contextual multi-armed bandits for recommender systems](http://osullivan.ucc.ie/CPML2024/papers/06.pdf)
 * `TMLR 2022` [Non-deterministic behavior of Thompson sampling with linear payoffs and How to Avoid It](https://openreview.net/pdf?id=sX9d3gfwtE)<br>
 <span style="color:green"> Received TMLR's first reproducibility certificate</span>
