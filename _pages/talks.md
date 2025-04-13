@@ -7,12 +7,13 @@ author_profile: true
 
 ---
 
-<a href="https://www.youtube.com/channel/UCzJyUE6YtOdrGpyOpgYhyKg"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+<a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+
 
 ### 2025 
 
 * **[Generative AI @ INFORMS]** `Invited Talk`\
-   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf), March, Toronto, Canada
+   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf), March, Toronto, Canada [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
 
 * **[Explainable AI @ AAAI]** `Innovative Applications`\
    [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf), March, Toronto, Canada
@@ -96,13 +97,13 @@ author_profile: true
   [Optimization in Practice, Dept. of Computer Science, Univ. of Pennsylvania](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), November 2021, Pennsylvania, USA 
 
 * **[All Things Open]** `Invited Talk`\
-  [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=54d_YUalvOA)
+  [Building Recommender Systems: A Case Study with Open Source Software](https://2021.allthingsopen.org/sessions/building-recommender-systems-a-case-study-with-open-source-software/), [All Things Open](https://2021.allthingsopen.org/speakers/serdar-kadioglu/), October 2021, North Carolina, USA [[YouTube]](https://www.youtube.com/watch?v=54d_YUalvOA)
   
  * **[IJCAI]** `Conference Talk`\
     [Active Learning meets Optimized Item Selection](https://arxiv.org/abs/2112.03105), [Data Sience Meets Optimization @ IJCAI](https://sites.google.com/view/ijcai2021dso), August 2021, Montreal, Canada  
 
 * **[Research Triangle Park]** `Meetup Talk`\
-  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[video]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
+  [Building Recommender Systems: A Case Study with Open Source Software](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/277669517), [All Things Open](https://www.allthingsopen.org/), June 2021, North Carolina, USA [[YouTube]](https://www.youtube.com/watch?v=fK4g9yF31Pk)
 
 * **[AAAI]** `Conference Talk`\
   [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814), Virtual, February 2021, USA
