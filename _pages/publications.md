@@ -24,7 +24,7 @@ author_profile: true
 * `ACM DocEng 2023` [Read-Write-Learn: Self-Learning for Handwriting Recognition](https://dl.acm.org/doi/abs/10.1145/3573128.3609343)
 
 ## Natural Language Processing 
-* `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)
+* `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
 * `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
