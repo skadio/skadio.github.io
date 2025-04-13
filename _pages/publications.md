@@ -26,7 +26,7 @@ author_profile: true
 ## Natural Language Processing 
 * `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
-* `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
+* `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `CP 2023` [Holy Grail 2.0: From Natural Language to Constraint Models](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_20)<br>
