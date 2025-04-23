@@ -25,20 +25,21 @@ author_profile: true
   * [Doctoral thesis committee on Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 
  ## Graduation Theses
- * Akash Singirikonda, Undergraduate Honors Thesis, Brown University, 2025
-   * [Advisor on Text2Zinc: A Cross-Domain Dataset for LLM Modeling Co-Pilots]()
- * Shreyas Misra, Undergraduate Honors Thesis, Brown University, 2024
-   * [Advisor on Using Reinforcement Learning for Variable Selection in the Branch and Bound Algorithm for Solving Mixed Integer Linear Programs](https://cs.brown.edu/media/filer_public/be/7d/be7d5798-e4a2-4053-8ed5-afcdea8217dc/mishrashreyas_dutt.pdf)
- * Vignesh Pandiarajan, Cristina Hu, BSc., Brown University, 2024
-   * [Capstone project on Explorateur: State-Space Search](https://cs.brown.edu/media/filer_public/81/fe/81fec96a-c739-461c-ac99-b1e447271d11/hucristina_pandiarajanvignesh_capstone_abstract.pdf)
+ * Akash Singirikonda, BSc., Brown University, 2025
+   * [Honors Thesis on Text2Zinc: A Cross-Domain Dataset for LLM Modeling Co-Pilots]()
+ * Shreyas Misra, BSc., Brown University, 2024
+   * [Honors Thesis on Using Reinforcement Learning for Variable Selection in the Branch and Bound Algorithm for Solving Mixed Integer Linear Programs](https://cs.brown.edu/media/filer_public/be/7d/be7d5798-e4a2-4053-8ed5-afcdea8217dc/mishrashreyas_dutt.pdf)
+ * Vignesh Pandiarajan and Cristina Hu, BSc., Brown University, 2024
+   * [Capstone Project on Explorateur: State-Space Search](https://cs.brown.edu/media/filer_public/81/fe/81fec96a-c739-461c-ac99-b1e447271d11/hucristina_pandiarajanvignesh_capstone_abstract.pdf)
  * Paul Biberstein, BSc., Brown University, 2023
-   * [Capstone project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
+   * [Capstone Project on bandit-based local search](https://cs.brown.edu/media/filer_public/ba/c5/bac53530-7432-4d04-870f-701e7b7dcdb0/bibersteinpaul.pdf), added to [ALNS](https://alns.readthedocs.io/en/latest/examples/alns_features.html#More-advanced-bandit-algorithms)
 * Ansel Vahle, Valentin Perez, Sean Segal, BSc., Brown University 2018 
-  * [Capstone Graduation Project](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
+  * [Capstone Project on Boolean Satisfiability](https://cs.brown.edu/media/filer_public/ab/07/ab078691-8c27-4d68-b2b0-b2fa39c3b48a/vahleansel.pdf) on [Online SAT Solving](https://github.com/skadio/cs2951o-capstone)
     
 ## Student Research
 
 I enjoy collaboration with students many of which lead to research publications:
+* Alican Yilmaz and Zohair Shafi, Northeastern University, 2025
 * Weijia Jing and Aishwarya Kumar, Northeastern University, 2024
 * Akshay Reddy Nagireddy, Ratan Sai Kokku, and Zohreh Raziei, Northeastern University, 2023
   * Akshay built an automated [CD/CI pipeline using GitHub actions](https://github.com/skadio/atlas_docker), which builds a docker image hosted on GitHub Docker Registry that can run all Fidelity open-source software.
