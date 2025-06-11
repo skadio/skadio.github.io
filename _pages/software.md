@@ -43,6 +43,7 @@ author_profile: true
 ---
 
 ### Combinatorial Optimization
+- [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://github.com/skadio/balans) Meta solver for mixed-integer programming problems using online learning
 
 - [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS'18](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
  

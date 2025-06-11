@@ -103,6 +103,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `CP 2009` [Same-relation constraints](https://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_38)
 
 ## Search & Optimization
+* `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search]()
 * `Dagsthul 2022` [Data-driven combinatorial optimization]([https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22431)), [Seminar Report](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/)
 * `Dagsthul 2018` [Planning & operations research](https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf), [[Report]](https://www.dagstuhl.de/en/program/calendar/motivationstext/?semnr=18071)

@@ -12,17 +12,24 @@ author_profile: true
 
 ### 2025 
 
+https://partiful.com/e/rbVsVPeTFoekgmfeFl7x
+* **[Generative AI @ CORS]** `Plenary Talk`\
+   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada
+
+* **[Open Source AI @ TechWeek]** `Invited Panelist`\
+   [Business Impact with Open-Source AI ](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
+
 * **[Generative AI @ INFORMS]** `Invited Talk`\
    [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf), March, Toronto, Canada [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
 
 * **[Explainable AI @ AAAI]** `Innovative Applications`\
-   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf), March, Toronto, Canada
+   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia
 
 * **[Decision Science @ AAAI]** `Invited Talk`\
-   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Decision_Science.pdf), February, Philadelphia
+   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Decision_Science_Kadioglu.pdf), February, Philadelphia
    
 * **[Text2Zinc @ AAAI]** `Invited Talk`\
-   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf), February, Philadelphia
+   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc_Kadioglu.pdf), February, Philadelphia
    
 * **[Ner4Opt @ Koc University]** `Invited Talk`\
    [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
@@ -40,7 +47,7 @@ author_profile: true
    <span style="color:green"> Winner of the 2024 AAAI Educational AI Videos</span> [[Brown CS News]](https://awards.cs.brown.edu/2024/05/07/serdar-kadioglu-wins-2024-aaai-educational-ai-video-competition/)
    
 * **[AI4OR @ AAAI]** `Keynote Speaker`\
-   [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2024_Kadioglu_AI4OR_AAAI.pdf)
+   [LLMs for Optimization Modelling](https://ai-or.github.io/2024/#Keynote%20Spearkers), February 2024, Vancouver, Canada, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2024_AAAI_AIOR_Kadioglu.pdf)
 
 * **[Innovative Applications @ AAAI]** `Conference Talk`\
    [Mab2Rec: Building Higher Order Abstractions from the Components of Recommender Systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341), February 2024, Vancouver, Canada
