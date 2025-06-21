@@ -12,12 +12,11 @@ author_profile: true
 
 ### 2025 
 
-https://partiful.com/e/rbVsVPeTFoekgmfeFl7x
 * **[Generative AI @ CORS]** `Plenary Talk`\
    [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada
 
 * **[Open Source AI @ TechWeek]** `Invited Panelist`\
-   [Business Impact with Open-Source AI ](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
+   [Business Impact with Open-Source AI](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
 
 * **[Generative AI @ INFORMS]** `Invited Talk`\
    [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf), March, Toronto, Canada [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
