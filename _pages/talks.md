@@ -13,7 +13,7 @@ author_profile: true
 ### 2025 
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
-   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), , June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
+   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
 
 * **[Open Source AI @ TechWeek]** `Invited Panelist`\
    [Business Impact with Open-Source AI](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
