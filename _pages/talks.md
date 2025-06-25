@@ -13,13 +13,13 @@ author_profile: true
 ### 2025 
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
-   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), [CORS'25](https://site.pheedloop.com/event/cors2025/program/plenary-talks), June, Alberta, Canada
+   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), , June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
 
 * **[Open Source AI @ TechWeek]** `Invited Panelist`\
    [Business Impact with Open-Source AI](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
 
 * **[Generative AI @ INFORMS]** `Invited Talk`\
-   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf), March, Toronto, Canada [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
+   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf), March, Toronto, Canada [[ICS'25]](https://symposia.gerad.ca/ICS2025/en/schedule?slot_id=2407), [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
 
 * **[Explainable AI @ AAAI]** `Innovative Applications`\
    [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia
