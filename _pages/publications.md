@@ -23,6 +23,7 @@ author_profile: true
 ## Computer Vision
 * `ACM DocEng 2023` [Read-Write-Learn: Self-Learning for Handwriting Recognition](https://dl.acm.org/doi/abs/10.1145/3573128.3609343)
 
+
 ## Natural Language Processing 
 * `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
@@ -53,6 +54,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `LION 2023` [Surrogate Membership for Inferred Metrics to Enhance Fairness Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_29)<br>
 [[GitHub]](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation) | [[Intel Podcast]](https://www.intel.com/content/www/us/en/developer/articles/community/a-new-approach-for-evaluating-ai-model-fairness.html)
 * `ICMLA 2021` [Surrogate Ground Truth Generation to Enhance Binary Fairness Evaluation](https://ieeexplore.ieee.org/abstract/document/9680169)
+
 
 ## Recommender Systems
 * `AAAI 2024` [Building higher-order abstractions from components of recommender systems](https://ojs.aaai.org/index.php/AAAI/article/view/30341)<br>
@@ -91,6 +93,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `Interspeech 2012` [Feature selection for speaker traits](http://users.tkk.fi/~jpohjala/publications/is12stc.pdf)<br>
 [[GitHub]](https://github.com/skadio/featureSelection)
 
+
 ## Algorithmic Reasoning
 * `MOPTA 2021` [Integrated Vehicle Routing and Monte Carlo Scheduling Approach for the Home Service Assignment, Routing, and Scheduling Problem](https://arxiv.org/abs/2106.16176) <br>
 <span style="color:green">Finalist at the AIMMS-MOPTA Optimization Modeling Competition</span>, [[Brown News]](http://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
@@ -102,9 +105,11 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `CPAIOR 2010` [Upper bounds on the number of solutions of binary integer programs](https://link.springer.com/chapter/10.1007/978-3-642-13520-0_24)
 * `CP 2009` [Same-relation constraints](https://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_38)
 
+
 ## Search & Optimization
-* `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search]()<br>
-<span style="color:green">Nominated for the Best Paper Award</span>
+* `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)<br>
+<span style="color:green">Nominated for the Best Paper Award</span><br>
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans.pdf) | [[GitHub]](https://github.com/skadio/balans)
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 * `Dagsthul 2022` [Data-driven combinatorial optimization]([https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22431)), [Seminar Report](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/)

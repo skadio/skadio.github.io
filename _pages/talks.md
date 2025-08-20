@@ -11,6 +11,8 @@ author_profile: true
 
 
 ### 2025 
+* **[Online Learning for Optimization]** `Technical Talk`\
+   [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada, [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
    [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
