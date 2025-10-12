@@ -135,6 +135,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `ECAI 2010` [ISAC: instance-specific algorithm configuration](https://dl.acm.org/doi/10.5555/1860967.1861114)
 
 ## Patents
+* `2025-19/091,266` [Evaluating probabilistic fairness of machine learning classification models](https://patents.google.com/patent/US20250307707A1/en)
 * `2025-18593624` [Cross-System Recommenders](https://patents.google.com/patent/US20250278771A1/en)
 * `2024-18108715` [Automatic data-driven optimization of a target outcome using machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:PVgj2kMGcgYC)
 * `2024-18093591` [Digital content classification and recommendation using constraint-based predictive machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:NyGDZy8z5eUC)
