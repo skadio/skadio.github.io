@@ -37,7 +37,7 @@ author_profile: true
 * `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
 * `ArXiv 2024` [Scalable iterative pruning of large language and vision models using block coordinate descent](https://arxiv.org/pdf/2411.17796)<br>
-[[GitHub]](https://github.com/amazon-science/icbs) | [[Amazon Blog Post](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/) 
+[[GitHub]](https://github.com/amazon-science/icbs) | [[Amazon Blog Post]](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/) 
 * `CP 2023` [Holy Grail 2.0: From Natural Language to Modeling Co-Pilots](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 
 
