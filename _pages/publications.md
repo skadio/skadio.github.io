@@ -7,7 +7,13 @@ author_profile: true
 
 ---
 
-<a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) \| [Patents](https://skadio.github.io/publications/#patents) \| [Theses](https://skadio.github.io/publications/#theses)
+<a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a> \| 
+[<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) \| 
+[<a href="https://skadio.github.io/publications/#patents"><i class="fa fa-file-text-o" aria-hidden="true"></i> Patents</a>](https://skadio.github.io/publications/#patents) \| 
+[<a href="https://skadio.github.io/publications/#patents"><i class="fa-solid fa-indent" aria-hidden="true"></i> Patents</a>](https://skadio.github.io/publications/#patents) \| 
+[<a href="https://skadio.github.io/publications/#theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Theses</a>](https://skadio.github.io/publications/#theses) \| 
+[<a href="https://skadio.github.io/publications/#theses"><i class="fa-solid fa-pen-nib" aria-hidden="true"></i> Theses</a>](https://skadio.github.io/publications/#theses) \| 
+
 <!-- 
 [Computer Vision](https://skadio.github.io/publications/#computer-vision) \|
 [Natural Language Processing](https://skadio.github.io/publications/#natural-language-processing) \|
@@ -121,10 +127,10 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 
 
 ## Search & Optimization
-* `ArXiv 2025` [ParBalans: Parallel Multi-Armed Bandits-based Adaptive Large Neighborhood Search](https://arxiv.org/pdf/2508.06736)
-* `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)<br>
+* `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286)<br>
 <span style="color:green">Nominated for the Best Paper Award</span><br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans.pdf) | [[GitHub]](https://github.com/skadio/balans)
+* `ArXiv 2025` [ParBalans: Parallel Multi-Armed Bandits-based Adaptive Large Neighborhood Search](https://arxiv.org/pdf/2508.06736)
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 * `Dagsthul 2022` [Data-driven combinatorial optimization]([https://drops.dagstuhl.de/opus/volltexte/2018/9289/pdf/dagrep_v008_i002_p026_18071.pdf](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22431)), [Seminar Report](https://drops.dagstuhl.de/opus/volltexte/2023/17825/pdf/dagrep_v012_i010_p166_22431.pdf)
 * `INFORMS 2020` [Seq2Pat: sequence-to-pattern generation in large-scale sequence databases](http://meetings2.informs.org/wordpress/annual2020/)
@@ -152,13 +158,13 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 
 
 ## Patents
-* `2025-19/091,266` [Evaluating probabilistic fairness of machine learning classification models](https://patents.google.com/patent/US20250307707A1/en)
-* `2025-18593624` [Cross-System Recommenders](https://patents.google.com/patent/US20250278771A1/en)
-* `2024-18108715` [Automatic data-driven optimization of a target outcome using machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:PVgj2kMGcgYC)
+* `2025-0307707` [Evaluating probabilistic fairness of machine learning classification models](https://patents.google.com/patent/US20250307707A1/en)
+* `2025-0278771` [Cross-System Recommenders](https://patents.google.com/patent/US20250278771A1/en)
+* `2024-12169870` [Automatic data-driven optimization of a target outcome using machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:PVgj2kMGcgYC)
 * `2024-18093591` [Digital content classification and recommendation using constraint-based predictive machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:NyGDZy8z5eUC)
-* `2023-11799734` [Determining future user actions using time-based featurization of clickstream data](https://www.freepatentsonline.com/11799734.html)
+* `2023-11799734` [Determining future user actions using time-based featurization of clickstream data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=tOgYtHkAAAAJ:gKiMpY-AVTkC)
 * `2022-0188843` [Surrogate ground truth generation in artificial intelligence based marketing campaigns](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:nZcligLrVowC)
-* `2022-0142196` [Digital content classification and recommendation using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:ODE9OILHJdcC)
+* `2022-11361239` [Digital content classification and recommendation using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:ODE9OILHJdcC)
 * `2021-10936961` [Automated predictive product recommendations using reinforcement learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&citation_for_view=tOgYtHkAAAAJ:yFnVuubrUp4C)
 * `2019-10248550` [Selecting a set of test configurations associated with a particular coverage strength using a constraint solver](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:ZzlSgRqYykMC)
 * `2018-10146665` [Systems and methods for providing dynamic and real-time simulations of matching resources to requests](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&cstart=20&pagesize=80&sortby=pubdate&authuser=1&citation_for_view=tOgYtHkAAAAJ:Aul-kAQHnToC)
