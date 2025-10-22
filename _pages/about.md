@@ -23,7 +23,7 @@ Driving enterprise-scale AI strategy and transformation through AI-native leader
 Architect of enterprise AI platforms powering recommender systems, content generation, marketing optimization, document intelligence, and co-pilot experiences. Advocate of responsible AI practices, model governance, and cross-functional collaboration.
 Recognized thought leader and frequent keynote speaker on Applied AI. Committed to open-source innovation, education, talent development, and strategic partnerships across industry and academia.
 
-Explore more in[Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) and the [Year in Review articles](https://www.linkedin.com/in/serdark/recent-activity/articles/)Year in Review articles highlighting the evolution of this work.
+Explore more in [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) and the [Year in Review articles](https://www.linkedin.com/in/serdark/recent-activity/articles) highlighting the evolution of this work.
 
 <!--
 Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI. We are involved from ideation to productionization across i) digital channels for external users over the web, mobile, email, and conversational agents, and ii) live channels for internal associates over the regional centers and branches. 
@@ -68,4 +68,5 @@ I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the g
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
+
 
