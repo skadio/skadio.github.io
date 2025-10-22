@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-<a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) <br>
+<a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a>  \| [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) \| [Patents](https://skadio.github.io/publications/#patents) \| [Theses](https://skadio.github.io/publications/#theses)
 <!-- 
 [Computer Vision](https://skadio.github.io/publications/#computer-vision) \|
 [Natural Language Processing](https://skadio.github.io/publications/#natural-language-processing) \|
@@ -18,8 +18,7 @@ author_profile: true
 [Search & Optimization](https://skadio.github.io/publications/#search--optimization) \|
 [Algorithm Configuration](https://skadio.github.io/publications/#algorithm-configuration) <br>
 -->
-[Patents](https://skadio.github.io/publications/#patents) \|
-[Theses](https://skadio.github.io/publications/#theses)
+
 
 ---
 ## Enterprise AI Strategy
