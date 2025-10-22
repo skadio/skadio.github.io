@@ -26,12 +26,13 @@ author_profile: true
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 
 
-## vLLMs & Co-Pilots 
+## vLLMs & Agents & Co-Pilots 
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
 * `ICLR` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
 * `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
-* `ArXiv 2024` [Scalable iterative pruning of large language and vision models using block coordinate descent](https://arxiv.org/pdf/2411.17796)
+* `ArXiv 2024` [Scalable iterative pruning of large language and vision models using block coordinate descent](https://arxiv.org/pdf/2411.17796)<br>
+[[GitHub]](https://github.com/amazon-science/icbs) | [[Amazon Blog Post](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/) 
 * `CP 2023` [Holy Grail 2.0: From Natural Language to Modeling Co-Pilots](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 
 
