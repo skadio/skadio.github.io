@@ -20,16 +20,28 @@ author_profile: true
 [Theses](https://skadio.github.io/publications/#theses)
 
 ---
-## Computer Vision
+## Enterprise AI Strategy
+* `AI Magazine 2025` [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
+* `IAAI 2025` [Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70027)
+* `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
+
+
+## vLLMs & Co-Pilots 
+* `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
+* `ICLR` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
+* `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
+[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
+* `ArXiv 2024` [Scalable iterative pruning of large language and vision models using block coordinate descent](https://arxiv.org/pdf/2411.17796)
+* `CP 2023` [Holy Grail 2.0: From Natural Language to Modeling Co-Pilots](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
+
+
+## Document Automation & Computer Vision
 * `ACM DocEng 2023` [Read-Write-Learn: Self-Learning for Handwriting Recognition](https://dl.acm.org/doi/abs/10.1145/3573128.3609343)
 
 
 ## Natural Language Processing 
-* `ArXiv 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
-[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
 * `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
-* `CP 2023` [Holy Grail 2.0: From Natural Language to Constraint Models](https://freuder.files.wordpress.com/2023/08/pthg23__submission2-tsouros.pdf)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_20)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf)
 * `NeurIPS 2022` [Natural Language for Optimization](https://nbviewer.org/github/skadio/ner4opt/blob/main/docs/%5BNeurIPS+2022%5D+Ner4Opt+Poster.pdf)<br>
@@ -107,6 +119,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 
 
 ## Search & Optimization
+* `ArXiv 2025` [ParBalans: Parallel Multi-Armed Bandits-based Adaptive Large Neighborhood Search](https://arxiv.org/pdf/2508.06736)
 * `IJCAI 2025` [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)<br>
 <span style="color:green">Nominated for the Best Paper Award</span><br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans.pdf) | [[GitHub]](https://github.com/skadio/balans)
@@ -126,6 +139,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `CP 2008` [Dichotomic search protocols for constrained optimization](https://link.springer.com/chapter/10.1007%2F978-3-540-85958-1_17)<br>
 <span style="color:green">Nominated for the Best Paper Award</span>
 
+
 ## Algorithm Configuration
 * `CP 2019` [How to win gold at a SAT competition without writing a SAT solver](https://freuder.files.wordpress.com/2019/09/2011-freuder-algorithm-selection-and-scheduling.pdf)
 * `CoRR 2014` [Transformation-based feature computation for algorithm portfolios](http://arxiv.org/abs/1401.2474)
@@ -133,6 +147,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `CP 2011` [Algorithm selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_35)<br>
 <span style="color:green">Winner of the [2011 SAT Solver Competition](http://www.satcompetition.org/2011/), 3S, in crafted and random categories collecting 2 gold and 7 medals in total</span>
 * `ECAI 2010` [ISAC: instance-specific algorithm configuration](https://dl.acm.org/doi/10.5555/1860967.1861114)
+
 
 ## Patents
 * `2025-19/091,266` [Evaluating probabilistic fairness of machine learning classification models](https://patents.google.com/patent/US20250307707A1/en)
@@ -149,9 +164,7 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 * `2017-9588819` [System and method of assigning requests to resources using constraint programming](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tOgYtHkAAAAJ&citation_for_view=tOgYtHkAAAAJ:WJVC3Jt7v1AC)
 
 [comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=10007538.PN.&OS=PN/10007538&RS=PN/10007538)
-
 [comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=25&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu)
-
 [comment]: # (http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=kadioglu&OS=kadioglu&RS=kadioglu)
 
 ## Theses
