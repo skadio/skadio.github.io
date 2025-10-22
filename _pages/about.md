@@ -12,7 +12,7 @@ Hi! My name is Serdar. I am the Group VP of Artificial Intelligence at [Fidelity
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
-In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, ICLR, NeurIPs, and similar research organizations. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work.
+In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, ICLR, NeurIPs, and similar research organizations. I am the co-chair of the Innovative Applications of AI conference and a lead guest editor for the AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work.
 
 ## Background
 
@@ -68,5 +68,6 @@ I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the g
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
+
 
 
