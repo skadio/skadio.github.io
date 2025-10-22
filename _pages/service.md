@@ -7,14 +7,13 @@ author_profile: true
 
 ---
 
-## Co-Chair & Organizer & Editor
+## Organizer & Editor
 - [[IAAI] Co-Chair: Association for the Advancement of Artificial Intelligence](https://aaai.org/conference/iaai) Present - 2024
 - [[CP] Co-Organizer: LLMs meets Constraint Solving](https://groups.google.com/g/constraints/c/yzB2yCbkDXw) Present - 2024
 - [[AI Magazine] Lead Guest Editor: Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/journal/23719621) Present - 2025
 
 
 ## (Senior) Programme Committee
-
 - [[AAAI] Association for the Advancement of Artificial Intelligence](https://www.aaai.org) Present - 2007
 - [[IJCAI] International Joint Conference on Artificial Intelligence](http://ijcai.org) Present - 2011 
 - [[ECAI] European Conference on Artificial Intelligence](https://eurai.orgactivities/ECAI_conferences) Present - 2014 
@@ -24,11 +23,10 @@ author_profile: true
 - [[RecSys] Recommender Systems](https://recsys.acm.org) Present - 2022
 - [[SDM] SIAM International Conference on Data Mining](https://www.siam.org) Present - 2022
 - [[KDD] Knowledge Discovery and Data Mining](https://www.kdd.org) Present - 2020
-- **Journal Reviewer: ** Constraints, JAIR, INFORMS, IJOR, EJOR
+- **Journal Reviewer:** Constraints, JAIR, INFORMS, IJOR, EJOR
 
 
 ## Outreach
-
 - Sabanci University CS Department External Advisor, Present - 2016
 - Brown University Undergraduate Admission Interviews, Present - 2013
 - Fidelity College Recruiting Programme, Present - 2018
@@ -42,7 +40,6 @@ author_profile: true
 - Coaching [Reading Youth Soccer](https://www.sportsmanager.us/readingyouthsoccer.htm), 2013 - 2015
 
 ## Member of Professional Societies
-
 * [ACM] Association of Computer Machinery
 * [AAAI] Association for the Advancement of Artificial Intelligence
 * [INFORMS] Institute for Operations Research and Management Sciences
