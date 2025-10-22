@@ -25,7 +25,7 @@ In parallel with my industry role, I serve in the (senior) [programme committee]
 Driving enterprise-scale AI strategy and transformation through AI-native leadership. Leading cutting-edge research and delivering production-ready AI solutions with measurable business impact. Proven success in building and scaling global AI teams across technical and financial domains.
 
 Architect of enterprise AI platforms powering recommender systems, content generation, marketing optimization, document intelligence, and co-pilot experiences. Advocate of responsible AI practices, model governance, and cross-functional collaboration.
-Recognized thought leader and frequent keynote speaker on Applied AI. Committed to open-source innovation, education, talent development, and strategic partnerships across industry and academia.
+Recognized thought leader and frequent keynote speaker on Applied AI. Committed to open-source innovation, education, talent development, and strategic partnerships across industry, academia and public sector, including Amazon, NVIDIA, Harvard, and CMU.
 
 Explore more in [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) and the [Year in Review articles](https://www.linkedin.com/in/serdark/recent-activity/articles) highlighting the evolution of this work.
 
@@ -79,6 +79,7 @@ I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the g
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
+
 
 
 
