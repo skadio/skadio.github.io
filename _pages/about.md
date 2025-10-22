@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Serdar. I am the Group VP of Artificial Intelligence at [Fidelity Investments](https://www.fidelitylabs.com/) and an Adjunct Associate Professor in the Dept. of Computer Science at [Brown University](http://cs.brown.edu/people/faculty/skadiogl). Previously, I led the [Advanced Constraint Technology R&D](https://www.oracle.com/artificial-intelligence/) group at Oracle and worked at Adobe.
+<!-- http://cs.brown.edu/people/faculty/skadiogl 
+https://www.oracle.com/artificial-intelligence
+--> 
+
+Hi! My name is Serdar. I am the Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
 
-In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, ICLR, NeurIPs, and similar research organizations. I am the co-chair of the Innovative Applications of AI conference and a lead guest editor for the AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work.
+In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, ICLR, NeurIPs, and similar research organizations. I am the co-chair of the Innovative Applications of AI conference and a lead guest editor for the AAAI-AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work.
 
 ## Background
 
@@ -55,9 +59,16 @@ I built a context-free grammar-based evolutionary algorithm to generate automate
 
 ### @Brown
 
-I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the [Combinatorial Optimization Group](http://www.it.uu.se/research/group/astra) in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
+<!--
+http://www.it.uu.se/research/group/astra
+http://www.research.ibm.com/university/awards/phdfellowship.shtml
+https://en.wikipedia.org/wiki/Paris_Kanellakis
+http://www.satcompetition.org
+-->
 
-My research work was awarded the [IBM PhD Scholarship](http://www.research.ibm.com/university/awards/phdfellowship.shtml), and I was a recipient of the [Paris Kanellakis Fellowship](https://en.wikipedia.org/wiki/Paris_Kanellakis). In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the [International SAT Solver Competitions](http://www.satcompetition.org/). 
+I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
+
+My research work was awarded the IBM PhD Scholarship, and I was a recipient of the Paris Kanellakis Fellowship In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the International SAT Solver Competitions.
 
 I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
@@ -68,6 +79,7 @@ I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the g
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
+
 
 
 
