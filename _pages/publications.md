@@ -27,7 +27,7 @@ author_profile: true
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 
 
-## vLLMs & Agents & Co-Pilots 
+## vLLMs, Agents & Co-Pilots 
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
 * `ICLR` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
 * `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
