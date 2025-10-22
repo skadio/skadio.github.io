@@ -7,6 +7,13 @@ author_profile: true
 
 ---
 
+### vLLMs, Agents & Co-Pilots
+- [Text2Zinc](https://huggingface.co/datasets/skadio/text2zinc): A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc [Arxiv'25](https://arxiv.org/abs/2503.10642)
+- [Text2Zinc-Leaderboard](https://huggingface.co/spaces/skadio/text2zinc-leaderboard): Modeling Co-Pilots Leaderboard
+- [iCBS](https://github.com/amazon-science/icbs): iterative Combinatorial Brain Surgeon [Arxiv'24](https://arxiv.org/abs/2411.17796), [Amazon Blogpost](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/)
+
+---
+
 ### Responsible AI
 
 - [BoolXAI](https://github.com/fidelity/boolxai): Explainable AI using expressive Boolean formulas. [MAKE'23](https://www.mdpi.com/2504-4990/5/4/86), [ArXiv'23](https://arxiv.org/pdf/2306.03976)
@@ -37,32 +44,21 @@ author_profile: true
 ### Feature Selection 
 
 - [Selective](https://github.com/fidelity/selective) A white-box feature selection library that supports unsupervised and supervised selection methods for classification and regression tasks. [AMAI'24](https://link.springer.com/epdf/10.1007/s10472-024-09941-x?sharing_token=9XBJ6cdglsdji19gFwuqQve4RwlQNchNByi7wbcMAY4VwIBKydj3Ja9OBjALNpg8nuO300abjlrHmZQFBVUqar-uYhBML28cmbovFgiHRRvd7TM2QAA_Hwd5J3U2MmKx0ugXwF6yz2hW75_88JpLmXSDJSuyCEwqZqtOcB7BhJU=), [CPAIOR'21](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_27), [DSO@IJCAI'21](https://arxiv.org/abs/2112.03105), [Data](https://huggingface.co/datasets/skadio/optimized_item_selection)
-
 - [FSiHD](http://users.spa.aalto.fi/jpohjala/featureselection/) Feature Selection in High-Dimensional Classification. <span style="color:green">The bronze winner</span> at the [Interspeech Speaker Trait Challenge in 2012](http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/Schuller12-TI2.pdf). [Computer Speech & Language'15](https://www.sciencedirect.com/science/article/abs/pii/S0885230813001113), [Interspeech'12](https://users.aalto.fi/~jpohjala/publications/is12stc.pdf)
 
 ---
 
-### Combinatorial Optimization
+### Combinatorial Optimization & Satisfaction
 - [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://github.com/skadio/balans) Meta solver for mixed-integer programming problems using online learning
-
 - [Pathfinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS'18](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
- 
-- [Hegel: Dialectic Search Solver for Set Cover Problem](https://github.com/skadio/hegel) Dialectic search based local search approach for solving Set Covering Problems. [CP'09](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
-
----
-
-### Constraint Satisfaction 
-
 - [3S: Satisfiability Solver Selector](https://sites.google.com/site/yurimalitsky/downloads). <span style="color:green">This solver won 2 gold and 7 medals in total</span> at the [International SAT Solver Competition in 2011](http://www.satcompetition.org/). [CP'11](https://link.springer.com/chapter/10.1007%2F978-3-642-23786-7_35), [SAT'11](http://link.springer.com/chapter/10.1007%2F978-3-642-21581-0_33)
-
+- [Hegel: Dialectic Search Solver for Set Cover Problem](https://github.com/skadio/hegel) Dialectic search based local search approach for solving Set Covering Problems. [CP'09](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_39)
+  
 --- 
 
-### Algorithm Configuration & Hyperparameter Tuning
+### Algorithm Configuration & Portfolios
 
 - [ISAC: Instance-Specific Algorithm Configuration](https://sites.google.com/site/yurimalitsky/downloads). Algorithm Portfolio based on the Instance-Specific Algorithm Configuration (ISAC) approach. [ECAI'10](https://ebooks.iospress.nl/publication/5873)
-
 - [GGA: Gender-based Genetic Algorithm for Parameter Tuning](https://github.com/OPTANO/optano.algorithm.tuner). A state-of-the-art parameter tuning and algorithm configuration tool based on genetic algorithms. It is the backbone of many competition-winning constraint solvers and algorithm portfolios. Re-implemented and now maintained by [Optano GmbH](https://optano.com/). [CP'09](http://link.springer.com/chapter/10.1007%2F978-3-642-04244-7_14)
-
 - [DASH: Dynamic Adaptive Search Heuristics & Non-Model Based Search Guidance](https://github.com/skadio/set-partitioning-instance-generator) Set Partitioning Problem (SPP) Benchmark Instance Generator. [EJOR'16](http://link.springer.com/article/10.1007%2Fs10601-015-9211-0), [AAAI'12](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5082)
-
 - [ASLib: Algorithm Selection Library](https://github.com/coseal/aslib_data). This library consists of scenarios and instances for benchmarking from different domains, such as SAT, CSP, and ASP. 
