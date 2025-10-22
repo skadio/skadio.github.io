@@ -10,9 +10,7 @@ author_profile: true
 <a href="https://dblp.org/pid/35/5878.html"><i class="fa fa-link" aria-hidden="true"></i> DBLP</a> \| 
 [<a href="https://scholar.google.com/citations?user=tOgYtHkAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>](https://scholar.google.com/citations?user=tOgYtHkAAAAJ&hl=en) \| 
 [<a href="https://skadio.github.io/publications/#patents"><i class="fa fa-file-text-o" aria-hidden="true"></i> Patents</a>](https://skadio.github.io/publications/#patents) \| 
-[<a href="https://skadio.github.io/publications/#patents"><i class="fa-solid fa-indent" aria-hidden="true"></i> Patents</a>](https://skadio.github.io/publications/#patents) \| 
 [<a href="https://skadio.github.io/publications/#theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Theses</a>](https://skadio.github.io/publications/#theses) \| 
-[<a href="https://skadio.github.io/publications/#theses"><i class="fa-solid fa-pen-nib" aria-hidden="true"></i> Theses</a>](https://skadio.github.io/publications/#theses) \| 
 
 <!-- 
 [Computer Vision](https://skadio.github.io/publications/#computer-vision) \|
