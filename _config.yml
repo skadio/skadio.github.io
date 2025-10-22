@@ -87,7 +87,7 @@ author:
   employer         : # "Fidelity Investments"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   dblp             : "https://dblp.org/pid/35/5878.html"
-  googlescholar    : "https://scholar.google.com/citations?user=tOgYtHkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tOgYtHkAAAAJ&view_op=list_works&sortby=pubdate"
   email            : # serdark@cs.brown.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -310,3 +310,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
