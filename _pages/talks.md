@@ -11,7 +11,19 @@ author_profile: true
 
 
 ### 2025 
-* **[Online Learning for Optimization @ IJCAI]** `Best Paper Nominee`\
+* **[Foundational Models @ Stanford]** `Invited Seminar`\
+   [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/abs/2508.20330), November, Stanford, USA
+
+* **[Online Learning @ USC]** `Invited Seminar`\
+   [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, University of Southern California, USA
+
+* **[Amazon GenAI Research Center]** `Invited Seminar`\
+   [Gala: Global LLM Agents for Modelling Co-Pilots](https://arxiv.org/abs/2509.08970), November, Amazon AWS Generative AI Research Center, USA
+
+* **[Replicability @ INFORMS]** `Organizer`\
+   [Replicable Research](https://meetings.informs.org/wordpress/annual/workshop-on-replicability/), October, Atlanta, INFORMS, USA
+
+* **[Online Learning @ IJCAI]** `Best Paper Nominee`\
    [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada, [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
