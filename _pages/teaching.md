@@ -16,15 +16,15 @@ author_profile: true
 - CS 149: Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Head TA, Brown, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
-## PhD Theses
+## PhD Theses Committee 
 * Florian Regin, Ph.D., Université Cote d'Azur, 2024
-  * [Doctoral thesis committee on Generative Constraint Programming]()
+  * [Doctoral Thesis: Generative Constraint Programming](https://theses.hal.science/tel-04997072v1/document)
 * Zohreh Raziei, Ph.D., Northeastern University, 2024
-  * [Doctoral thesis committee on AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
+  * [Doctoral Thesis: AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
 * Enrique Areyan Viqueira, Ph.D., Brown University, 2021
-  * [Doctoral thesis committee on Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
+  * [Doctoral Thesis: Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 
-## Graduation Theses
+## Graduation Theses Advisor
 * Akash Singirikonda, BSc., Brown University, 2025
   * [Honors Thesis: Text2Zinc: A Cross-Domain Dataset for LLM Modeling Co-Pilots]()
 * Shreyas Misra, BSc., Brown University, 2024
@@ -78,4 +78,5 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf) 
 * [Siddhartha Jain](https://scholar.google.com/citations?user=mBJIa8cAAAAJ&hl=en), BSc, Brown University, 2010 (Applied Scientist @ Amazon AI)
   * [Upper Bounds on the Number of Solutions of Binary Integer Programs](http://www.springerlink.com/content/l23l736k681t8800/), `CPAIOR 2010` 
+
 
