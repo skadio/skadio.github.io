@@ -12,9 +12,11 @@ redirect_from:
 https://www.oracle.com/artificial-intelligence
 --> 
 
+---
+
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-My experiences lies in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains.
+I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains.
 
 Explore more in:
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
@@ -27,8 +29,6 @@ Alongside my industry role, I actively [contribute](https://skadio.github.io/ser
 
 <detail>
   <summary>Full Bio</summary>
-</detail>
-<!-- ## Background -->
 
 ### @Fidelity
 
@@ -93,9 +93,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
-
-
-
+</detail>
 
 
 
