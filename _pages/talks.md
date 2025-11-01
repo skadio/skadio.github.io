@@ -113,7 +113,7 @@ author_profile: true
 
 ---
 
-* **[UPENN]** `Guest Lecture`\
+* **[UPenn]** `Guest Lecture`\
   [Optimization in Practice, Dept. of Computer Science, Univ. of Pennsylvania](https://events.seas.upenn.edu/event/cis-189-guest-lecture-optimization-in-practice/), November 2021, Pennsylvania, USA 
 
 * **[All Things Open]** `Invited Talk`\
@@ -136,13 +136,15 @@ author_profile: true
 * **[Dagstuhl CS Seminars]** `Invited Researcher`\
   [Data-Driven Combinatorial Optimization](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20421), Dagstuhl Research Seminars (cancelled due to COVID), October 2020, Schloss Dagstuhl, Germany 
 
-
 * **[INFORMS]** `Conference Talk`\
   [Seq2Pat](https://github.com/fidelity/seq2pat): Sequence-to-Pattern Generation In Large-Scale Sequence Databases, [INFORMS Session on Machine Learning and Discrete Optimization](http://meetings2.informs.org/wordpress/annual2020/), Virtual, November 2020, Marryland, USA
   
 * **[TechWeek]** `Invited Panelist`\
    [Verinin Bollugunda Yolculuk](https://www.istanbultechweek.com/konusmacilar), [Istanbul Technology Week](https://www.istanbultechweek.com/etkinlik), in Turkish, Virtual, November 2020, Istanbul, Turkey
 
+<details>
+  <summary>Show More</summary>
+   
 ### 2019
 
 ---
@@ -183,3 +185,5 @@ author_profile: true
 
 * **[Fidelity]** `Invited Talk`\
   A Day in the Life of a Data Scientist, Fidelity General Management Apprenticeship Program, September 2018, North Carolina, USA
+
+</details>
