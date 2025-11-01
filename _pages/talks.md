@@ -122,7 +122,7 @@ author_profile: true
 * **[AAAI]** `Conference Talk`\
   [Representing the unification of text featurization using a context-free grammar](https://ojs.aaai.org/index.php/AAAI/article/view/17814), Virtual, February 2021, USA
 
-<details>
+<details markdown="1">
   <summary>Show More</summary>
 
 
@@ -158,6 +158,7 @@ author_profile: true
 
 * **[BenSum]**  `Invited Speaker`\
   [Machine Learning & the Future of Customer Engagement](https://fidelitystockplansummit.com/), Fidelity Plan Sponsors Benefit Summit (BenSum), May 2019, Scottsdale, USA
+
 
 ### **2018**
 
