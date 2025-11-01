@@ -14,7 +14,7 @@ https://www.oracle.com/artificial-intelligence
 
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
+My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
 Alongside my industry role, I actively [contribute]((https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. I serve as Co-Chair of the Innovative Applications of AI Conference and Lead Guest Editor for the AAAI AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral to my work. 
 
@@ -90,4 +90,5 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
+
 
