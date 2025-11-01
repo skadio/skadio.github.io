@@ -12,17 +12,19 @@ redirect_from:
 
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Department of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains. Established **strategic partnerships** across industry and academia, including **Amazon, CMU, Harvard, NVIDIA**, and others. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
+I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading [cutting-edge research](https://skadio.github.io/publications/) and delivering [production-ready AI solutions](https://skadio.github.io/software/) with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains. Established **strategic partnerships** across industry and academia, including **Amazon, CMU, Harvard, NVIDIA**, and others. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
 
 Explore more in:
 
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
 * [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">Winner of AAAI Educational AI Videos</span>
 * [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry
-    
-My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
-Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and committee member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
+<!-- 
+My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
+--> 
+
+Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and senior member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
 
 ### 📣 Let's Connect
 Whether you're driving AI transformation in your organization, exploring research partnerships, or mentoring the next generation of scientists, let's connect and collaborate! 
@@ -32,9 +34,9 @@ Whether you're driving AI transformation in your organization, exploring researc
 
 ### @Fidelity
 
-Leading a highly skilled group of applied scientists and architect of **Enterprise AI** platforms and products, powering:  
+Leading applied AI groups with highly skilled scientists and architecting **Enterprise AI** platforms and products that power:  
 
-* Recommender systems
+* Recommender systems for personalization
 * Agentic workflows (voice & text)
 * Content generation and marketing optimization
 * Document intelligence
@@ -106,6 +108,7 @@ http://www.research.ibm.com/university/awards/phdfellowship.shtml
 https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
+
 
 
 
