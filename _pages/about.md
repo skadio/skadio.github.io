@@ -27,9 +27,9 @@ Driving **enterprise-scale AI strategy and transformation** through AI-native le
 Architect of **Enterprise AI Platforms** powering: 
 * Recommender systems
 * Agentic workflows (voice & text)
-* Content generation, Marketing optimization
+* Content generation and mMarketing optimization
 * Document intelligence
-* Lead generation, Call routing, and
+* Lead generation and call routing
 * Co-pilot experiences
 * Executive education
 
@@ -58,7 +58,7 @@ Externally, I coordinate strategic partnerships with the high-tech industry, inc
 
 Led the Advanced Constraint Technology R&D team to deploy state-of-the-art optimization solutions for Oracle products facing industry-scale problems in Supply Chain & Logistics, Planning & Scheduling, Cloud Resource Management, and Product Configuration.
 
-Our contributions at Oracle were recognized with an Entrepreneurship Award, received funding for CMU-Oracle joint research collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
+Our contributions at Oracle were recognized with an **Entrepreneurship Award**, received funding for CMU-Oracle joint research grant, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
 ### @Adobe
 
@@ -77,7 +77,7 @@ https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
 
-Earned a Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
+Earned a Ph.D. in CS from Brown working with [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
 
 My research work was awarded the IBM PhD Scholarship, and I was a recipient of the Paris Kanellakis Fellowship In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the International SAT Solver Competitions.
 
@@ -90,3 +90,4 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
+
