@@ -17,6 +17,10 @@ author_profile: true
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
 ## PhD Theses Committee 
+* Kostis Michailidis, Ph.D. KU Leuven, 2026 (expected)
+  * [Doctoral Thesis: Thrustworth Graph Machine Learning]()
+* Zohair Shafi, Ph.D. Northeastern University, 2026 (expected)
+  * [Doctoral Thesis: From Natural Language to Constrained Modeling]()
 * Florian Regin, Ph.D., Université Cote d'Azur, 2024
   * [Doctoral Thesis: Generative Constraint Programming](https://theses.hal.science/tel-04997072v1/document)
 * Zohreh Raziei, Ph.D., Northeastern University, 2024
@@ -78,5 +82,6 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf) 
 * [Siddhartha Jain](https://scholar.google.com/citations?user=mBJIa8cAAAAJ&hl=en), BSc, Brown University, 2010 (Applied Scientist @ Amazon AI)
   * [Upper Bounds on the Number of Solutions of Binary Integer Programs](http://www.springerlink.com/content/l23l736k681t8800/), `CPAIOR 2010` 
+
 
 
