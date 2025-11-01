@@ -25,7 +25,7 @@ Explore more in:
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
-Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
+Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and committee member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
 
 
 <!--
@@ -103,4 +103,5 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
 
