@@ -85,14 +85,14 @@ Developed a context-free grammar-based evolutionary algorithm to generate automa
 
 Earned a Ph.D. in CS from Brown working with [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
 
-My research work was awarded the IBM PhD Scholarship, and I was a recipient of the Paris Kanellakis Fellowship In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the International SAT Solver Competitions.
+My research work was awarded the **IBM PhD Scholarship**, and I was a recipient of the Paris Kanellakis Fellowship. Our group at Brown designed automated algorithm configurators that won several **gold medals** in the International SAT Solver Competitions.
 
-I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
+I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was **the captain of ByteSoccer**, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
 
 ### @Sabanci
 
-Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). Studied abroad at [Uppsala](https://www.it.uu.se/research/computing_science), Sweden as an Erasmus exchange student. Actively engaged as an external committee member and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit reducing inequality of opportunity in education. 
+Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). Studied abroad at [Uppsala](https://www.it.uu.se/research/computing_science), Sweden as an Erasmus exchange student. Actively engaged as a member of **CS Advisory Board** and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit reducing inequality of opportunity in education. 
 
 
 ### @Soccer
@@ -100,6 +100,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
 
 
 
