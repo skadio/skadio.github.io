@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Applied AI in Industry"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,31 +14,33 @@ https://www.oracle.com/artificial-intelligence
 
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
+My experiences lies in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains.
+
+Explore more in:
+* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
+* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) winner of AAAI Educational AI Videos 2024
+* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
+
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
-Alongside my industry role, I actively [contribute](https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. I serve as **Co-Chair** of the Innovative Applications of AI Conference, **Co-Organizer** of LLMs meet Constraint Solving and Open-Source AI for Mainstream Use at AAAI, and **Lead Guest Editor** for the AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral to my work. 
+Alongside my industry role, I actively [contribute](https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. I serve as **Co-Chair** of the Innovative Applications of AI Conference, **Co-Organizer** of LLMs meet Constraint Solving and Open-Source AI at AAAI, and **Lead Guest Editor** for the AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral to my work. 
 
-## Background
+<detail>
+  <summary>Full Bio</summary>
+</detail>
+<!-- ## Background -->
 
 ### @Fidelity
 
-Driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains.
-
-Architect of **Enterprise AI Platforms** powering: 
+Architect of **Enterprise AI** platforms and products, powering:  
 * Recommender systems
 * Agentic workflows (voice & text)
 * Content generation and marketing optimization
 * Document intelligence
 * Lead generation and call routing
 * Co-pilot experiences
-* Executive education
 
-Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Recognized thought leader and frequent keynote speaker on Applied AI. Committed to **open-source innovation**, education, talent development, and strategic partnerships across industry, academia and public sector, including **Amazon, NVIDIA, Harvard, CMU**, and others.
-
-Explore more in:
-* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) winner of AAAI Educational AI Videos 2024
-* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
+Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Recognized thought leader and frequent keynote speaker on Applied AI. Committed to **open-source innovation**, executive education, talent development, and strategic partnerships across industry, academia and public sector, including **Amazon, NVIDIA, Harvard, CMU**, and others.
 
 <!--
 Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI. We are involved from ideation to productionization across i) digital channels for external users over the web, mobile, email, and conversational agents, and ii) live channels for internal associates over the regional centers and branches. 
@@ -90,6 +92,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
+
 
 
 
