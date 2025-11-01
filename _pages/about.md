@@ -24,7 +24,7 @@ My [algorithmic research](https://skadio.github.io/publications/) is at the inte
 
 Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and committee member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
 
-#### Let's Connect
+### 📣 Let's Connect
 Whether you're driving AI transformation in your organization, exploring research partnerships, or mentoring the next generation of scientists, let's connect and collaborate! 
 
 <details markdown="1">
@@ -106,6 +106,7 @@ http://www.research.ibm.com/university/awards/phdfellowship.shtml
 https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
+
 
 
 
