@@ -57,7 +57,7 @@ I enjoy collaboration with students many of which lead to research publications:
 * Zohreh Raziei, Northeastern University, 2023
   * [Text-based feature selection](https://github.com/fidelity/selective?tab=readme-ov-file#text-based-selection)    
 * Ratan Sai Kokku, Northeastern University, 2023
-* * Irmak Bukey, BSc, Pomona College, 2021 
+* Irmak Bukey, BSc, Pomona College, 2021 
   * [Non-linear Contextual Multi-armed Bandits (Elmachtoub et. al.)](https://arxiv.org/abs/1706.04687) added to [MABWiser](https://github.com/fidelity/mabwiser)
 * Shamay Samuel, BSc, Brown University, 2021
   * [Integrated Vehicle Routing and Monte-Carlo Scheduler for Home Service Assignment](https://arxiv.org/abs/2106.16176), [MOPTA Challenge](https://coral.ise.lehigh.edu/~mopta/)
@@ -82,6 +82,7 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf) 
 * [Siddhartha Jain](https://scholar.google.com/citations?user=mBJIa8cAAAAJ&hl=en), BSc, Brown University, 2010 (Applied Scientist @ Amazon AI)
   * [Upper Bounds on the Number of Solutions of Binary Integer Programs](http://www.springerlink.com/content/l23l736k681t8800/), `CPAIOR 2010` 
+
 
 
 
