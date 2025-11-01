@@ -30,7 +30,8 @@ Alongside my industry role, I actively [contribute](https://skadio.github.io/ser
 <details>
   <summary>Full Bio</summary>
 
-### @Fidelity
+
+## @Fidelity
 
 Architect of **Enterprise AI** platforms and products, powering:  
 * Recommender systems
@@ -52,7 +53,8 @@ Internally, I guide the research agenda of the AI Center, serve as a liaison bet
 Externally, I coordinate strategic partnerships with the high-tech industry, including [Amazon](https://fcatalyst.com/blog/june2023/explainable-ai-using-expressive-boolean-formulas), Google, Weights & Biases, and [NVIDIA](https://www.youtube.com/watch?v=_v-B2nRy79w), and research institutions including [CMU](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html), Harvard, and MIT. I lead Fidelity's efforts in open source AI software, help organize college recruiting programs and mentor students, especially those from underrepresented groups through internships and co-op opportunities.
 -->
 
-### @Oracle
+
+## @Oracle
 
 <!--
 [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
@@ -62,7 +64,8 @@ Led the Advanced Constraint Technology R&D team to deploy state-of-the-art optim
 
 Our contributions at Oracle were recognized with an **Entrepreneurship Award**, received funding for CMU-Oracle joint research grant, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
-### @Adobe
+
+## @Adobe
 
 <!--
 https://en.wikipedia.org/wiki/ActionScript
@@ -70,7 +73,8 @@ https://en.wikipedia.org/wiki/Fuzzing
 -->
 Developed a context-free grammar-based evolutionary algorithm to generate automated test cases for the ActionScript virtual machine. This AI-based tester uncovered three critical software vulnerabilities, fixed before any global exploit.
 
-### @Brown
+
+## @Brown
 
 <!--
 http://www.it.uu.se/research/group/astra
@@ -85,15 +89,18 @@ My research work was awarded the IBM PhD Scholarship, and I was a recipient of t
 
 I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was the captain of ByteSoccer, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
-### @Sabanci
+
+## @Sabanci
 
 Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). Studied abroad at [Uppsala](https://www.it.uu.se/research/computing_science), Sweden as an Erasmus exchange student. Actively engaged as an external committee member and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit reducing inequality of opportunity in education. 
 
-### @Soccer
+
+## @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
 
 
 
