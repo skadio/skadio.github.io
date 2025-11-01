@@ -5,8 +5,6 @@ title: "Service" # <i class="fa fa-briefcase" aria-hidden="true"></i> <i class="
 author_profile: true
 ---
 
----
-
 ## Organizer & Editor
 - [[IAAI] Co-Chair: Association for the Advancement of Artificial Intelligence](https://aaai.org/conference/iaai) 2024 - present
 - [[CP] Co-Organizer: LLMs meets Constraint Solving](https://sites.google.com/view/llm-solve) 2024 - present
