@@ -16,14 +16,16 @@ https://www.oracle.com/artificial-intelligence
 
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains. Explore more in:
+I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains and establising **strategic partnerships** across industry and academia. 
+
+Explore more in:
+
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">winner of AAAI Educational AI Videos 2024</span>
-* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
+* [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">Winner of AAAI Educational AI Videos</span>
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
-Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. I serve as **Co-Chair** of the Innovative Applications of AI Conference, **Co-Organizer** of LLMs meet Constraint Solving and Open-Source AI at AAAI, and **Lead Guest Editor** for the AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral to my work. 
+Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
 
 
 <!--
@@ -54,7 +56,7 @@ http://www.satcompetition.org
 
 
 <details markdown="1">
-<summary>Full Bio</summary>
+   <summary>Full Bio</summary>
 
 ### @Fidelity
 
@@ -66,6 +68,7 @@ Architect of **Enterprise AI** platforms and products, powering:
 * Document intelligence
 * Lead generation and call routing
 * Co-pilot experiences
+
 Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Recognized thought leader and frequent keynote speaker on Applied AI. Committed to **open-source innovation**, executive education, talent development, and strategic partnerships across industry, academia and public sector, including **Amazon, NVIDIA, Harvard, CMU**, and others.
 
 
@@ -100,3 +103,4 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
