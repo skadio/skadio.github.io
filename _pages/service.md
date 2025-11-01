@@ -9,7 +9,8 @@ author_profile: true
 
 ## Organizer & Editor
 - [[IAAI] Co-Chair: Association for the Advancement of Artificial Intelligence](https://aaai.org/conference/iaai) 2024 - present
-- [[CP] Co-Organizer: LLMs meets Constraint Solving](https://groups.google.com/g/constraints/c/yzB2yCbkDXw) 2024 - present
+- [[CP] Co-Organizer: LLMs meets Constraint Solving](https://sites.google.com/view/llm-solve) 2024 - present
+- [[AAAI] Co-Organizer: Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) 2024 - present
 - [[AI Magazine] Lead Guest Editor: Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/journal/23719621) 2025 - present
 
 
