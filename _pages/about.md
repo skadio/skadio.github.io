@@ -1,4 +1,4 @@
-e---
+---
 permalink: /
 title: "Applied AI in Industry"
 excerpt: "About me"
