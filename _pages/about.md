@@ -18,10 +18,14 @@ Explore more in:
 
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
 * [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">Winner of AAAI Educational AI Videos</span>
-  
+* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry
+    
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
 Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and committee member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
+
+#### Let's Connect
+Whether you're driving AI transformation in your organization, exploring research partnerships, or mentoring the next generation of scientists, let's connect and collaborate! 
 
 <details markdown="1">
    <summary>Full Bio</summary>
@@ -102,5 +106,6 @@ http://www.research.ibm.com/university/awards/phdfellowship.shtml
 https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
+
 
 
