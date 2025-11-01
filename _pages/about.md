@@ -20,7 +20,7 @@ I specialize in driving **enterprise-scale AI strategy and transformation** thro
 
 Explore more in:
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) span style="color:green">winner of AAAI Educational AI Videos 2024</span>
+* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">winner of AAAI Educational AI Videos 2024</span>
 * [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
@@ -94,6 +94,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
 
 
 
