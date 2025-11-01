@@ -29,7 +29,7 @@ author_profile: true
 * `AI Magazine 2025` [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
 * `IAAI 2025` [Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70027)
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
-
+* `ArXiv 2024` [Designing competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 
 ## LLMs, Agents & Co-Pilots 
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
@@ -63,8 +63,6 @@ author_profile: true
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf) | [[GitHub]](https://github.com/fidelity/boolxai)
 * `ACM 2024` [Surrogate Modeling to Address the Absence of Protected Membership Attributes in Fairness Evaluation](https://dl.acm.org/doi/pdf/10.1145/3700145)<br> [[GitHub]](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation)
 * `ArXiv 2024` [Fairness Evaluation for Uplift Modeling in the Absence of Ground Truth](https://arxiv.org/abs/2403.12069)
-* `ArXiv 2024` [ Design and Organization of Educational Competitions with Anonymous and
-Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pdf/2402.07936)
 * `MAKE 2023` [Explainable AI using expressive Boolean formulas](https://www.mdpi.com/2504-4990/5/4/86)<br>
 [[Amazon Blog Post]](https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/) | [[GitHub]](https://github.com/fidelity/boolxai)
 * `ArXiv 2023` [Explainable AI using expressive Boolean formulas](https://arxiv.org/abs/2306.03976)<br>
@@ -95,7 +93,6 @@ Real-Time Leaderboards in Academic and Industrial Settings](https://arxiv.org/pd
 
 
 ## Machine Learning 
-* `ArXiv 2024` [The design and organization of educational competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 * `AI Magazine 2023` [Seq2Pat: Sequence-to-pattern generation to bridge pattern mining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081)<br>
 [[CMU Blog Post]](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html) | [GitHub](https://github.com/fidelity/seq2pat)
 * `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
