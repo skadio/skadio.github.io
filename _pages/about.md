@@ -37,7 +37,7 @@ Leading a highly skilled group of applied scientists and architect of **Enterpri
 * Lead generation and call routing
 * Co-pilot experiences
 
-Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Committed to **open-source innovation**, talent development,executive education, and strategic partnerships across industry, academia and public sector.
+Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Committed to **open-source innovation**, talent development, executive education, and strategic partnerships across industry, academia and public sector.
 
 
 ### @Oracle
@@ -102,3 +102,4 @@ http://www.research.ibm.com/university/awards/phdfellowship.shtml
 https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
+
