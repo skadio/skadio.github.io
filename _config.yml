@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Serdar Kadıoğlu"
 title_separator          : "-"
-name                     : &name "Serdar Kadıoğlu"
-description              : &description "Group VP of AI at Fidelity Investments | Adjunct Associate Professor at Brown University | Enterprise AI Strategy & Transformation"
+name                     : "Serdar Kadıoğlu"
+description              : "VP of AI at Fidelity Investments | Professor at Brown University | Enterprise AI Strategy | Digital Transformation | Innovation | Open Source AI | Research to Production | Applied AI"
 url                      : https://skadio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skadio.github.io" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,18 +57,22 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "serdar_kadioglu"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/skadio.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: "Serdar Kadioglu"
+  links:
+    - "https://github.com/skadio"
+    - "https://www.linkedin.com/in/serdark/"
+    - "https://scholar.google.com/citations?user=tOgYtHkAAAAJ"
+    - "https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"
 
 
 # Analytics
@@ -311,6 +315,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
