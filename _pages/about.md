@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
+Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Department of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
 I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains. Established **strategic partnerships** across industry and academia, including **Amazon, CMU, Harvard, NVIDIA**, and others. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
 
@@ -102,4 +102,5 @@ http://www.research.ibm.com/university/awards/phdfellowship.shtml
 https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
+
 
