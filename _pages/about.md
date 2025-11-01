@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Applied AI in Industry"
-excerpt: "About me"
+excerpt: "Applied AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -100,6 +100,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
 
 </details>
+
 
 
 
