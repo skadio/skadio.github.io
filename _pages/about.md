@@ -37,7 +37,7 @@ Advocate of **Responsible AI**, model governance, and cross-functional collabora
 
 Explore more in:
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) winner of AAAI Education AI Videos 2024
+* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) winner of AAAI Educational AI Videos 2024
 * [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
 
 <!--
@@ -90,6 +90,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
+
 
 
 
