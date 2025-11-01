@@ -27,7 +27,7 @@ Driving **enterprise-scale AI strategy and transformation** through AI-native le
 Architect of **Enterprise AI Platforms** powering: 
 * Recommender systems
 * Agentic workflows (voice & text)
-* Content generation and mMarketing optimization
+* Content generation and marketing optimization
 * Document intelligence
 * Lead generation and call routing
 * Co-pilot experiences
@@ -90,6 +90,7 @@ Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with th
 ### @Soccer
 
 Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
+
 
 
 
