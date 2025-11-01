@@ -12,21 +12,33 @@ redirect_from:
 https://www.oracle.com/artificial-intelligence
 --> 
 
-Hi! My name is Serdar. I am the Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
+Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Dept. of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that address business-critical problems. 
+My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of Artificial Intelligence and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 
-In parallel with my industry role, I serve in the (senior) [programme committee](https://skadio.github.io/service/) of AAAI, IJCAI, ECAI, ICLR, NeurIPs, and similar research organizations. I am the co-chair of the Innovative Applications of AI conference and a lead guest editor of the AAAI AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral parts of my work.
+Alongside my industry role, I actively [contribute]((https://skadio.github.io/service/) to the AI research community as a senior programme committee for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. I serve as Co-Chair of the Innovative Applications of AI Conference and Lead Guest Editor for the AAAI AI Magazine. [Teaching](https://skadio.github.io/teaching/) and learning from students are integral to my work. 
 
 ## Background
 
 ### @Fidelity
 
-Driving enterprise-scale AI strategy and transformation through AI-native leadership. Leading cutting-edge research and delivering production-ready AI solutions with measurable business impact. Proven success in building and scaling global AI teams across technical and financial domains.
+Driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading cutting-edge research and delivering **production-ready AI solutions** with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains.
 
-Architect of enterprise AI platforms powering recommender systems, agentic workflows (voice & text), content generation, marketing optimization, document intelligence, call routing, and co-pilot experiences. Advocate of responsible AI practices, model governance, and cross-functional collaboration. Recognized thought leader and frequent keynote speaker on Applied AI. Committed to open-source innovation, education, talent development, and strategic partnerships across industry, academia and public sector, including Amazon, NVIDIA, Harvard, and CMU.
+Architect of **Enterprise AI Platforms** powering: 
+* Recommender systems
+* Agentic workflows (voice & text)
+* Content generation, Marketing optimization
+* Document intelligence
+* Lead generation, Call routing, and
+* Co-pilot experiences
+* Executive education
 
-Explore more in [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) and the [Year in Review articles](https://www.linkedin.com/in/serdark/recent-activity/articles) highlighting the evolution of this work.
+Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Recognized thought leader and frequent keynote speaker on Applied AI. Committed to **open-source innovation**, education, talent development, and strategic partnerships across industry, academia and public sector, including **Amazon, NVIDIA, Harvard, CMU**, and others.
+
+Explore more in:
+* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
+* [Evolution of AI Paradigms: From Classical to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) winner of AAAI Education AI Videos 2024
+* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles) articles highlighting the evolution of this work.
 
 <!--
 Our applied science group focuses on Generative AI for Content, Recommender Systems for Personalization, Marketing Campaign Optimization for Lead Generation, and Responsible AI. We are involved from ideation to productionization across i) digital channels for external users over the web, mobile, email, and conversational agents, and ii) live channels for internal associates over the regional centers and branches. 
@@ -44,7 +56,7 @@ Externally, I coordinate strategic partnerships with the high-tech industry, inc
 [Supply Chain & Logistics](https://www.oracle.com/scm/), [Planning](https://www.oracle.com/erp/) & [Scheduling](https://www.oracle.com/human-capital-management/), [Cloud Management](https://www.oracle.com/java/coherence/), and [Product Configuration](https://www.oracle.com/cx/). 
 -->
 
-I led the Advanced Constraint Technology R&D team to deploy state-of-the-art optimization solutions for Oracle products facing industry-scale problems in Supply Chain & Logistics, Planning & Scheduling, Cloud Resource Management, and Product Configuration.
+Led the Advanced Constraint Technology R&D team to deploy state-of-the-art optimization solutions for Oracle products facing industry-scale problems in Supply Chain & Logistics, Planning & Scheduling, Cloud Resource Management, and Product Configuration.
 
 Our contributions at Oracle were recognized with an Entrepreneurship Award, received funding for CMU-Oracle joint research collaboration, and covered in the media by [Business Insider as Oracle Rockstars](https://www.businessinsider.com/oracle-rock-star-engineers-2016-3?op=0#serdar-kadioglu-turning-theory-into-products-21).
 
@@ -54,7 +66,7 @@ Our contributions at Oracle were recognized with an Entrepreneurship Award, rece
 https://en.wikipedia.org/wiki/ActionScript
 https://en.wikipedia.org/wiki/Fuzzing
 -->
-I built a context-free grammar-based evolutionary algorithm to generate automated test cases for the ActionScript virtual machine. This AI-based tester helped discover three critical software vulnerabilities that were fixed before any global exploit.
+Developed a context-free grammar-based evolutionary algorithm to generate automated test cases for the ActionScript virtual machine. This AI-based tester uncovered three critical software vulnerabilities, fixed before any global exploit.
 
 ### @Brown
 
@@ -65,7 +77,7 @@ https://en.wikipedia.org/wiki/Paris_Kanellakis
 http://www.satcompetition.org
 -->
 
-I received my Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
+Earned a Ph.D. in CS from Brown under the supervision of [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann). My [doctorate thesis](http://cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf) explored deterministic inference methods for constraint satisfaction, search protocols for constrained optimization, and stochastic local search. During my studies, I also had the chance to work at the Optimization Group in Sweden as a visiting researcher hosted by [Prof. Pierre Flener](http://user.it.uu.se/~pierref/).
 
 My research work was awarded the IBM PhD Scholarship, and I was a recipient of the Paris Kanellakis Fellowship In addition, our group at Brown designed automated algorithm configurators that won several gold medals in the International SAT Solver Competitions.
 
@@ -73,16 +85,8 @@ I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html
 
 ### @Sabanci
 
-I received my B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). As an Erasmus exchange student, I also studied in [Uppsala](https://www.it.uu.se/research/computing_science), Sweden. I continue to serve the Sabanci community as an external committee member and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit organization to reduce inequality of opportunity in education. 
+Graduated with a B.Sc. in CS from [Sabanci](https://cs.sabanciuniv.edu/) with the generous support of the [Sakip Sabanci Merit Scholarship](https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period). Studied abroad at [Uppsala](https://www.it.uu.se/research/computing_science), Sweden as an Erasmus exchange student. Actively engaged as an external committee member and through [Crossing Paths](https://www.kesisenyollar.org/), a non-profit reducing inequality of opportunity in education. 
 
 ### @Soccer
 
-Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I hope to be the professor of assists. 
-
-
-
-
-
-
-
-
+Outside of work, I am an avid soccer fan; playing, watching, and [coaching youth soccer](https://www.sportsmanager.us/readingyouthsoccer.htm). In a parallel universe, I'd be the Professor of Assists. 
