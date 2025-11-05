@@ -18,7 +18,7 @@ author_profile: true
    [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, University of Southern California, USA
 
 * **[Amazon GenAI Research Center]** `Invited Seminar`\
-   [Gala: Global LLM Agents for Modelling Co-Pilots](https://arxiv.org/abs/2509.08970), November, Amazon AWS Generative AI Research Center, USA
+   [Gala: Global LLM Agents for Modelling Co-Pilots](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
 
 * **[Replicability @ INFORMS]** `Organizer`\
    [Replicable Research](https://meetings.informs.org/wordpress/annual/workshop-on-replicability/), October, Atlanta, INFORMS, USA
