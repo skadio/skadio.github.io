@@ -1,4 +1,3 @@
-
 ---
 permalink: /talks/
 title: "Talks" # "<i class="fa fa-calendar" aria-hidden="true"></i>
