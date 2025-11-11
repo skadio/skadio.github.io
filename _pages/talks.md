@@ -1,3 +1,4 @@
+
 ---
 permalink: /talks/
 title: "Talks" # "<i class="fa fa-calendar" aria-hidden="true"></i>
@@ -11,12 +12,12 @@ author_profile: true
 
 
 ### 2025 
-* **[Foundational Models @ Stanford]** `Invited Seminar`\
-   [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/abs/2508.20330), November, Stanford, USA
+* **[Online Learning @ Stanford]** `Invited Seminar`\
+   [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, Stanford, USA
 
-* **[Online Learning @ USC]** `Invited Seminar`\
-   [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, University of Southern California, USA
-
+* **[Foundational Models @ USC]** `Invited Seminar`\
+   [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_USC_Forge_Kadioglu.pdf)
+   
 * **[Amazon GenAI Research Center]** `Invited Seminar`\
    [Gala: Global LLM Agents for Modelling Co-Pilots](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
 
