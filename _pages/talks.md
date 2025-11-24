@@ -15,7 +15,7 @@ author_profile: true
    [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, Stanford, USA
 
 * **[Foundational Models @ USC]** `Invited Seminar`\
-   [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_USC_Forge_Kadioglu.pdf)
+   [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
    
 * **[Amazon GenAI Research Center]** `Invited Seminar`\
    [Gala: Global LLM Agents for Modelling Co-Pilots](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
