@@ -9,7 +9,7 @@ author_profile: true
 
 ### LLMs, Agents & Co-Pilots
 - [Text2Zinc](https://huggingface.co/datasets/skadio/text2zinc): A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc [Arxiv'25](https://arxiv.org/abs/2503.10642)
-- [Text2Zinc-Leaderboard](https://huggingface.co/spaces/skadio/text2zinc-leaderboard): Modeling Co-Pilots Leaderboard
+- [Text2Model-Leaderboard](https://huggingface.co/spaces/skadio/text2model-leaderboard): Modeling Co-Pilots Leaderboard
 - [iCBS](https://github.com/amazon-science/icbs): iterative Combinatorial Brain Surgeon [Arxiv'24](https://arxiv.org/abs/2411.17796), [Amazon Blogpost](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/)
 
 ---
