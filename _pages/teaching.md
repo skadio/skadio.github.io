@@ -9,7 +9,7 @@ author_profile: true
 
 - [CS2580: Foundations of Prescriptive Analytics](https://cs.brown.edu/courses/csci2951-o/), Brown, 2017 - present
 - Student evaluations: [2016/17](https://cs.brown.edu/courses/csci2951-o/2017_spring/2017_spring_evaluations.pdf), [2017/18](https://cs.brown.edu/courses/csci2951-o/2017_fall/2017_fall_evaluations.pdf), [2018/2019](https://thecriticalreview.org/search/CSCI/2951O)
-- [Teaching in Times of Distruption and Resilient Course Design](https://www.brown.edu/sheridan/programs-services/institutes-retreats/anchor), Anchor Program, Brown, 2020
+- [Teaching in Times of Disruption and Resilient Course Design](https://www.brown.edu/sheridan/programs-services/institutes-retreats/anchor), Anchor Program, Brown, 2020
 - [PSPO - Professional Scrum Product Owner Certificate](https://www.scrum.org/professional-scrum-product-owner-i-certification), Scrum.org, Oracle, 2015
 - [Coursera: Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), [Prof. Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/), Community Assistant, Coursera, 2013, 2014
 - CS 224: Interactive Computer Graphics, [Prof. John Hughes](http://cs.brown.edu/people/jhughes/), Head TA, Brown, 2010
@@ -82,6 +82,7 @@ I enjoy collaboration with students many of which lead to research publications:
   * [Propagating the nvector constraint: Haplotype inference using constraint programming](http://uu.diva-portal.org/smash/get/diva2:669008/FULLTEXT01.pdf) 
 * [Siddhartha Jain](https://scholar.google.com/citations?user=mBJIa8cAAAAJ&hl=en), BSc, Brown University, 2010 (Applied Scientist @ Amazon AI)
   * [Upper Bounds on the Number of Solutions of Binary Integer Programs](http://www.springerlink.com/content/l23l736k681t8800/), `CPAIOR 2010` 
+
 
 
 
