@@ -173,7 +173,8 @@ author_profile: true
 ## Theses
 
 * [Efficient search procedures for solving combinatorial problems](http://www.cs.brown.edu/research/pubs/theses/phd/2012/kadioglu.pdf)<br>
-PhD thesis, Department of Computer Science, Brown University 2012<br>
-<span style="color:green">Awarded the 2010 Ph.D. Scholarship by IBM</span>
+PhD thesis, Department of Computer Science, Brown University<br>
+<span style="color:green">Awarded the Ph.D. Scholarship by IBM</span>
+<span style="color:green">Winner of International SAT Solver Competition</span>
 * [Grammar constraints: combining expressiveness with efficiency](http://www.cs.brown.edu/research/pubs/theses/masters/2009/kadioglu.pdf)<br>
-M.Sc. thesis, Department of Computer Science, Brown University 2009
+M.Sc. thesis, Department of Computer Science, Brown University
