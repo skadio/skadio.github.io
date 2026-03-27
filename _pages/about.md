@@ -16,9 +16,9 @@ I specialize in driving **enterprise-scale AI strategy and transformation** thro
 
 Explore more in:
 
-* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) <span style="color:green">Winner of AAAI Educational AI Videos</span>
-* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry
+* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) (AI Magazine) <span style="color:green"> Widely adopted across industry and the broader AI community, with more than 2M downloads.</span>
+* [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) (AAAI) <span style="color:green">Winner of the AAAI Educational AI videos award.</span>
+* [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry (Dual Academic/Industry Role) <span style="color:green"> Bridging scientific novelty with real-world impact.</span>
 
 <!-- 
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
