@@ -47,7 +47,7 @@ author_profile: true
 
 ## Natural Language Processing 
 * `Constraints 2024` [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)<br>
-[[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
+[[Slides]]([https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc.pdf](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf)) | [[GitHub]](https://github.com/skadio/ner4opt) | [[HuggingFace]](https://huggingface.co/spaces/skadio/Ner4Opt)
 * `CPAIOR 2023` [NER4OPT: Named Entity Recognition for Optimization](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_20)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/Kadioglu_CPAIOR_2023.pdf)
 * `NeurIPS 2022` [Natural Language for Optimization](https://nbviewer.org/github/skadio/ner4opt/blob/main/docs/%5BNeurIPS+2022%5D+Ner4Opt+Poster.pdf)<br>
