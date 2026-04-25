@@ -9,6 +9,11 @@ author_profile: true
 
 <a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
+### 2026
+* **[AI Research @ Harvard]** `Invited Panelist`
+  [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
+* **[Enterprise AI @ Amherst College]** `Intived Talk`\
+   [Scalable and Responsible Enterprise AI](https://www.amherst.edu/news/events/calendar/node/941409), March, Amherst College, USA
 
 ### 2025 
 * **[Online Learning @ Stanford]** `Invited Seminar`\
