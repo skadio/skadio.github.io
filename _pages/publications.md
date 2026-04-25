@@ -32,6 +32,8 @@ author_profile: true
 * `ArXiv 2024` [Designing competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 
 ## LLMs, Agents & Co-Pilots 
+* `ArXiv 2026` [Modeling Copilots for Text-to-Model Translation](https://arxiv.org/abs/2604.12955)
+* `ArXiv 2026` [Transfer Learning from Foundational Optimization Embeddings to Unsupervised SAT Representations](https://arxiv.org/abs/2604.15448)
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
 * `ICLR` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
 * `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
