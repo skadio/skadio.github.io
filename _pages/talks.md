@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2026
 * **[LLMs for Reasoning]** `Invited Session`\
-  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May,  Morocco, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf), [CPAIOR'26]([https://arxiv.org/abs/2509.08970](https://sites.google.com/view/cpaior2026/organisation)
+  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May,  Morocco, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf), [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation)
 * **[AI Research @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
 * **[Enterprise AI @ Amherst College]** `Intived Talk`\
