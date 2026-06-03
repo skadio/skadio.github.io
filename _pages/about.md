@@ -43,7 +43,7 @@ Leading applied AI groups with highly skilled scientists and architecting **Ente
 * Content generation and marketing optimization
 * Document intelligence
 * Lead generation and call routing
-* Co-pilot experiences
+* Copilot experiences
 
 Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Committed to **open-source innovation**, talent development, executive education, and strategic partnerships across industry, academia and public sector.
 
