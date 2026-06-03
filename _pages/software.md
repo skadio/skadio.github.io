@@ -8,8 +8,10 @@ author_profile: true
 ---
 
 ### LLMs, Agents & Co-Pilots
-- [Text2Zinc](https://huggingface.co/datasets/skadio/text2zinc): A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc [Arxiv'25](https://arxiv.org/abs/2503.10642)
-- [Text2Model-Leaderboard](https://huggingface.co/spaces/skadio/text2model-leaderboard): Modeling Co-Pilots Leaderboard
+- [Text2Model](https://skadio.github.io/text2model/): LLM Modeling Copilots [Arxiv'26](https://arxiv.org/abs/2604.12955)
+- [Learn2Zinc](https://skadio.github.io/text2model/#learn2zinc): Fine-Tuning Small Language Models
+- [Gala](https://skadio.github.io/text2model/#gala): Global LLM Agents
+- [Text2Zinc](https://skadio.github.io/text2model/#text2zinc): A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc [Arxiv'25](https://arxiv.org/abs/2503.10642)
 - [iCBS](https://github.com/amazon-science/icbs): iterative Combinatorial Brain Surgeon [Arxiv'24](https://arxiv.org/abs/2411.17796), [Amazon Blogpost](https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/)
 
 ---
@@ -30,7 +32,7 @@ author_profile: true
 
 ### Natural Language Processing
 
-- [Ner4Opt](https://github.com/skadio/ner4opt) Given an optimization problem in natural language, extract optimization related entities from free-form text. [CPAIOR'23](https://github.com/skadio/ner4opt/blob/main/docs/%5BCPAIOR%202023%5D%20Ner4Opt%20Paper.pdf), [NeurIPS'22](https://github.com/skadio/ner4opt/blob/main/docs/%5BNeurIPS%202022%5D%20Ner4Opt%20Poster.pdf)
+- [Ner4Opt](https://skadio.github.io/text2model/#ner4opt): Named-entity extraction for optimization. [Constraints'24](https://link.springer.com/article/10.1007/s10601-024-09376-5), [CPAIOR'23](https://github.com/skadio/ner4opt/blob/main/docs/%5BCPAIOR%202023%5D%20Ner4Opt%20Paper.pdf), [NeurIPS'22](https://github.com/skadio/ner4opt/blob/main/docs/%5BNeurIPS%202022%5D%20Ner4Opt%20Poster.pdf)
 - [TextWiser](https://github.com/fidelity/textwiser) Text featurization NLP library that unifies several text embedding techniques. [AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/17814)
 
 ---
@@ -49,7 +51,7 @@ author_profile: true
 ---
 
 ### Combinatorial Optimization & Satisfaction
-- [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://github.com/skadio/balans) Meta solver for mixed-integer programming problems using online learning
+- [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://coin-or.github.io/balans/) Meta solver for mixed-integer programming problems using online learning
 - [Explorateur: State-Space-Search](https://github.com/skadio/explorateur)
 - [PathFinder: CP Decomposition for Capacitated Vehicle Routing with Time-Windows (CVRP-TW)](https://github.com/skadio/pathfinder) <span style="color:green">This solver was a finalist of the 2018 AIMMS/MOPTA Modelling Competition</span> Constraint programming based decomposition approach to solve a realistic variant of the vehicle routing problem. [AIMMS'18](https://arxiv.org/pdf/2106.16176.pdf), [Brown News](https://awards.cs.brown.edu/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
 - [3S: Satisfiability Solver Selector](https://sites.google.com/site/yurimalitsky/downloads). <span style="color:green">This solver won 2 gold and 7 medals in total</span> at the [International SAT Solver Competition in 2011](http://www.satcompetition.org/). [CP'11](https://link.springer.com/chapter/10.1007%2F978-3-642-23786-7_35), [SAT'11](http://link.springer.com/chapter/10.1007%2F978-3-642-21581-0_33)
