@@ -32,10 +32,9 @@ author_profile: true
 * `ArXiv 2024` [Designing competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 
 ## LLMs, Agents & Co-Pilots 
+* `ArXiv 2026` [BoolXLMM: LLM-Assisted Explainability for Boolean Models](https://arxiv.org/abs/2605.12139)
 * `ArXiv 2026` [Modeling Copilots for Text-to-Model Translation](https://arxiv.org/abs/2604.12955)
-* `ArXiv 2026` [Transfer Learning from Foundational Optimization Embeddings to Unsupervised SAT Representations](https://arxiv.org/abs/2604.15448)
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
-* `ICLR` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
 * `INFORMS 2025` [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc.pdf) | [[HuggingFace Dataset]](https://huggingface.co/datasets/skadio/text2zinc) | [[HuggingFace Leaderboard]](https://huggingface.co/spaces/skadio/text2zinc-leaderboard)
 * `ArXiv 2024` [Scalable iterative pruning of large language and vision models using block coordinate descent](https://arxiv.org/pdf/2411.17796)<br>
@@ -61,6 +60,7 @@ author_profile: true
 
 
 ## Responsible AI 
+* `ArXiv 2026` [BoolXLMM: LLM-Assisted Explainability for Boolean Models](https://arxiv.org/abs/2605.12139)
 * `AAAI 2025` [BoolXAI: Explainable AI Using Expressive Boolean Formulas](https://ojs.aaai.org/index.php/AAAI/article/view/35157)<br>
 [[Slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI.pdf) | [[GitHub]](https://github.com/fidelity/boolxai)
 * `ACM 2024` [Surrogate Modeling to Address the Absence of Protected Membership Attributes in Fairness Evaluation](https://dl.acm.org/doi/pdf/10.1145/3700145)<br> [[GitHub]](https://github.com/fidelity/jurity?tab=readme-ov-file#quick-start-probabilistic-fairness-evaluation)
@@ -95,6 +95,7 @@ author_profile: true
 
 
 ## Machine Learning 
+* `ArXiv 2026` [Transfer Learning from Foundational Optimization Embeddings to Unsupervised SAT Representations](https://arxiv.org/abs/2604.15448)
 * `AI Magazine 2023` [Seq2Pat: Sequence-to-pattern generation to bridge pattern mining with machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12081)<br>
 [[CMU Blog Post]](https://www.cmu.edu/tepper/news/stories/2023/may/fidelity-ai.html) | [GitHub](https://github.com/fidelity/seq2pat)
 * `AAAI 2023` [Bridging Constraint-based Sequential Pattern Mining and Machine Learning](http://osullivan.ucc.ie/CPML2023/submissions/09.pdf)<br>
@@ -112,6 +113,7 @@ author_profile: true
 
 
 ## Algorithmic Reasoning
+* `TMLR 2026` [Forge: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330)
 * `MOPTA 2021` [Integrated Vehicle Routing and Monte Carlo Scheduling Approach for the Home Service Assignment, Routing, and Scheduling Problem](https://arxiv.org/abs/2106.16176) <br>
 <span style="color:green">Finalist at the AIMMS-MOPTA Optimization Modeling Competition</span>, [[Brown News]](http://cs.brown.edu/news/2021/08/11/brown-cs-team-takes-third-place-thirteenth-modeling-and-optimization-competition/)
 * `European Journal on Comb. Opt. 2019` [Core group placement: allocation and provisioning of heterogeneous resources](https://link.springer.com/article/10.1007/s13675-018-0095-9)
