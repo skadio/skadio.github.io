@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Organizer & Editor
+- [[CPAIOR] Organizer: Master Class on LLMs for Reasoning](https://sites.google.com/view/cpaior2026/program/master-class) 2026
 - [[IAAI] Co-Chair: Association for the Advancement of Artificial Intelligence](https://aaai.org/conference/iaai) 2024 - present
 - [[CP] Co-Organizer: LLMs meets Constraint Solving](https://sites.google.com/view/llm-solve) 2024 - present
 - [[AAAI] Co-Organizer: Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) 2024 - present
