@@ -31,7 +31,7 @@ author_profile: true
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 * `ArXiv 2024` [Designing competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
 
-## LLMs, Agents & Co-Pilots 
+## LLMs, Agents & Copilots 
 * `ArXiv 2026` [BoolXLMM: LLM-Assisted Explainability for Boolean Models](https://arxiv.org/abs/2605.12139)
 * `ArXiv 2026` [Modeling Copilots for Text-to-Model Translation](https://arxiv.org/abs/2604.12955)
 * `NeurIPs 2025` [Gala: Global Constraint LLM Agents for Text-to-Model Translation](https://arxiv.org/pdf/2509.08970)
