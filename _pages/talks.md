@@ -10,7 +10,6 @@ author_profile: true
 <a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
 ### 2026
-https://luma.com/rbc-7j5y
 * **[Foundational Models]** `Distinguished Speaker`\
   [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
 * **[Fine-Tuning Small Language Models]** `Invited Session`\
