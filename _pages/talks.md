@@ -10,9 +10,12 @@ author_profile: true
 <a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
 ### 2026
-* **[LLMs for Reasoning]** `Invited Session`\
+https://luma.com/rbc-7j5y
+* **[Foundational Models]** `Distinguished Speaker`\
+  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
+* **[Fine-Tuning Small Language Models]** `Invited Session`\
   [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://github.com/skadio/skadio.github.io/blob/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
-* **[AI Research @ Harvard]** `Invited Panelist`\
+* **[AI in Business @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
 * **[Enterprise AI @ Amherst College]** `Intived Talk`\
    [Scalable and Responsible Enterprise AI](https://www.amherst.edu/news/events/calendar/node/941409), March, Amherst College, USA
