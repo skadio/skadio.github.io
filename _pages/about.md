@@ -12,11 +12,11 @@ redirect_from:
 
 Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Department of Computer Science at **Brown University**. Previously, I led the Advanced Constraint Technology R&D group at **Oracle** and worked at **Adobe**.
 
-I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading [cutting-edge research](https://skadio.github.io/publications/) and delivering [production-ready AI solutions](https://skadio.github.io/software/) with measurable business impact. Proven success in **building and scaling global AI teams** across technical and financial domains. Established **strategic partnerships** across industry and academia, including Amazon, CMU, Harvard, NVIDIA, and others. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
+I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading [cutting-edge research](https://skadio.github.io/publications/) and delivering [production-ready AI solutions](https://skadio.github.io/software/) with measurable business impact. Proven success in **building and scaling global AI teams** across financial and technical domains. Established **strategic partnerships** across industry and academia, including Amazon, CMU, Harvard, NVIDIA, and others. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
 
 Explore more in:
 
-* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) (AI Magazine) <span style="color:green"> Widely adopted across industry and the broader AI community, with more than 2M downloads.</span>
+* [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) (AI Magazine) <span style="color:green"> Widely adopted across industry and the broader AI community, with more than 3M downloads.</span>
 * [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) (AAAI) <span style="color:green">Winner of the AAAI Educational AI videos award.</span>
 * [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry (Dual Academic/Industry Role) <span style="color:green"> Bridging scientific novelty with real-world impact.</span>
 
