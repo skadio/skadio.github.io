@@ -83,7 +83,7 @@ author_profile: true
    [Multi-level Optimization to Boost Experimentation in Digital Channels](https://www.lix.polytechnique.fr/optimix/seminars/2023-11-27-serdar-kadioglu/), November 2023, Paris, France
 
 * **[Multi-Armed Bandits @ Sophia Antipolis]** `Research Seminar`\
-   [Mab2Rec: Multi-Armed Bandit based Recommender Systems](https://www.i3s.unice.fr/actualite/22-11-2023-expose-de-serdar-kadioglu-associate-professor-of-computer-science-at), November 2023, Nice, France
+   [Mab2Rec: Multi-Armed Bandit based Recommender Systems](https://www.i3s.unice.fr/actualite/20231122-expose-de-serdar-kadioglu-associate-professor-of-computer-science-at-br), November 2023, Nice, France
 
 * **[Generative AI @ UCONN]** `Invited Talk + Panelist`\
    [From Classical AI to Modern and Generative AI: Challenges and Opportunities for the Enterprise](https://cacc.engr.uconn.edu/ai-workshop-home/ai-workshop-2023-savethedate/), November 2023, USA
