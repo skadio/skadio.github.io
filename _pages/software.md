@@ -9,9 +9,9 @@ author_profile: true
 
 ### Latest Collections 
 - [Text2Model](https://skadio.github.io/text2model/): LLM Modeling Copilots <span style="color:green"></span> 
-- [Mab2Rec](https://fidelity.github.io/mab2rec) Bandit-based Recommender Systems <span style="color:green">Downloaded more than 3M+ times in the AI community</span> 
-- [Balans](https://coin-or.github.io/balans/) Online Learnign Meta-solver for Decision Making<span style="color:green">Best paper nominee at IJCAI</span> 
-- [Forge](https://skadio.github.io/forge/): Foundational Optimization Representations <span style="color:green">The first pre-trained model mixed-integer programs</span> 
+- [Mab2Rec](https://fidelity.github.io/mab2rec): Bandit-based Recommender Systems <span style="color:green">Downloaded more than 3M+ times in the AI community. Deployed by enterprises worldwide.</span> 
+- [Balans](https://coin-or.github.io/balans/): Online Learnign Meta-solver for Decision Making <span style="color:green">Best paper nominee at IJCAI</span> 
+- [Forge](https://skadio.github.io/forge/): Foundational Optimization Representations <span style="color:green">The first pre-trained model for mixed-integer programs</span> 
 
 ### LLMs, Agents & Co-Pilots
 - [Text2Model](https://skadio.github.io/text2model/): LLM Modeling Copilots
