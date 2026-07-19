@@ -10,10 +10,12 @@ author_profile: true
 <a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
 ### 2026
+* **[Doctoral Program]** `Invited Talk`\
+  [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
 * **[Foundational Models]** `Distinguished Speaker`\
   [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
 * **[Fine-Tuning Small Language Models]** `Invited Session`\
-  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://github.com/skadio/skadio.github.io/blob/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
+  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
 * **[AI in Business @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
 * **[Enterprise AI @ Amherst College]** `Intived Talk`\
@@ -24,34 +26,34 @@ author_profile: true
    [Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), November, Stanford, USA
 
 * **[Foundational Models @ USC]** `Invited Seminar`\
-   [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
+   [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
    
 * **[Amazon GenAI Research Center]** `Invited Seminar`\
-   [Gala: Global LLM Agents for Modelling Co-Pilots](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
+   [Gala: Global LLM Agents for Modelling Co-Pilots](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
 
 * **[Replicability @ INFORMS]** `Organizer`\
    [Replicable Research](https://meetings.informs.org/wordpress/annual/workshop-on-replicability/), October, Atlanta, INFORMS, USA
 
 * **[Online Learning @ IJCAI]** `Best Paper Nominee`\
-   [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada, [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
+   [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada, [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
-   [Decision Making in the Era of Large-Language Models](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
+   [Decision Making in the Era of Large-Language Models](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
 
 * **[Open Source AI @ TechWeek]** `Invited Panelist`\
    [Business Impact with Open-Source AI](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
 
 * **[Generative AI @ INFORMS]** `Invited Talk`\
-   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf), March, Toronto, Canada, [[ICS'25]](https://symposia.gerad.ca/ICS2025/en/schedule?slot_id=2407), [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
+   [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf), March, Toronto, Canada, [[ICS'25]](https://symposia.gerad.ca/ICS2025/en/schedule?slot_id=2407), [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
 
 * **[Explainable AI @ AAAI]** `Innovative Applications`\
-   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia
+   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia
 
 * **[Decision Science @ AAAI]** `Invited Talk`\
-   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Decision_Science_Kadioglu.pdf), February, Philadelphia
+   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_AAAI_Decision_Science_Kadioglu.pdf), February, Philadelphia
    
 * **[Text2Zinc @ AAAI]** `Invited Talk`\
-   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2025_AAAI_Text2Zinc_Kadioglu.pdf), February, Philadelphia
+   [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_AAAI_Text2Zinc_Kadioglu.pdf), February, Philadelphia
    
 * **[Ner4Opt @ Koc University]** `Invited Talk`\
    [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
@@ -89,7 +91,7 @@ author_profile: true
    [From Classical AI to Modern and Generative AI: Challenges and Opportunities for the Enterprise](https://cacc.engr.uconn.edu/ai-workshop-home/ai-workshop-2023-savethedate/), November 2023, USA
 
 * **[Named Entity Recognition @ CPAIOR]** `Conference Talk`\
-   [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://nbviewer.org/github/skadio/skadio.github.io/blob/master/files/2023_CPAIOR_Kadioglu.pdf), May 2023, France
+   [Ner4Opt: Named Entity Recognition for Optimization Modeling from Natural Language](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2023_CPAIOR_Kadioglu.pdf), May 2023, France
 
 * **[Fidelity Global AI Forum]** `Invited Talk`\
    [How to Succeed in Strategic Industry Partnerships?](), April 2023, USA
