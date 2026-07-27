@@ -25,14 +25,16 @@ author_profile: true
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
 ## PhD Theses
-* Kostis Michailidis, Ph.D. KU Leuven, 2026 (expected)
-  * [Doctoral Thesis: Thrustworth Graph Machine Learning]()
-* Zohair Shafi, Ph.D. Northeastern University, 2026 (expected)
-  * [Doctoral Thesis: From Natural Language to Constrained Modeling]()
+* Kostis Michailidis, Ph.D. KU Leuven, 2027 (expected)
+  * [Doctoral Thesis: From Natural Language to Constraint Models]()
+* Leon Lan, Ph.D. Vrije Universiteit, 2026 (expected)
+  * [Doctoral Thesis: Routing and Scheduling: Software, Models, and Algorithms]() 
+* Zohair Shafi, Ph.D. Northeastern University, 2026
+  * [Doctoral Thesis: Trustworthy Machine Learning]()
 * Florian Regin, Ph.D., Université Cote d'Azur, 2024
   * [Doctoral Thesis: Generative Constraint Programming](https://theses.hal.science/tel-04997072v1/document)
 * Zohreh Raziei, Ph.D., Northeastern University, 2024
-  * [Doctoral Thesis: AI for Decision Making with Applications in Invetory Control and Predictive Analytics](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
+  * [Doctoral Thesis: AI for Decision Making](https://repository.library.northeastern.edu/files/neu:ms35wj46m)
 * Enrique Areyan Viqueira, Ph.D., Brown University, 2021
   * [Doctoral Thesis: Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 
