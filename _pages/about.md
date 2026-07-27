@@ -18,7 +18,6 @@ Explore more in:
 
 * [Open-Source AI at Scale: Establishing an Enterprise AI Strategy through Modular Frameworks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032) (AI Magazine) <span style="color:green"> Widely adopted across industry and the broader AI community, with more than 3M downloads.</span>
 * [Evolution of AI Paradigms: From Classical AI to Modern and Generative AI](https://www.youtube.com/watch?v=8SMmjBQ40YE&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz&index=3) (AAAI) <span style="color:green">Winner of the AAAI Educational AI videos award.</span>
-* [Deep Tech](https://www.wired.com.tr/deep-tech-nesil-h) article at Wired Magazine (in Turkish)
 * [Year in Review](https://www.linkedin.com/in/serdark/recent-activity/articles/) articles for applied AI in industry (Dual Academic/Industry Role) <span style="color:green"> Bridging scientific novelty with real-world impact.</span>
 
 <!-- 
