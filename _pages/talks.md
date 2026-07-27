@@ -12,7 +12,9 @@ author_profile: true
 ---
 
 ### 2026
-* **[Doctoral Program]** `Invited Talk`\
+* **[Enterprise AI @ Cornell]** `Invited Talk`\
+   [Enterprise AI with Open-Source Foundations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_Cornell_Enterprise_AI_Kadioglu.pdf), July, Cornell University, USA
+* **[Doctoral Programme]** `Invited Talk`\
   [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
 * **[Foundational Models]** `Distinguished Speaker`\
   [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
@@ -20,7 +22,7 @@ author_profile: true
   [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
 * **[AI in Business @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
-* **[Enterprise AI @ Amherst College]** `Intived Talk`\
+* **[Enterprise AI @ Amherst]** `Invited Talk`\
    [Scalable and Responsible Enterprise AI](https://www.amherst.edu/news/events/calendar/node/941409), March, Amherst College, USA
 
 ### 2025 
