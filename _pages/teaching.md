@@ -10,7 +10,7 @@ author_profile: true
 [<a href="https://skadio.github.io/teaching/#courses"><i class="fa fa-file-text-o" aria-hidden="true"></i>Courses</a>](https://skadio.github.io/teaching/#courses) \| 
 [<a href="https://skadio.github.io/teaching/#phd-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>PhD Theses</a>](https://skadio.github.io/teaching/#phd-theses) \| 
 [<a href="https://skadio.github.io/teaching/#graduation-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Graduation Theses</a>](https://skadio.github.io/teaching/#graduation-theses) \| 
-[<a href="https://skadio.github.io/teaching/#student-research"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Students Research</a>](https://skadio.github.io/teaching/#student-research) 
+[<a href="https://skadio.github.io/teaching/#student-research"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Student Research</a>](https://skadio.github.io/teaching/#student-research) 
 
 ---
 
