@@ -7,6 +7,14 @@ author_profile: true
 
 ---
 
+[<a href="https://skadio.github.io/teaching/#courses"><i class="fa fa-file-text-o" aria-hidden="true"></i>Courses</a>](https://skadio.github.io/teaching/#courses) \| 
+[<a href="https://skadio.github.io/teaching/#phd-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#phd-theses) \| 
+[<a href="https://skadio.github.io/teaching/#graduation-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#graduation-theses) \| 
+[<a href="https://skadio.github.io/teaching/#student-research"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#student-research) \| 
+
+---
+
+## Courses
 - [CS2580: Foundations of Prescriptive Analytics](https://cs.brown.edu/courses/csci2951-o/), Brown, 2017 - present
 - Student evaluations: [2016/17](https://cs.brown.edu/courses/csci2951-o/2017_spring/2017_spring_evaluations.pdf), [2017/18](https://cs.brown.edu/courses/csci2951-o/2017_fall/2017_fall_evaluations.pdf), [2018/2019](https://thecriticalreview.org/search/CSCI/2951O)
 - [Teaching in Times of Disruption and Resilient Course Design](https://www.brown.edu/sheridan/programs-services/institutes-retreats/anchor), Anchor Program, Brown, 2020
@@ -16,7 +24,7 @@ author_profile: true
 - CS 149: Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Head TA, Brown, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
 
-## PhD Theses Committee 
+## PhD Theses
 * Kostis Michailidis, Ph.D. KU Leuven, 2026 (expected)
   * [Doctoral Thesis: Thrustworth Graph Machine Learning]()
 * Zohair Shafi, Ph.D. Northeastern University, 2026 (expected)
@@ -28,7 +36,7 @@ author_profile: true
 * Enrique Areyan Viqueira, Ph.D., Brown University, 2021
   * [Doctoral Thesis: Learning Equilibria of Simulation-Based Games](https://cs.brown.edu/media/filer_public/56/40/56408eea-0a13-499d-816c-f756ed3633b8/areyanviqueiraenrique.pdf)
 
-## Graduation Theses Advisor
+## Graduation Theses
 * Akash Singirikonda, BSc., Brown University, 2025
   * [Honors Thesis: Text2Zinc: A Cross-Domain Dataset for LLM Modeling Co-Pilots]()
 * Shreyas Misra, BSc., Brown University, 2024
