@@ -61,7 +61,7 @@ author_profile: true
    [Toward LLM Modelling Assistants](https://ai.ku.edu.tr/ai-meetings/?detail=true&id=710794b3-3991-4df5-9091-926bdd90fa6f), January 2025, Istanbul, Turkey
 
 <details markdown="1">
-   <summary>Full Bio</summary>
+   <summary>Previous Talks</summary>
 
 ### 2024 
 
