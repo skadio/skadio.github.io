@@ -9,6 +9,8 @@ author_profile: true
 
 <a href="https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
 
+---
+
 ### 2026
 * **[Doctoral Program]** `Invited Talk`\
   [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
