@@ -8,9 +8,9 @@ author_profile: true
 ---
 
 [<a href="https://skadio.github.io/teaching/#courses"><i class="fa fa-file-text-o" aria-hidden="true"></i>Courses</a>](https://skadio.github.io/teaching/#courses) \| 
-[<a href="https://skadio.github.io/teaching/#phd-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#phd-theses) \| 
-[<a href="https://skadio.github.io/teaching/#graduation-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#graduation-theses) \| 
-[<a href="https://skadio.github.io/teaching/#student-research"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Theses</a>](https://skadio.github.io/teaching/#student-research) \| 
+[<a href="https://skadio.github.io/teaching/#phd-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>PhD</a>](https://skadio.github.io/teaching/#phd-theses) \| 
+[<a href="https://skadio.github.io/teaching/#graduation-theses"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Graduation</a>](https://skadio.github.io/teaching/#graduation-theses) \| 
+[<a href="https://skadio.github.io/teaching/#student-research"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Students</a>](https://skadio.github.io/teaching/#student-research) \| 
 
 ---
 
