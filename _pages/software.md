@@ -13,6 +13,9 @@ author_profile: true
 - [Balans](https://coin-or.github.io/balans/) — Online Learnign Meta-solver for Decision Making  <br> <span style="color:green">Best paper nominee at IJCAI. Contributed to the COIN-OR Open-Source Foundation.</span> 
 - [Forge](https://skadio.github.io/forge/) —  Foundational Optimization Representations <br> <span style="color:green">The first foundational pre-trained model for mixed-integer programs. Generalizes across problems, sizes, and tasks.</span> 
 
+<details markdown="1">
+   <summary>All Software</summary>
+
 ### LLMs, Agents & Co-Pilots
 - [Text2Model](https://skadio.github.io/text2model/): LLM Modeling Copilots
 - [Learn2Zinc](https://skadio.github.io/text2model/#learn2zinc): Fine-Tuning Small Language Models
