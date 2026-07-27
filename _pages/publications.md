@@ -26,8 +26,8 @@ author_profile: true
 
 ---
 ## Enterprise AI Strategy
+* `Wired Magazine 2026` [Deep Tech](https://www.wired.com.tr/deep-tech-nesil-h) (in Turkish)
 * `AI Magazine 2025` [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
-* `Wired Magazine` [Deep Tech](https://www.wired.com.tr/deep-tech-nesil-h) in Turkish
 * `IAAI 2025` [Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70027)
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
 * `ArXiv 2024` [Designing competitions with anonymous and real-time leaderboards in academic and industrial settings](https://arxiv.org/abs/2402.07936)
