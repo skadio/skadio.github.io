@@ -14,11 +14,13 @@ author_profile: true
 ### 2026
 * **[Enterprise AI @ Cornell]** `Invited Talk`\
    [Enterprise AI with Open-Source Foundations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_Cornell_Enterprise_AI_Kadioglu.pdf), July, Cornell University, USA
-* **[Doctoral Programme]** `Invited Talk`\
+* **[Doctoral Programme @ CP/SAT]** `Invited Talk`\
   [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
-* **[Foundational Models]** `Distinguished Speaker`\
+* **[Foundational Models @ RBC]** `Distinguished Speaker`\
   [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
-* **[Fine-Tuning Small Language Models]** `Invited Session`\
+* **[Foundational Models @ École Polytechnique]** `Invited Talk`\
+  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), École Polytechnique, June, Paris, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
+* **[Fine-Tuning SLMs @ CPAIOR]** `Invited Session`\
   [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
 * **[AI in Business @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
@@ -32,7 +34,7 @@ author_profile: true
 * **[Foundational Models @ USC]** `Invited Seminar`\
    [Forge: Foundational Optimization Representations from Graph Embeddings](https://viterbischool.usc.edu/events/?events_id=107249), November, University of Southern California, USA, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
    
-* **[Amazon GenAI Research Center]** `Invited Seminar`\
+* **[GenAI @ Amazon Research]** `Invited Seminar`\
    [Gala: Global LLM Agents for Modelling Co-Pilots](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_Amazon_Global_LLM_Agents_Kadioglu.pdf), November, Amazon AWS Generative AI Research Center, USA, [NeurIPS'25](https://arxiv.org/abs/2509.08970)
 
 * **[Replicability @ INFORMS]** `Organizer`\
