@@ -23,6 +23,7 @@ author_profile: true
 - [Gala](https://skadio.github.io/text2model/#gala): Global LLM Agents
 - [Text2Zinc](https://skadio.github.io/text2model/#text2zinc): A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc
 - [iCBS](https://skadio.github.io/text2model/#icbs): iterative Combinatorial Brain Surgeon
+
 ---
 
 ### Responsible AI
