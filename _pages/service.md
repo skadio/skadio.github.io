@@ -7,6 +7,7 @@ author_profile: true
 
 ## Organizer & Editor
 - [[CPAIOR] Organizer: Master Class on LLMs for Reasoning](https://sites.google.com/view/cpaior2026/program/master-class) 2026
+- [[ACM] Board Member: Association of Computer Machinery AI Letters](https://dl.acm.org/journal/ailet/editorial-board#editorial-board-members) 2026 - present
 - [[IAAI] Co-Chair: Association for the Advancement of Artificial Intelligence](https://aaai.org/conference/iaai) 2024 - present
 - [[CP] Co-Organizer: LLMs meets Constraint Solving](https://sites.google.com/view/llm-solve) 2024 - present
 - [[AAAI] Co-Organizer: Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) 2024 - present
@@ -39,6 +40,7 @@ author_profile: true
 - Chapter on constraints in the [INFORMS Mathematics Glossary](https://glossary.informs.orgver2/mpgwiki/index.php?title=Category:Constraint_Programming)
 - Founder of [Sports Czar@Brown](http://cs.brown.edu/grad/misc/jobs/jobs.html#sport) and captain of ByteSoccer, Brown CS soccer team, 2008 - 2011
 - Coaching [Reading Youth Soccer](https://www.sportsmanager.us/readingyouthsoccer.htm), 2013 - 2015
+
 
 ## Member of Professional Societies
 * [ACM] Association of Computer Machinery
