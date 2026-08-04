@@ -66,7 +66,7 @@ Earned a Ph.D. in AI from Brown working with [Prof. Meinolf Sellmann](https://en
 
 My research work was awarded the **IBM PhD Scholarship**, and I was a recipient of the Paris Kanellakis Fellowship. Our group at Brown designed automated algorithm configurators that won several **gold medals** in the International SAT Solver Competitions.
 
-I founded the [Sport Czar@Brown](http://cs.brown.edu/degrees/misc/jobs/jobs.html#sport) and was **the captain of ByteSoccer**, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
+I founded the [Sport Czar@Brown](https://cs.brown.edu/degrees/misc/jobs/jobs/) and was **the captain of ByteSoccer**, the department's soccer team with back-to-back intramural championships. I continue to serve the Brown community as an alumni interviewer for undergraduate university admissions. 
 
 
 ### @Sabanci
