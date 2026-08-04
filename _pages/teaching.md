@@ -53,6 +53,9 @@ author_profile: true
 ## Student Research
 
 I enjoy collaboration with students many of which lead to research publications:
+* Koyena Pal, Northeastern University, 2026
+  * [Transfer Learning from Foundational Optimization Embeddings to Unsupervised SAT Representations](https://arxiv.org/abs/2604.15448), ArXiv'26
+* Yifei Shi, Northeastern University, 206
 * Junyang Cai, University of Southern California, 2024/2025
   * [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://www.ijcai.org/proceedings/2025/286), IJCAI'25
   * [Gala: Global LLM Agents for Text-to-Model Translation](https://arxiv.org/abs/2509.08970), NeurIPS'25
