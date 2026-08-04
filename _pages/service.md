@@ -25,7 +25,7 @@ author_profile: true
 - [[RecSys] Recommender Systems](https://recsys.acm.org) 2022 - present
 - [[SDM] SIAM International Conference on Data Mining](https://www.siam.org) 2022 - present
 - [[KDD] Knowledge Discovery and Data Mining](https://www.kdd.org) 2020 - present
-- **Journal Reviews:** Constraints, JAIR, INFORMS, IJOR, EJOR
+- **Journal Reviews:** AI Magazine, Constraints, JAIR, JMLR, INFORMS, IJOR, EJOR, TMLR
 
 
 ## Outreach
