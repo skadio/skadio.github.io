@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Serdar Kadıoğlu"
 title_separator          : "-"
 name                     : "Serdar Kadıoğlu"
-description              : "VP of AI at Fidelity Investments | Professor at Brown University | Enterprise AI Strategy | Digital Transformation | Innovation | Open Source AI | Research to Production | Applied AI"
+description              : "Group VP of AI at Fidelity Investments | Professor at Brown University | Enterprise AI Strategy | Digital Transformation | Innovation | Open Source AI | Research to Production | Applied AI"
 url                      : https://skadio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skadio.github.io" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -71,7 +71,7 @@ social:
   links:
     - "https://github.com/skadio"
     - "https://www.linkedin.com/in/serdark/"
-    - "https://scholar.google.com/citations?user=tOgYtHkAAAAJ"
+    - "https://scholar.google.com/citations?hl=en&user=tOgYtHkAAAAJ&view_op=list_works&sortby=pubdate"
     - "https://www.youtube.com/playlist?list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz"
 
 
