@@ -12,6 +12,8 @@ author_profile: true
 ---
 
 ### 2026
+* **[LLM Assistants @ IJCAI]** `Invited Tutorial`\
+   [LLM Modeling Copilots](https://sites.google.com/view/ijcai26-llm-con), August, Bremen, Germany [[slides]](https://drive.google.com/uc?export=download&id=1r9ai1lO_pUFf7laNkZl8NfC-p-9_m2nQ)
 * **[Enterprise AI @ Cornell]** `Invited Talk`\
    [Enterprise AI with Open-Source Foundations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_Cornell_Enterprise_AI_Kadioglu.pdf), July, Cornell University, USA
 * **[Doctoral Programme @ CP/SAT]** `Invited Talk`\
