@@ -17,13 +17,13 @@ author_profile: true
 * **[Enterprise AI @ Cornell]** `Invited Talk`\
    [Enterprise AI with Open-Source Foundations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_Cornell_Enterprise_AI_Kadioglu.pdf), July, Cornell University, USA
 * **[Doctoral Programme @ CP/SAT]** `Invited Talk`\
-  [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
+  [A Dual Academic-Industry Perspective on Enterprise AI](https://satcpdp26.github.io/#speakers), CP/SAT Doctoral Programme, July, Lisbon, Portugal [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CP_Career_Kadioglu.pdf)
 * **[Foundational Models @ RBC]** `Distinguished Speaker`\
-  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal
+  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), RBC Borealis & Mila AI Institute, June, Montreal, Canada
 * **[Foundational Models @ École Polytechnique]** `Invited Talk`\
-  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), École Polytechnique, June, Paris, [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
+  [Forge: Foundational Optimization Representation from Graph Embeddings](https://luma.com/rbc-7j5y), École Polytechnique, June, Paris, France [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_USC_Forge_Kadioglu.pdf), [[YouTube]](https://youtu.be/TbhMTlekcoI?si=vHRKg08Y6V04-fQ-)
 * **[Fine-Tuning SLMs @ CPAIOR]** `Invited Session`\
-  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Morocco, [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
+  [Master Class on LLMs for CP/OR](https://sites.google.com/view/cpaior2026/program/master-class), May, Rabat, Morocco [CPAIOR'26](https://sites.google.com/view/cpaior2026/organisation), [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2026_CPAIOR_Text2Model_Kadioglu.pdf)
 * **[AI in Business @ Harvard]** `Invited Panelist`\
   [Harvard AI Forum](https://www.linkedin.com/posts/globalturksai_the-2nd-annual-harvard-ai-forum-brought-together-activity-7450176572218769408-jQne/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAs1oaABhCYR2_8hM9O5QtQpAdNpPL2hx5w), April, Boston, USA
 * **[Enterprise AI @ Amherst]** `Invited Talk`\
@@ -43,10 +43,10 @@ author_profile: true
    [Replicable Research](https://meetings.informs.org/wordpress/annual/workshop-on-replicability/), October, Atlanta, INFORMS, USA
 
 * **[Online Learning @ IJCAI]** `Best Paper Nominee`\
-   [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada, [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
+   [Balans: Bandit-based Adaptive Large-Neighborhood Search](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IJCAI_Balans_Kadioglu.pdf), August, Montreal, Canada [[IJCAI'25]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2632.pdf)
 
 * **[Generative AI @ CORS]** `Plenary Talk`\
-   [Decision Making in the Era of Large-Language Models](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada, [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
+   [Decision Making in the Era of Large-Language Models](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_CORS_Ner2Zinc_Kadioglu.pdf), June, Alberta, Canada [[CORS'25]](https://site.pheedloop.com/event/cors2025/program/plenary-talks)
 
 * **[Open Source AI @ TechWeek]** `Invited Panelist`\
    [Business Impact with Open-Source AI](https://partiful.com/e/rbVsVPeTFoekgmfeFl7x), June, New York City
@@ -55,10 +55,10 @@ author_profile: true
    [Toward Modelling Assistants: An Overview of Ner4Opt and Text2Zinc](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_ICS_Ner2Zinc_Kadioglu.pdf), March, Toronto, Canada, [[ICS'25]](https://symposia.gerad.ca/ICS2025/en/schedule?slot_id=2407), [[YouTube]](https://www.youtube.com/watch?v=mWDapm_CNxQ&list=PL3kNflhPEzie9ivF8N_Z3Ac4d4Sum8iVz)
 
 * **[Explainable AI @ AAAI]** `Innovative Applications`\
-   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia
+   [BoolXAI: Explainable AI using Expressive Boolean Formulas](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_IAAI_BoolXAI_Kadioglu.pdf), February, Philadelphia, USA
 
 * **[Decision Science @ AAAI]** `Invited Talk`\
-   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_AAAI_Decision_Science_Kadioglu.pdf), February, Philadelphia
+   [Advancing Decision Science: Lessons Learned from Machine Learning Community](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_AAAI_Decision_Science_Kadioglu.pdf), February, Philadelphia, USA
    
 * **[Text2Zinc @ AAAI]** `Invited Talk`\
    [Text2Zinc: A Cross-Domain Dataset for LLM Assistants](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/skadio/skadio.github.io/master/files/2025_AAAI_Text2Zinc_Kadioglu.pdf), February, Philadelphia
