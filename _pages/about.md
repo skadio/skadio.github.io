@@ -10,9 +10,9 @@ redirect_from:
 
 ---
 
-Hi! I'm Serdar, Group VP of Artificial Intelligence in the AI Center of Excellence at **Fidelity Investments** and an Adjunct Associate Professor in the Department of Computer Science at **Brown University**. Previously, I led applied AI research at **Oracle** and product development at **Adobe**.
+Hi! I'm Serdar, Chief AI officer at **Northwestern Mutual** and an Adjunct Associate Professor in the Department of Computer Science at **Brown University**. As a founding member of the AI Center at **Fidelity Investments**, I led the enterprise AI strategy, innovation, and execution. My earlier career includes leading applied research at **Oracle** and product development at **Adobe**. 
 
-I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading [cutting-edge research](https://skadio.github.io/publications/) and delivering [production-ready AI solutions](https://skadio.github.io/software/) with measurable business impact. Proven success in **building and scaling global AI teams** across financial and technical domains. Established **strategic partnerships** with leading institutions across academia and industry, including Harvard, CMU, Amazon, and NVIDIA. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
+I specialize in driving **enterprise-scale AI strategy and transformation** through AI-native leadership. Leading [cutting-edge research](https://skadio.github.io/publications/) and delivering [production-ready AI solutions](https://skadio.github.io/software/) with measurable business impact. Proven success in **building and scaling global AI teams** across financial and technical sectors. Established **strategic partnerships** with leading institutions across academia and industry, including Harvard, CMU, Amazon, and NVIDIA. Recognized thought leader and frequent [keynote speaker](https://skadio.github.io/talks/) on Applied AI. 
 
 Explore more in:
 
@@ -25,7 +25,7 @@ Explore more in:
 My [algorithmic research](https://skadio.github.io/publications/) is at the intersection of AI and Optimization, while my [practical interests](https://skadio.github.io/software/) are in building robust, scalable, data-driven products that solve business-critical problems. 
 --> 
 
-Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and senior member for AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar research organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
+Alongside my industry role, I [actively contribute](https://skadio.github.io/service/) to the AI research community as a co-chair, editor, and senior member of AAAI, IJCAI, ECAI, ICLR, NeurIPS, and similar organizations. [Teaching and learning](https://skadio.github.io/teaching/) from students are integral to my work. 
 
 <!-- 
 ### 📣 Let's Connect
@@ -39,12 +39,12 @@ Whether you're driving AI transformation in your organization, exploring researc
 
 Leading applied AI groups with highly skilled scientists and architecting **Enterprise AI** platforms and products that power:  
 
-* Recommender systems for personalization
-* Agentic workflows (voice & text)
-* Content generation and marketing optimization
-* Document intelligence
-* Lead generation and call routing
 * Copilot experiences
+* Agentic workflows (voice & text)
+* Recommender systems for personalization
+* Content generation and marketing optimization
+* Document intelligence for automation
+* Lead generation, call routing, and service
 
 Advocate of **Responsible AI**, model governance, and cross-functional collaboration. Committed to **open-source innovation**, talent development, executive education, and strategic partnerships across industry, academia and public sector.
 
