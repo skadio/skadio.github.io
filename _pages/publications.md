@@ -27,6 +27,7 @@ author_profile: true
 ---
 ## Enterprise AI Strategy
 * `Wired Magazine 2026` [Deep Tech](https://www.wired.com.tr/deep-tech-nesil-h) (in Turkish)
+* `INFORMS Analytics` [Modeling Copilots: LLMs for Text-to-Model Translation](https://pubsonline.informs.org/do/10.1287/LYTX.2026.03.17/full/)
 * `AI Magazine 2025` [Open-source AI at Scale: Establishing an Enterprise AI Strategy through Modular Framework](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70032)
 * `IAAI 2025` [Special Issue on Innovative Applications of AI](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70027)
 * `AAAI 2024` [Advancing Decision Science: Lessons from the Machine Learning Community](https://osullivan.ucc.ie/CPML2025/papers/kadioglu.pdf)
